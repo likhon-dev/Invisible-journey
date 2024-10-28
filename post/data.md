@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 14:14:21 UTC
+**Last updated:** 2024-10-28 15:16:19 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68878 USD
-  - Market Cap: $1362107478513.8093 USD
-  - 24h Volume: $26064714109.483982 USD
-  - 24h Change: 1.9876713258254006%
+- **Bitcoin (BTC)**: $68659 USD
+  - Market Cap: $1357385326298.1438 USD
+  - 24h Volume: $26439905336.94918 USD
+  - 24h Change: 1.4525422860558623%
 
-- **Ethereum (ETH)**: $2519.4 USD
-  - Market Cap: $303686018893.37036 USD
-  - 24h Volume: $13645855497.636147 USD
-  - 24h Change: 1.461976737549924%
+- **Ethereum (ETH)**: $2514.12 USD
+  - Market Cap: $302839569532.32294 USD
+  - 24h Volume: $12477137073.751558 USD
+  - 24h Change: 0.8494835985271587%
 
 ## Trending Coins
+- **Grass (GRASS)**
+  - Market Cap Rank: 312
+  - Price (BTC): 9.865982506126302e-06
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025409121049437787
+  - Price (BTC): 0.002537808012972989
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 305
-  - Price (BTC): 2.1441922720612027e-11
+  - Market Cap Rank: 303
+  - Price (BTC): 2.1530786053764533e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 277
-  - Price (BTC): 6.620497073976782e-05
+  - Market Cap Rank: 284
+  - Price (BTC): 6.341375673524498e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.3474933657611444e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 123
-  - Price (BTC): 9.296728724400114e-06
+  - Market Cap Rank: 122
+  - Price (BTC): 9.384525676101207e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 627
-  - Price (BTC): 1.8367208638347138e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.4532141771329117e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.5041282933529877e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 184
-  - Price (BTC): 5.513143976789216e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.301118640046623e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 263
-  - Price (BTC): 4.932628581226389e-10
+  - Price (BTC): 4.905766099286661e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 349
-  - Price (BTC): 1.0700466145300676e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 186
+  - Price (BTC): 5.4323074164538465e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 90
-  - Price (BTC): 4.8103634750709964e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Sui (SUI)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.4058348412002092e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.135331797615346e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 61
-  - Price (BTC): 2.2148487755971936e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **TARS AI (TAI)**
+  - Market Cap Rank: 628
+  - Price (BTC): 1.856291677999483e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03652902596676985
+  - Price (BTC): 0.03662877918215725
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.4875291524137937e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.1769288923261387e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 90
+  - Price (BTC): 4.853274621840683e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
