@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 07:14:49 UTC
+**Last updated:** 2024-10-28 08:19:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68172 USD
-  - Market Cap: $1347457995583.1768 USD
-  - 24h Volume: $18930984444.31432 USD
-  - 24h Change: 1.5351186733106783%
+- **Bitcoin (BTC)**: $68476 USD
+  - Market Cap: $1353657655203.9353 USD
+  - 24h Volume: $21169286653.286488 USD
+  - 24h Change: 1.9843533890804084%
 
-- **Ethereum (ETH)**: $2501.46 USD
-  - Market Cap: $300817654243.535 USD
-  - 24h Volume: $10972617502.199713 USD
-  - 24h Change: 0.8960032481791492%
+- **Ethereum (ETH)**: $2514.49 USD
+  - Market Cap: $302768050059.3241 USD
+  - 24h Volume: $11874232279.048923 USD
+  - 24h Change: 1.4380502416075052%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 621
-  - Price (BTC): 8.958680585376314e-11
+  - Market Cap Rank: 624
+  - Price (BTC): 8.938741940434136e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.1060986691242286e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 136
-  - Price (BTC): 8.62658131978113e-06
+  - Market Cap Rank: 129
+  - Price (BTC): 9.199145612766048e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.5165725090828888e-05
+  - Price (BTC): 2.5426085383652527e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 626
-  - Price (BTC): 1.894845506774666e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 170
-  - Price (BTC): 6.440303030194697e-06
+  - Market Cap Rank: 171
+  - Price (BTC): 6.044449845608485e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **TARS AI (TAI)**
+  - Market Cap Rank: 629
+  - Price (BTC): 1.8975033508026926e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002569403002371758
+  - Price (BTC): 0.002571381767904034
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.2984978205190662e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 114
+  - Price (BTC): 2.425626420213828e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.0983579816194102e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 275
-  - Price (BTC): 3.11359609610276e-06
+  - Market Cap Rank: 270
+  - Price (BTC): 3.2625342810028836e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Raydium (RAY)**
   - Market Cap Rank: 90
-  - Price (BTC): 4.8413983395453704e-05
+  - Price (BTC): 4.869547865821056e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 116
-  - Price (BTC): 2.3360214109695353e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 381
+  - Price (BTC): 7.03198169551622e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
 
 - **Scroll (SCR)**
-  - Market Cap Rank: 341
-  - Price (BTC): 1.121784134148869e-05
+  - Market Cap Rank: 345
+  - Price (BTC): 1.1201866530275563e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 297
-  - Price (BTC): 5.7652955844156615e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 217
-  - Price (BTC): 1.4634943166024106e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+- **Aptos (APT)**
+  - Market Cap Rank: 27
+  - Price (BTC): 0.000133139400998151
+  - [More Info](https://www.coingecko.com/en/coins/aptos)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.4631255666589688e-05
+  - Price (BTC): 1.4799171952433658e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 ## Posts
