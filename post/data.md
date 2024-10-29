@@ -1,47 +1,42 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 03:22:05 UTC
+**Last updated:** 2024-10-29 04:18:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71302 USD
-  - Market Cap: $1410084051580.8647 USD
-  - 24h Volume: $38773184407.62946 USD
-  - 24h Change: 5.0573715133861175%
+- **Bitcoin (BTC)**: $71025 USD
+  - Market Cap: $1402928495047.1006 USD
+  - 24h Volume: $50207728689.20023 USD
+  - 24h Change: 4.861903788552348%
 
-- **Ethereum (ETH)**: $2616.13 USD
-  - Market Cap: $314978770142.4786 USD
-  - 24h Volume: $21841335159.91686 USD
-  - 24h Change: 5.076748532364005%
+- **Ethereum (ETH)**: $2615.07 USD
+  - Market Cap: $314922957214.983 USD
+  - 24h Volume: $22789196998.53933 USD
+  - 24h Change: 5.43809285781853%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 285
-  - Price (BTC): 1.1894852862182754e-05
+  - Market Cap Rank: 289
+  - Price (BTC): 1.1591506784693554e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.6711210516499292e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **TARS AI (TAI)**
-  - Market Cap Rank: 632
-  - Price (BTC): 1.8519835701755807e-06
+  - Market Cap Rank: 623
+  - Price (BTC): 1.9031375896752787e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.338851021791556e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 130
-  - Price (BTC): 8.814665365480158e-06
+  - Price (BTC): 8.891033785039972e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.6483017871134748e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025332331974131993
+  - Price (BTC): 0.002568195253870322
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
@@ -49,45 +44,50 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 289
-  - Price (BTC): 6.182519552738389e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3529823001332822e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 60
-  - Price (BTC): 2.3363942324213973e-05
+  - Price (BTC): 2.3714321057074207e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 105
-  - Price (BTC): 2.7375680931962842e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.3335457864186124e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 356
-  - Price (BTC): 1.0346335279929947e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 171
-  - Price (BTC): 6.056582883845505e-06
+  - Price (BTC): 5.994389770857775e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 42
-  - Price (BTC): 3.615886141024536e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 288
+  - Price (BTC): 6.268263306189359e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.3444860501833304e-10
+  - Price (BTC): 1.3385212670748877e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 93
+  - Price (BTC): 1.33357022744871e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03683203611786565
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 392
+  - Price (BTC): 6.834044789570225e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.5140406903246722e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 ## Posts
 - **Post ID: 1**
