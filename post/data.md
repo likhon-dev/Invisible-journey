@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 16:18:53 UTC
+**Last updated:** 2024-10-29 17:13:18 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72482 USD
-  - Market Cap: $1432604744773.9844 USD
-  - 24h Volume: $58885906869.04243 USD
-  - 24h Change: 5.375476066762253%
+- **Bitcoin (BTC)**: $72881 USD
+  - Market Cap: $1440253520108.248 USD
+  - 24h Volume: $62219246963.286125 USD
+  - 24h Change: 6.342766773323072%
 
-- **Ethereum (ETH)**: $2647.48 USD
-  - Market Cap: $319391502805.01276 USD
-  - 24h Volume: $22809647952.13499 USD
-  - 24h Change: 5.366437868508267%
+- **Ethereum (ETH)**: $2675.84 USD
+  - Market Cap: $321542456815.378 USD
+  - 24h Volume: $23874102264.467793 USD
+  - 24h Change: 6.951206917816583%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 797
-  - Price (BTC): 5.239745656691223e-07
+  - Market Cap Rank: 796
+  - Price (BTC): 5.273559667145541e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 266
-  - Price (BTC): 1.3347186452766663e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 707
-  - Price (BTC): 5.1540775039690755e-11
+  - Market Cap Rank: 712
+  - Price (BTC): 5.197839486291641e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 273
-  - Price (BTC): 4.750302555190839e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Grass (GRASS)**
+  - Market Cap Rank: 264
+  - Price (BTC): 1.4013872670650994e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 304
+  - Price (BTC): 2.2353179695171665e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 305
-  - Price (BTC): 2.2274770665298473e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.808653050391651e-05
+  - Market Cap Rank: 21
+  - Price (BTC): 2.8239843339700918e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **CHEX Token (CHEX)**
-  - Market Cap Rank: 219
-  - Price (BTC): 4.304973843662613e-06
-  - [More Info](https://www.coingecko.com/en/coins/chex-token)
 
 - **AI Companions (AIC)**
   - Market Cap Rank: 467
-  - Price (BTC): 1.440735770029025e-06
+  - Price (BTC): 1.4565490618045222e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.4066497187386188e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002504470153165346
+  - Price (BTC): 0.0025083420163153304
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.449278720601494e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.4449435942992326e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **CHEX Token (CHEX)**
+  - Market Cap Rank: 220
+  - Price (BTC): 4.272704595862334e-06
+  - [More Info](https://www.coingecko.com/en/coins/chex-token)
+
+- **mETH Protocol (COOK)**
+  - Market Cap Rank: 932
+  - Price (BTC): 4.0756392855102377e-07
+  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 299
+  - Price (BTC): 5.9110129458632326e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 114
-  - Price (BTC): 9.992247090334715e-06
+  - Market Cap Rank: 117
+  - Price (BTC): 9.83216370760759e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.2613799515803805e-05
+  - Market Cap Rank: 98
+  - Price (BTC): 1.2494932071116719e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **mETH Protocol (COOK)**
-  - Market Cap Rank: 982
-  - Price (BTC): 3.7855578774748555e-07
-  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 355
-  - Price (BTC): 1.0563573047355579e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 ## Posts
 - **Post ID: 1**
