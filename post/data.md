@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 05:15:06 UTC
+**Last updated:** 2024-10-30 06:37:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72346 USD
-  - Market Cap: $1430363240286.5657 USD
-  - 24h Volume: $58882744408.77652 USD
-  - 24h Change: 1.9532090802216573%
+- **Bitcoin (BTC)**: $72403 USD
+  - Market Cap: $1431578136488.9077 USD
+  - 24h Volume: $54910932444.10495 USD
+  - 24h Change: 1.7734990660842256%
 
-- **Ethereum (ETH)**: $2643.47 USD
-  - Market Cap: $318008718633.4316 USD
-  - 24h Volume: $20556325433.38275 USD
-  - 24h Change: 1.0226427552761894%
+- **Ethereum (ETH)**: $2668.98 USD
+  - Market Cap: $321322556504.7777 USD
+  - 24h Volume: $21159335165.83713 USD
+  - 24h Change: 1.9178194856685953%
 
 ## Trending Coins
-- **AI Companions (AIC)**
-  - Market Cap Rank: 452
-  - Price (BTC): 1.5661035703073406e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 280
-  - Price (BTC): 1.2943959045080448e-05
+  - Market Cap Rank: 281
+  - Price (BTC): 1.2800257788305167e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 798
-  - Price (BTC): 5.223165011720805e-07
+  - Market Cap Rank: 799
+  - Price (BTC): 5.228971997871841e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8569713909581313e-05
+  - Price (BTC): 2.8679003626674845e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002502477803447536
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
 - **Celestia (TIA)**
-  - Market Cap Rank: 74
-  - Price (BTC): 7.081695150177573e-05
+  - Market Cap Rank: 76
+  - Price (BTC): 7.022727281248983e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 126
-  - Price (BTC): 9.29789049366495e-06
+  - Market Cap Rank: 132
+  - Price (BTC): 8.957547190799942e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.2065377347219625e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002479363828045015
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.036533695195313784
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 272
+  - Price (BTC): 3.2942314496869287e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.7513673208969314e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.4180413803345447e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **mETH Protocol (COOK)**
-  - Market Cap Rank: 971
-  - Price (BTC): 3.862634467637201e-07
-  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.555799742212874e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.4551853602564733e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.43886266921883e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 37
+  - Price (BTC): 1.5460473840438645e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Aptos (APT)**
-  - Market Cap Rank: 26
-  - Price (BTC): 0.00013865200687653757
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
+- **mETH Protocol (COOK)**
+  - Market Cap Rank: 1001
+  - Price (BTC): 3.703210823821215e-07
+  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3231452249941342e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036875934235652996
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 363
+  - Price (BTC): 8.061208430642988e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
 
 ## Posts
 - **Post ID: 1**
