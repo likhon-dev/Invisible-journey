@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 06:37:00 UTC
+**Last updated:** 2024-10-30 07:14:20 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72403 USD
-  - Market Cap: $1431578136488.9077 USD
-  - 24h Volume: $54910932444.10495 USD
-  - 24h Change: 1.7734990660842256%
+- **Bitcoin (BTC)**: $72391 USD
+  - Market Cap: $1431588036831.2214 USD
+  - 24h Volume: $55436938353.04651 USD
+  - 24h Change: 2.12890506874474%
 
-- **Ethereum (ETH)**: $2668.98 USD
-  - Market Cap: $321322556504.7777 USD
-  - 24h Volume: $21159335165.83713 USD
-  - 24h Change: 1.9178194856685953%
+- **Ethereum (ETH)**: $2663.22 USD
+  - Market Cap: $320439771323.8791 USD
+  - 24h Volume: $21183527651.35024 USD
+  - 24h Change: 2.110892072786751%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 281
-  - Price (BTC): 1.2800257788305167e-05
+  - Market Cap Rank: 289
+  - Price (BTC): 1.1934607936980648e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 799
-  - Price (BTC): 5.228971997871841e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8679003626674845e-05
+  - Price (BTC): 2.8800774679993828e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 799
+  - Price (BTC): 5.309706319833193e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 76
-  - Price (BTC): 7.022727281248983e-05
+  - Price (BTC): 7.028034212066911e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 132
-  - Price (BTC): 8.957547190799942e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002479363828045015
+  - Price (BTC): 0.0024699240566311126
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 272
-  - Price (BTC): 3.2942314496869287e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.4180413803345447e-06
+  - Price (BTC): 2.4110947730252425e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.4551853602564733e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 277
+  - Price (BTC): 3.19600030744399e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5460473840438645e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **mETH Protocol (COOK)**
-  - Market Cap Rank: 1001
-  - Price (BTC): 3.703210823821215e-07
-  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3231452249941342e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036875934235652996
+  - Price (BTC): 0.03677405517174254
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **DeepBook (DEEP)**
-  - Market Cap Rank: 363
-  - Price (BTC): 8.061208430642988e-07
-  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 326
+  - Price (BTC): 5.053955793614719e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.4416463643473427e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 37
+  - Price (BTC): 1.5458498072332456e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 133
+  - Price (BTC): 8.810598676651009e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 79
+  - Price (BTC): 5.357132239640946e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.9954581945393816e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 ## Posts
 - **Post ID: 1**
