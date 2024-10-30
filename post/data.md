@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 09:15:45 UTC
+**Last updated:** 2024-10-30 10:16:25 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72392 USD
-  - Market Cap: $1431187524173.5237 USD
-  - 24h Volume: $57972017649.396416 USD
-  - 24h Change: 1.6951907182924972%
+- **Bitcoin (BTC)**: $72551 USD
+  - Market Cap: $1433845857971.123 USD
+  - 24h Volume: $58086248665.68134 USD
+  - 24h Change: 2.0030967740345385%
 
-- **Ethereum (ETH)**: $2669.72 USD
-  - Market Cap: $321021812173.39734 USD
-  - 24h Volume: $21450291621.896072 USD
-  - 24h Change: 1.856017835493317%
+- **Ethereum (ETH)**: $2691.52 USD
+  - Market Cap: $324077614820.0528 USD
+  - 24h Volume: $22439408296.875244 USD
+  - 24h Change: 2.808920524764684%
 
 ## Trending Coins
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 591
-  - Price (BTC): 7.119042239379752e-11
+  - Market Cap Rank: 604
+  - Price (BTC): 6.934486878212568e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 290
-  - Price (BTC): 1.1791339539285908e-05
+  - Market Cap Rank: 293
+  - Price (BTC): 1.1747687063531324e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 791
+  - Price (BTC): 5.377338053625025e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.830786178880914e-05
+  - Price (BTC): 2.8114299903965366e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 794
-  - Price (BTC): 5.256585220728788e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 136
-  - Price (BTC): 8.523558280855437e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 280
-  - Price (BTC): 3.1029556103357638e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
 - **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5261027724460941e-06
+  - Market Cap Rank: 39
+  - Price (BTC): 1.4927293227091936e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Celestia (TIA)**
-  - Market Cap Rank: 76
-  - Price (BTC): 6.959901198429398e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002464178346161805
+  - Price (BTC): 0.0024520401340862408
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 340
-  - Price (BTC): 3.051886380000895e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+- **Celestia (TIA)**
+  - Market Cap Rank: 76
+  - Price (BTC): 6.908844803954752e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3681134341660143e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Luce (LUCE)**
+  - Market Cap Rank: 515
+  - Price (BTC): 1.1982473770925998e-06
+  - [More Info](https://www.coingecko.com/en/coins/luce)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.2455033331564966e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 140
+  - Price (BTC): 8.42525059693401e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Sei (SEI)**
+  - Market Cap Rank: 62
+  - Price (BTC): 5.694155740943817e-06
+  - [More Info](https://www.coingecko.com/en/coins/sei)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03686933354821756
+  - Price (BTC): 0.037039017689641775
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 281
+  - Price (BTC): 3.113962710677855e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.353070602224532e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Wen ($WEN)**
-  - Market Cap Rank: 449
-  - Price (BTC): 1.9369207339167582e-09
+  - Market Cap Rank: 452
+  - Price (BTC): 1.927491825403915e-09
   - [More Info](https://www.coingecko.com/en/coins/wen-solana)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.2128891628178348e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
