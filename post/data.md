@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 08:21:21 UTC
+**Last updated:** 2024-10-30 09:15:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72500 USD
-  - Market Cap: $1433635370383.6658 USD
-  - 24h Volume: $48243585230.51534 USD
-  - 24h Change: 2.1251551716402073%
+- **Bitcoin (BTC)**: $72392 USD
+  - Market Cap: $1431187524173.5237 USD
+  - 24h Volume: $57972017649.396416 USD
+  - 24h Change: 1.6951907182924972%
 
-- **Ethereum (ETH)**: $2679.12 USD
-  - Market Cap: $322410921522.934 USD
-  - 24h Volume: $21637688358.9138 USD
-  - 24h Change: 2.4627490189558987%
+- **Ethereum (ETH)**: $2669.72 USD
+  - Market Cap: $321021812173.39734 USD
+  - 24h Volume: $21450291621.896072 USD
+  - 24h Change: 1.856017835493317%
 
 ## Trending Coins
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 591
+  - Price (BTC): 7.119042239379752e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 289
-  - Price (BTC): 1.2082583892439365e-05
+  - Market Cap Rank: 290
+  - Price (BTC): 1.1791339539285908e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8585377730692965e-05
+  - Price (BTC): 2.830786178880914e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 280
-  - Price (BTC): 3.1324095369765038e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024738375532562065
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Phil (PHIL)**
+  - Market Cap Rank: 794
+  - Price (BTC): 5.256585220728788e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 136
-  - Price (BTC): 8.566333746047966e-06
+  - Price (BTC): 8.523558280855437e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 280
+  - Price (BTC): 3.1029556103357638e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 37
-  - Price (BTC): 1.5291446999819148e-06
+  - Price (BTC): 1.5261027724460941e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3915631868186317e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 636
-  - Price (BTC): 2.5687646321648787e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 795
-  - Price (BTC): 5.327682360199931e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 76
-  - Price (BTC): 6.98530052328635e-05
+  - Price (BTC): 6.959901198429398e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 360
-  - Price (BTC): 1.04614508500682e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002464178346161805
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 320
-  - Price (BTC): 5.1888742318569584e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 340
+  - Price (BTC): 3.051886380000895e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3681134341660143e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03696473975652373
+  - Price (BTC): 0.03686933354821756
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pixels (PIXEL)**
-  - Market Cap Rank: 362
-  - Price (BTC): 2.536295018578745e-06
-  - [More Info](https://www.coingecko.com/en/coins/pixels)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 69
-  - Price (BTC): 2.0373200158173964e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Wen ($WEN)**
+  - Market Cap Rank: 449
+  - Price (BTC): 1.9369207339167582e-09
+  - [More Info](https://www.coingecko.com/en/coins/wen-solana)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.2128891628178348e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
