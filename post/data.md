@@ -1,57 +1,52 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 23:14:22 UTC
+**Last updated:** 2024-10-30 01:09:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72557 USD
-  - Market Cap: $1435165542663.5723 USD
-  - 24h Volume: $55543854580.7974 USD
-  - 24h Change: 3.792341497360513%
+- **Bitcoin (BTC)**: $72041 USD
+  - Market Cap: $1425019854615.1184 USD
+  - 24h Volume: $66451525146.55714 USD
+  - 24h Change: 3.098273129112464%
 
-- **Ethereum (ETH)**: $2632.75 USD
-  - Market Cap: $316956101815.66016 USD
-  - 24h Volume: $19890031844.76745 USD
-  - 24h Change: 2.499409054391265%
+- **Ethereum (ETH)**: $2610.72 USD
+  - Market Cap: $315278481173.74695 USD
+  - 24h Volume: $22998562686.636433 USD
+  - 24h Change: 1.1783128451528255%
 
 ## Trending Coins
 - **AI Companions (AIC)**
-  - Market Cap Rank: 457
-  - Price (BTC): 1.5225648311466174e-06
+  - Market Cap Rank: 449
+  - Price (BTC): 1.571225805192327e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 719
-  - Price (BTC): 5.1246906361479855e-11
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
-
 - **Phil (PHIL)**
-  - Market Cap Rank: 813
-  - Price (BTC): 5.111665450601305e-07
+  - Market Cap Rank: 797
+  - Price (BTC): 5.219839707000092e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 265
-  - Price (BTC): 1.3605357246140008e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 712
+  - Price (BTC): 5.168982913311376e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 306
-  - Price (BTC): 2.180962347932099e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Grass (GRASS)**
+  - Market Cap Rank: 264
+  - Price (BTC): 1.3832349584718995e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8350181379637964e-05
+  - Price (BTC): 2.891541295284203e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 276
-  - Price (BTC): 4.689993373468055e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002466610692235423
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 129
-  - Price (BTC): 8.994856314904836e-06
+  - Market Cap Rank: 127
+  - Price (BTC): 9.249088680414702e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
@@ -59,35 +54,40 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002470654753461975
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 303
-  - Price (BTC): 5.6418259393836374e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Turbo (TURBO)**
-  - Market Cap Rank: 133
-  - Price (BTC): 1.2813433896762263e-07
-  - [More Info](https://www.coingecko.com/en/coins/turbo)
-
-- **CHEX Token (CHEX)**
-  - Market Cap Rank: 219
-  - Price (BTC): 4.276076560194337e-06
-  - [More Info](https://www.coingecko.com/en/coins/chex-token)
-
 - **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.4051064850101544e-06
+  - Market Cap Rank: 8
+  - Price (BTC): 2.4160819098163657e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.358111152223676e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 37
-  - Price (BTC): 1.5428950811440732e-06
+  - Price (BTC): 1.5521101531016846e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 305
+  - Price (BTC): 5.678369444436085e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 360
+  - Price (BTC): 1.0415635804787992e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **CHEX Token (CHEX)**
+  - Market Cap Rank: 219
+  - Price (BTC): 4.28317195394148e-06
+  - [More Info](https://www.coingecko.com/en/coins/chex-token)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 321
+  - Price (BTC): 3.2833630938212053e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
 ## Posts
 - **Post ID: 1**
