@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-31 03:23:00 UTC
+**Last updated:** 2024-10-31 04:18:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72462 USD
-  - Market Cap: $1434829024638.689 USD
-  - 24h Volume: $43487241042.68313 USD
-  - 24h Change: 0.31381513711429015%
+- **Bitcoin (BTC)**: $72335 USD
+  - Market Cap: $1430438789844.6768 USD
+  - 24h Volume: $40880483116.37658 USD
+  - 24h Change: 0.14174998699098523%
 
-- **Ethereum (ETH)**: $2659.96 USD
-  - Market Cap: $320299522632.00696 USD
-  - 24h Volume: $22393533659.939056 USD
-  - 24h Change: 1.1290251458162563%
+- **Ethereum (ETH)**: $2655.76 USD
+  - Market Cap: $319773080975.4225 USD
+  - 24h Volume: $22077099192.48601 USD
+  - 24h Change: 0.5336181016929599%
 
 ## Trending Coins
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 603
-  - Price (BTC): 6.866562084407568e-11
+  - Market Cap Rank: 616
+  - Price (BTC): 6.618104867906322e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 859
-  - Price (BTC): 0.0004897549154720808
+  - Market Cap Rank: 884
+  - Price (BTC): 0.00045353907782656055
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 265
-  - Price (BTC): 1.4002932845529396e-05
+  - Price (BTC): 1.3926134932481616e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.8438489460121265e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024259833714847866
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Phil (PHIL)**
+  - Market Cap Rank: 783
+  - Price (BTC): 5.3995639385345e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 56
-  - Price (BTC): 6.416837514771378e-05
+  - Price (BTC): 6.47256659059846e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 144
-  - Price (BTC): 8.148067477013286e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 99
+  - Price (BTC): 1.6862288187258832e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.2018534562806361e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.85481794180059e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Luce (LUCE)**
-  - Market Cap Rank: 650
-  - Price (BTC): 7.65629753417476e-07
+  - Market Cap Rank: 595
+  - Price (BTC): 9.238671071276657e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024132564841078457
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 142
+  - Price (BTC): 8.186453418318175e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036719468373901096
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 35
-  - Price (BTC): 1.609886661428154e-06
+  - Price (BTC): 1.620827676207746e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Alien Base (ALB)**
-  - Market Cap Rank: 904
-  - Price (BTC): 3.9166355754415285e-06
-  - [More Info](https://www.coingecko.com/en/coins/alienbase)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 104
+  - Price (BTC): 1.1910649758366985e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 267
-  - Price (BTC): 3.3363463021598213e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 98
+  - Price (BTC): 2.9455144826215554e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3589872556139437e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 9.97264316525549e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 319
-  - Price (BTC): 1.38469420382949e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
