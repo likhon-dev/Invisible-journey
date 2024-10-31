@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 23:14:19 UTC
+**Last updated:** 2024-10-31 01:10:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72524 USD
-  - Market Cap: $1431343992837.0278 USD
-  - 24h Volume: $45473384232.53668 USD
-  - 24h Change: -0.0003760378025665912%
+- **Bitcoin (BTC)**: $72307 USD
+  - Market Cap: $1428748126301.4666 USD
+  - 24h Volume: $41112659538.33905 USD
+  - 24h Change: 0.293120483338828%
 
-- **Ethereum (ETH)**: $2665.92 USD
-  - Market Cap: $320802568116.82697 USD
-  - 24h Volume: $23240506233.7323 USD
-  - 24h Change: 1.309300575179363%
+- **Ethereum (ETH)**: $2664.07 USD
+  - Market Cap: $320770733025.8217 USD
+  - 24h Volume: $22693140131.71703 USD
+  - 24h Change: 2.0316780737522957%
 
 ## Trending Coins
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 655
-  - Price (BTC): 5.93980439529132e-11
+  - Market Cap Rank: 663
+  - Price (BTC): 5.7950103206527585e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 817
-  - Price (BTC): 0.0005214064482477497
+  - Market Cap Rank: 846
+  - Price (BTC): 0.0004931130898330481
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 274
-  - Price (BTC): 1.3012273001935564e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Phil (PHIL)**
-  - Market Cap Rank: 786
-  - Price (BTC): 5.41068714278915e-07
+  - Market Cap Rank: 777
+  - Price (BTC): 5.49067473740152e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.889048377408813e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Grass (GRASS)**
+  - Market Cap Rank: 266
+  - Price (BTC): 1.3625431511937608e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 56
-  - Price (BTC): 6.613896847539626e-05
+  - Price (BTC): 6.531596304233951e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.851655084339602e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024223049933398836
+  - Price (BTC): 0.0024296581968747404
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 60
+  - Price (BTC): 2.3453185263255604e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 200
+  - Price (BTC): 4.903488239980688e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 80
+  - Price (BTC): 9.981814403625985e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 36
+  - Price (BTC): 1.5743843057555649e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03686103568603436
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 104
-  - Price (BTC): 1.1649327624899398e-05
+  - Market Cap Rank: 103
+  - Price (BTC): 1.1865741695177215e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 147
-  - Price (BTC): 7.997277308551036e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.398933682230623e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5516132844816325e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Luce (LUCE)**
-  - Market Cap Rank: 589
-  - Price (BTC): 9.079756203126029e-07
-  - [More Info](https://www.coingecko.com/en/coins/luce)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 1.0043191345154065e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3445296978954006e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 231
+  - Price (BTC): 1.3834552077094545e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 ## Posts
 - **Post ID: 1**
