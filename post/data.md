@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 02:57:10 UTC
+**Last updated:** 2024-11-01 03:31:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69254 USD
-  - Market Cap: $1365540024686.856 USD
-  - 24h Volume: $49904538751.201866 USD
-  - 24h Change: -4.379659617105763%
+- **Bitcoin (BTC)**: $69564 USD
+  - Market Cap: $1375705633552.7202 USD
+  - 24h Volume: $47941692451.75951 USD
+  - 24h Change: -3.878128856018518%
 
-- **Ethereum (ETH)**: $2502.07 USD
-  - Market Cap: $300200752069.02997 USD
-  - 24h Volume: $21975334845.66244 USD
-  - 24h Change: -5.892451254117463%
+- **Ethereum (ETH)**: $2513.16 USD
+  - Market Cap: $302817954259.5211 USD
+  - 24h Volume: $21801458680.898174 USD
+  - 24h Change: -5.393685036992388%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 684
-  - Price (BTC): 0.0007142292731056428
+  - Market Cap Rank: 693
+  - Price (BTC): 0.0006885574784203072
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 723
-  - Price (BTC): 6.341338344466819e-07
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+- **Phil (PHIL)**
+  - Market Cap Rank: 758
+  - Price (BTC): 5.802486476674997e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Notcoin (NOT)**
   - Market Cap Rank: 120
-  - Price (BTC): 9.322712446609517e-08
+  - Price (BTC): 9.334369764057452e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 725
+  - Price (BTC): 6.271912546962957e-07
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 230
-  - Price (BTC): 1.590463834595104e-05
+  - Market Cap Rank: 229
+  - Price (BTC): 1.644314530595247e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.8520226565844517e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 146
+  - Price (BTC): 7.778800181123272e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 318
+  - Price (BTC): 5.2124188736629174e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024089026446821806
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.8766591211195386e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 267
-  - Price (BTC): 3.2860336461471066e-06
+  - Market Cap Rank: 263
+  - Price (BTC): 3.3295023880482155e-06
   - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 51
-  - Price (BTC): 7.049880887591226e-05
+  - Price (BTC): 7.033138247791517e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024125895970392767
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 148
-  - Price (BTC): 7.687630416863692e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3051212629117175e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 319
-  - Price (BTC): 5.16540566804035e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1381466976704037e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 62
-  - Price (BTC): 2.2249306181001576e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Aptos (APT)**
   - Market Cap Rank: 26
-  - Price (BTC): 0.00013067917423160836
+  - Price (BTC): 0.0001302825109510683
   - [More Info](https://www.coingecko.com/en/coins/aptos)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 283
+  - Price (BTC): 2.9453588177594457e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03612173323488612
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
