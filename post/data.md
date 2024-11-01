@@ -1,58 +1,58 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 14:13:39 UTC
+**Last updated:** 2024-11-01 15:15:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71356 USD
-  - Market Cap: $1408540938474.4517 USD
-  - 24h Volume: $54221345786.73238 USD
-  - 24h Change: 0.10289699139062218%
+- **Bitcoin (BTC)**: $70991 USD
+  - Market Cap: $1402673001116.6897 USD
+  - 24h Volume: $52320912386.67553 USD
+  - 24h Change: 0.35367925496952224%
 
-- **Ethereum (ETH)**: $2578.73 USD
-  - Market Cap: $308979795028.5489 USD
-  - 24h Volume: $21902974701.86822 USD
-  - 24h Change: -0.4644190487951611%
+- **Ethereum (ETH)**: $2550.84 USD
+  - Market Cap: $306909980583.11395 USD
+  - 24h Volume: $20274931279.85264 USD
+  - 24h Change: -0.44862471475263%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 287
-  - Price (BTC): 4.313638118639949e-10
+  - Market Cap Rank: 292
+  - Price (BTC): 4.1843837523830753e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 747
-  - Price (BTC): 5.832266520467748e-07
+  - Market Cap Rank: 741
+  - Price (BTC): 5.917661058688816e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 587
-  - Price (BTC): 0.0009316111901733637
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 311
-  - Price (BTC): 2.1234963683682974e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 232
-  - Price (BTC): 1.6531211469270814e-05
+  - Market Cap Rank: 233
+  - Price (BTC): 1.6317764377674308e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 625
+  - Price (BTC): 0.0008566741201794945
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.920389623811016e-05
+  - Price (BTC): 2.884886366300695e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 140
-  - Price (BTC): 8.170595411679538e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 310
+  - Price (BTC): 2.1397768376815216e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024280949568356415
+  - Price (BTC): 0.002404507195481605
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 141
+  - Price (BTC): 8.02861264598062e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -60,34 +60,34 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 53
-  - Price (BTC): 6.802385994065767e-05
+  - Market Cap Rank: 55
+  - Price (BTC): 6.683828941206853e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 262
-  - Price (BTC): 3.4131329307367334e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 592
+  - Price (BTC): 2.7916958425668677e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.2122983794958142e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 31
-  - Price (BTC): 0.0067302973275385316
+  - Price (BTC): 0.006647865507648238
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 181
-  - Price (BTC): 5.533194736945397e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 131
-  - Price (BTC): 9.091478315424352e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03613338958957539
+  - Price (BTC): 0.035921902344770856
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 180
+  - Price (BTC): 5.52893332350985e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
