@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 11:12:38 UTC
+**Last updated:** 2024-11-01 12:28:11 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70053 USD
-  - Market Cap: $1385822219148.8755 USD
-  - 24h Volume: $51903986782.75078 USD
-  - 24h Change: -3.306680487717934%
+- **Bitcoin (BTC)**: $70127 USD
+  - Market Cap: $1387788648917.1304 USD
+  - 24h Volume: $48519759949.088295 USD
+  - 24h Change: -2.697283664517119%
 
-- **Ethereum (ETH)**: $2520.54 USD
-  - Market Cap: $303394752749.37854 USD
-  - 24h Volume: $22339840079.928062 USD
-  - 24h Change: -4.55845381457312%
+- **Ethereum (ETH)**: $2519.73 USD
+  - Market Cap: $303521590590.5335 USD
+  - 24h Volume: $21715207319.29696 USD
+  - 24h Change: -4.293114806136435%
 
 ## Trending Coins
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 693
-  - Price (BTC): 0.0007059546933608434
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 280
-  - Price (BTC): 4.427743555703459e-10
+  - Price (BTC): 4.331621526282334e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 656
+  - Price (BTC): 0.0007754428253426652
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 230
-  - Price (BTC): 1.6107989955434725e-05
+  - Price (BTC): 1.5835263861071186e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 377
-  - Price (BTC): 9.631936678712991e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.7937280391834158e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002399053884819889
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.698674135535169e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 757
+  - Price (BTC): 5.733292548621975e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 52
-  - Price (BTC): 6.842555446823255e-05
+  - Price (BTC): 6.852677773885319e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 142
-  - Price (BTC): 7.876602442667315e-06
+  - Price (BTC): 7.97418995707429e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 746
-  - Price (BTC): 5.9167288087963e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 313
+  - Price (BTC): 5.37817567270742e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.7847291448334155e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Scroll (SCR)**
+  - Market Cap Rank: 376
+  - Price (BTC): 9.635757579556128e-06
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006632115125550395
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 184
-  - Price (BTC): 5.312324302413121e-06
+  - Market Cap Rank: 182
+  - Price (BTC): 5.459034694126911e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 267
-  - Price (BTC): 3.2063155475866307e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
-
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.1765822829552976e-05
+  - Market Cap Rank: 100
+  - Price (BTC): 1.2122520749485458e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 61
-  - Price (BTC): 2.278795117542497e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03598118508633097
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 225
-  - Price (BTC): 7.546429380358897e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **Immutable (IMX)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.665673571313077e-05
+  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
 
 ## Posts
 - **Post ID: 1**
