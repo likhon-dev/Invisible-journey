@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 03:18:57 UTC
+**Last updated:** 2024-11-02 04:18:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69724 USD
-  - Market Cap: $1378979254916.2986 USD
-  - 24h Volume: $48728068914.12542 USD
-  - 24h Change: 0.36298307382056066%
+- **Bitcoin (BTC)**: $69517 USD
+  - Market Cap: $1375074459775.1519 USD
+  - 24h Volume: $47404852968.68046 USD
+  - 24h Change: 0.27072232280815306%
 
-- **Ethereum (ETH)**: $2512.82 USD
-  - Market Cap: $302628463502.5752 USD
-  - 24h Volume: $17515034864.272186 USD
-  - 24h Change: 0.14660626611110086%
+- **Ethereum (ETH)**: $2505.74 USD
+  - Market Cap: $301794370304.7521 USD
+  - 24h Volume: $17492053453.908604 USD
+  - 24h Change: 0.14943657694118434%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 783
-  - Price (BTC): 5.448020517733964e-07
+  - Market Cap Rank: 771
+  - Price (BTC): 5.559465562464074e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 271
-  - Price (BTC): 1.33683213283703e-06
+  - Price (BTC): 1.3322296097719207e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 543
+  - Price (BTC): 0.0010572730357677133
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 185
-  - Price (BTC): 2.1857157618518034e-05
+  - Market Cap Rank: 182
+  - Price (BTC): 2.231387167432297e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 775
-  - Price (BTC): 5.502583087723311e-07
+  - Market Cap Rank: 776
+  - Price (BTC): 5.522275649156044e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024037631733345387
+  - Price (BTC): 0.002399791775349122
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 562
-  - Price (BTC): 0.0010102617908706527
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.857376940786217e-05
+  - Market Cap Rank: 23
+  - Price (BTC): 2.8186551354737576e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3199479353426637e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.285015239107288e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1236942242131282e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 318
+  - Price (BTC): 5.174800910630105e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 163
-  - Price (BTC): 6.831419138523926e-06
+  - Market Cap Rank: 161
+  - Price (BTC): 6.816446359725862e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Immutable (IMX)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.589023032154635e-05
-  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.1444421760649923e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03604638764710521
+  - Price (BTC): 0.03604781902231739
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Alien Base (ALB)**
-  - Market Cap Rank: 756
-  - Price (BTC): 5.5044196336380425e-06
-  - [More Info](https://www.coingecko.com/en/coins/alienbase)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6727886032392224e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3311032042851543e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 99
+  - Price (BTC): 1.6583158629393855e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
