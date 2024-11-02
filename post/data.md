@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 19:12:39 UTC
+**Last updated:** 2024-11-02 20:15:19 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69450 USD
-  - Market Cap: $1374092403657.7773 USD
-  - 24h Volume: $22923483415.33877 USD
-  - 24h Change: 0.7093278832183956%
+- **Bitcoin (BTC)**: $69462 USD
+  - Market Cap: $1374314700117.9155 USD
+  - 24h Volume: $20732362575.201393 USD
+  - 24h Change: 0.46596328500809003%
 
-- **Ethereum (ETH)**: $2488.88 USD
-  - Market Cap: $299803674607.9298 USD
-  - 24h Volume: $10089976882.218613 USD
-  - 24h Change: -0.3288117422139879%
+- **Ethereum (ETH)**: $2491.05 USD
+  - Market Cap: $300007185530.97894 USD
+  - 24h Volume: $9399622223.71362 USD
+  - 24h Change: -0.7970351551378694%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 764
-  - Price (BTC): 5.626943412267023e-07
+  - Market Cap Rank: 771
+  - Price (BTC): 5.465950365803352e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 169
-  - Price (BTC): 2.4233883591791338e-05
+  - Market Cap Rank: 172
+  - Price (BTC): 2.3822752320559016e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 298
+  - Price (BTC): 2.2270473854050424e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7139661862168996e-05
+  - Price (BTC): 2.7199588677001627e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 302
-  - Price (BTC): 2.1887460400290653e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 332
-  - Price (BTC): 3.52481528317816e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.41928568461884e-05
+  - Price (BTC): 3.403298396525454e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **SmarDex (SDEX)**
-  - Market Cap Rank: 573
-  - Price (BTC): 1.063948064359917e-07
-  - [More Info](https://www.coingecko.com/en/coins/smardex)
-
-- **Luce (LUCE)**
-  - Market Cap Rank: 990
-  - Price (BTC): 3.3983433143543447e-07
-  - [More Info](https://www.coingecko.com/en/coins/luce)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035831249928206695
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023756096405854877
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 163
-  - Price (BTC): 6.321150112372225e-06
+  - Price (BTC): 6.318794335461115e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 683
+  - Price (BTC): 0.0007077963532673956
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 681
-  - Price (BTC): 0.0007123415685682183
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 110
+  - Price (BTC): 1.091867636733789e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 321
+  - Price (BTC): 2.3602870597988082e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 354
-  - Price (BTC): 4.371163415382931e-05
+  - Market Cap Rank: 348
+  - Price (BTC): 4.4995719880973434e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023622539866442237
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.3379047501332691e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 62
-  - Price (BTC): 2.1228056588924472e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 365
+  - Price (BTC): 7.496711674450834e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6159012202165313e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
