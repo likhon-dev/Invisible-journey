@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 23:15:44 UTC
+**Last updated:** 2024-11-03 01:13:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69230 USD
-  - Market Cap: $1369357181241.0427 USD
-  - 24h Volume: $17637932458.146633 USD
-  - 24h Change: -0.45269992755433863%
+- **Bitcoin (BTC)**: $69170 USD
+  - Market Cap: $1368038534625.2275 USD
+  - 24h Volume: $18133855216.82425 USD
+  - 24h Change: -0.674131374338219%
 
-- **Ethereum (ETH)**: $2486.16 USD
-  - Market Cap: $299507944159.573 USD
-  - 24h Volume: $8594287292.074188 USD
-  - 24h Change: -1.1598412348639071%
+- **Ethereum (ETH)**: $2485.48 USD
+  - Market Cap: $299141932905.1486 USD
+  - 24h Volume: $8579633077.970864 USD
+  - 24h Change: -1.2307340575344539%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 170
-  - Price (BTC): 2.4300763023094687e-05
+  - Market Cap Rank: 178
+  - Price (BTC): 2.265376667312275e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 303
-  - Price (BTC): 2.194820868676233e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 162
-  - Price (BTC): 6.3491155230700035e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7563046566335447e-05
+  - Price (BTC): 2.7454775913557528e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 353
-  - Price (BTC): 4.4212257498717264e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 163
+  - Price (BTC): 6.351648519554774e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1250925155714193e-05
+  - Market Cap Rank: 107
+  - Price (BTC): 1.1327212385689119e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 163
-  - Price (BTC): 3.384963714281704e-05
+  - Market Cap Rank: 162
+  - Price (BTC): 3.412083121343644e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 442
-  - Price (BTC): 2.0333294281440516e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 360
+  - Price (BTC): 4.22494582043944e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 625
-  - Price (BTC): 0.0008189854820973092
+  - Market Cap Rank: 610
+  - Price (BTC): 0.000867499117126231
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 118
-  - Price (BTC): 9.767517918496812e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+- **Celestia (TIA)**
+  - Market Cap Rank: 50
+  - Price (BTC): 6.796425910294127e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 168
-  - Price (BTC): 5.951626747682497e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002390264479819138
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 295
-  - Price (BTC): 3.140249767005554e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.131172441869196e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 342
-  - Price (BTC): 3.0244155621359417e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 424
+  - Price (BTC): 2.166161330270446e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 100
-  - Price (BTC): 1.6063051641290692e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 84
-  - Price (BTC): 9.2445531915435e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Fwog (FWOG)**
+  - Market Cap Rank: 231
+  - Price (BTC): 3.989981269195098e-06
+  - [More Info](https://www.coingecko.com/en/coins/fwog)
+
+- **Sei (SEI)**
+  - Market Cap Rank: 63
+  - Price (BTC): 5.256485222131014e-06
+  - [More Info](https://www.coingecko.com/en/coins/sei)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.620835047341597e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
