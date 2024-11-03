@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 10:16:29 UTC
+**Last updated:** 2024-11-03 11:12:13 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68308 USD
-  - Market Cap: $1350641642892.5234 USD
-  - 24h Volume: $22852281437.28626 USD
-  - 24h Change: -1.6432560494130972%
+- **Bitcoin (BTC)**: $68496 USD
+  - Market Cap: $1353796103889.35 USD
+  - 24h Volume: $26178311947.31809 USD
+  - 24h Change: -1.5523576181368688%
 
-- **Ethereum (ETH)**: $2453.21 USD
-  - Market Cap: $295433848923.9949 USD
-  - 24h Volume: $11663116879.175472 USD
-  - 24h Change: -1.6596079000423714%
+- **Ethereum (ETH)**: $2459.35 USD
+  - Market Cap: $295758640352.3189 USD
+  - 24h Volume: $11915706272.60511 USD
+  - 24h Change: -1.661520111025275%
 
 ## Trending Coins
-- **Grass (GRASS)**
-  - Market Cap Rank: 195
-  - Price (BTC): 1.962021531313592e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 398
-  - Price (BTC): 1.6889519295067398e-06
+  - Market Cap Rank: 386
+  - Price (BTC): 1.6992837920727936e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 193
+  - Price (BTC): 2.0761473292560918e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 161
-  - Price (BTC): 3.481262703021981e-05
+  - Market Cap Rank: 160
+  - Price (BTC): 3.499419957141986e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 157
-  - Price (BTC): 6.77641327541594e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 357
-  - Price (BTC): 4.3193269278970844e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.722509959791855e-05
+  - Price (BTC): 2.7340085243327184e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 156
+  - Price (BTC): 6.799290189177116e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.00239107203276746
+  - Price (BTC): 0.0023991741639425804
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 424
-  - Price (BTC): 2.1435782412761677e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.606250439768935e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 353
+  - Price (BTC): 4.355499030281073e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.3132079536919964e-05
+  - Price (BTC): 1.3143173323799418e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.612586144797997e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.035921140180260894
+  - Price (BTC): 0.035900996627561466
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Alien Base (ALB)**
-  - Market Cap Rank: 765
-  - Price (BTC): 5.385950314470304e-06
-  - [More Info](https://www.coingecko.com/en/coins/alienbase)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006342358133695134
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.2049538793724465e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 661
+  - Price (BTC): 0.0007478098808133642
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2208770037882885e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 180
+  - Price (BTC): 5.424530582594628e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 610
+  - Price (BTC): 2.5943638742939316e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Aave (AAVE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.0019727273055383026
+  - [More Info](https://www.coingecko.com/en/coins/aave)
 
 ## Posts
 - **Post ID: 1**
