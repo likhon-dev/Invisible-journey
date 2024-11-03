@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 06:21:10 UTC
+**Last updated:** 2024-11-03 07:12:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68434 USD
-  - Market Cap: $1353402350335.3435 USD
-  - 24h Volume: $24489812162.162117 USD
-  - 24h Change: -1.6125113091479597%
+- **Bitcoin (BTC)**: $68634 USD
+  - Market Cap: $1357429036663.4353 USD
+  - 24h Volume: $25465740420.018448 USD
+  - 24h Change: -1.55063101817433%
 
-- **Ethereum (ETH)**: $2448.12 USD
-  - Market Cap: $294517952908.0545 USD
-  - 24h Volume: $11384388025.142372 USD
-  - 24h Change: -2.335543066350101%
+- **Ethereum (ETH)**: $2456.82 USD
+  - Market Cap: $295898052239.6652 USD
+  - 24h Volume: $11287785267.185356 USD
+  - 24h Change: -2.09557612347103%
 
 ## Trending Coins
 - **Grass (GRASS)**
   - Market Cap Rank: 193
-  - Price (BTC): 2.0165657152971892e-05
+  - Price (BTC): 2.035226332352001e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 357
-  - Price (BTC): 4.3105915760419774e-05
+  - Market Cap Rank: 347
+  - Price (BTC): 4.460116649839609e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 445
+  - Price (BTC): 1.2992498954638277e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.734621547702661e-05
+  - Price (BTC): 2.7568185794207003e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 526
-  - Price (BTC): 1.058338052365365e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 161
-  - Price (BTC): 6.551066373677924e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03572727852837933
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.1984867327771226e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023677458389405916
+  - Price (BTC): 0.0023837819068524054
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 109
+  - Price (BTC): 1.098261032494838e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 158
+  - Price (BTC): 6.709399977470706e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 322
-  - Price (BTC): 2.33179041036233e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.421411505259052e-05
+  - Price (BTC): 3.4438845578018315e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 7
-  - Price (BTC): 7.359113716740625e-06
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2275732502996428e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Moonwell (WELL)**
-  - Market Cap Rank: 258
-  - Price (BTC): 1.1476089210234428e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03578260205094499
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006287864656299168
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 417
+  - Price (BTC): 2.1421167805135744e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 288
-  - Price (BTC): 2.773862806458766e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.2147329998993856e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 94
+  - Price (BTC): 1.1804668305091718e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Ronin (RON)**
+  - Market Cap Rank: 156
+  - Price (BTC): 1.9340208412697918e-05
+  - [More Info](https://www.coingecko.com/en/coins/ronin)
 
 ## Posts
 - **Post ID: 1**
