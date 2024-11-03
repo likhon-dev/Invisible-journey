@@ -1,52 +1,42 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 07:12:53 UTC
+**Last updated:** 2024-11-03 08:17:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68634 USD
-  - Market Cap: $1357429036663.4353 USD
-  - 24h Volume: $25465740420.018448 USD
-  - 24h Change: -1.55063101817433%
+- **Bitcoin (BTC)**: $68290 USD
+  - Market Cap: $1350613340290.1682 USD
+  - 24h Volume: $25140641258.381207 USD
+  - 24h Change: -2.0550931571678905%
 
-- **Ethereum (ETH)**: $2456.82 USD
-  - Market Cap: $295898052239.6652 USD
-  - 24h Volume: $11287785267.185356 USD
-  - 24h Change: -2.09557612347103%
+- **Ethereum (ETH)**: $2446.65 USD
+  - Market Cap: $294584296967.0744 USD
+  - 24h Volume: $11259348780.588184 USD
+  - 24h Change: -2.2838248184378283%
 
 ## Trending Coins
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 392
+  - Price (BTC): 1.617092147077903e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 193
-  - Price (BTC): 2.035226332352001e-05
+  - Market Cap Rank: 198
+  - Price (BTC): 1.9316032309221873e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 347
-  - Price (BTC): 4.460116649839609e-05
+  - Market Cap Rank: 354
+  - Price (BTC): 4.38194997907715e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 445
-  - Price (BTC): 1.2992498954638277e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7568185794207003e-05
+  - Price (BTC): 2.756566166897881e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023837819068524054
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 109
-  - Price (BTC): 1.098261032494838e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 158
-  - Price (BTC): 6.709399977470706e-06
+  - Price (BTC): 6.695434068630297e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
@@ -54,40 +44,50 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002391073861407967
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.4438845578018315e-05
+  - Price (BTC): 3.4528943283235815e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2275732502996428e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006392320778613066
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 109
+  - Price (BTC): 1.0832726885027196e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03578260205094499
+  - Price (BTC): 0.0358207066249557
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.1044105529174904e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
 - **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 417
-  - Price (BTC): 2.1421167805135744e-06
+  - Market Cap Rank: 416
+  - Price (BTC): 2.1237819206765396e-06
   - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.2147329998993856e-06
+  - Price (BTC): 2.221294948958535e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.1804668305091718e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
-- **Ronin (RON)**
-  - Market Cap Rank: 156
-  - Price (BTC): 1.9340208412697918e-05
-  - [More Info](https://www.coingecko.com/en/coins/ronin)
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 191
+  - Price (BTC): 4.527195518111091e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
 ## Posts
 - **Post ID: 1**
