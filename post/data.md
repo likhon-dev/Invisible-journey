@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 08:17:14 UTC
+**Last updated:** 2024-11-03 09:14:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68290 USD
-  - Market Cap: $1350613340290.1682 USD
-  - 24h Volume: $25140641258.381207 USD
-  - 24h Change: -2.0550931571678905%
+- **Bitcoin (BTC)**: $68487 USD
+  - Market Cap: $1353533757474.9583 USD
+  - 24h Volume: $25533776316.313286 USD
+  - 24h Change: -1.6227410755825868%
 
-- **Ethereum (ETH)**: $2446.65 USD
-  - Market Cap: $294584296967.0744 USD
-  - 24h Volume: $11259348780.588184 USD
-  - 24h Change: -2.2838248184378283%
+- **Ethereum (ETH)**: $2458.81 USD
+  - Market Cap: $296030166293.61 USD
+  - 24h Volume: $11647104659.934788 USD
+  - 24h Change: -1.6056818455032331%
 
 ## Trending Coins
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 392
-  - Price (BTC): 1.617092147077903e-06
+  - Market Cap Rank: 434
+  - Price (BTC): 1.4199596879545087e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 198
-  - Price (BTC): 1.9316032309221873e-05
+  - Market Cap Rank: 195
+  - Price (BTC): 1.9956110191296636e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 354
-  - Price (BTC): 4.38194997907715e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.756566166897881e-05
+  - Price (BTC): 2.735761098367748e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 158
-  - Price (BTC): 6.695434068630297e-06
+  - Market Cap Rank: 159
+  - Price (BTC): 6.610658103094265e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023939101972289276
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 162
+  - Price (BTC): 3.4649783348097604e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 358
+  - Price (BTC): 4.259984459513102e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002391073861407967
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 162
-  - Price (BTC): 3.4528943283235815e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.035910077210288695
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 32
-  - Price (BTC): 0.006392320778613066
+  - Price (BTC): 0.006371340396187523
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 109
-  - Price (BTC): 1.0832726885027196e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0358207066249557
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 62
-  - Price (BTC): 2.1044105529174904e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
 - **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 416
-  - Price (BTC): 2.1237819206765396e-06
+  - Market Cap Rank: 409
+  - Price (BTC): 2.155306006379329e-06
   - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.221294948958535e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 110
+  - Price (BTC): 1.0822581625996171e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 191
-  - Price (BTC): 4.527195518111091e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 87
+  - Price (BTC): 9.04842760196711e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 36
+  - Price (BTC): 1.6070389437252482e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.727028225709741e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 ## Posts
 - **Post ID: 1**
