@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 13:23:47 UTC
+**Last updated:** 2024-11-04 14:14:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69114 USD
-  - Market Cap: $1367676141777.8406 USD
-  - 24h Volume: $32269012064.257206 USD
-  - 24h Change: 1.1703587788478182%
+- **Bitcoin (BTC)**: $68633 USD
+  - Market Cap: $1356209978723.2197 USD
+  - 24h Volume: $30166774363.71179 USD
+  - 24h Change: 0.830801829006633%
 
-- **Ethereum (ETH)**: $2479.41 USD
-  - Market Cap: $298865026546.7312 USD
-  - 24h Volume: $15083954441.089642 USD
-  - 24h Change: 1.2499618203576204%
+- **Ethereum (ETH)**: $2458.93 USD
+  - Market Cap: $295890378075.9326 USD
+  - 24h Volume: $14810491926.959326 USD
+  - 24h Change: 0.9489056983153172%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 304
-  - Price (BTC): 3.7744841592452674e-10
+  - Market Cap Rank: 303
+  - Price (BTC): 3.7368958634537333e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 804
-  - Price (BTC): 0.0005392670258439723
+  - Market Cap Rank: 767
+  - Price (BTC): 0.0005655335174941921
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 304
+  - Price (BTC): 5.528149608094046e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 176
-  - Price (BTC): 2.334176538149234e-05
+  - Price (BTC): 2.2762759868694235e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 303
-  - Price (BTC): 5.562889858253451e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 704
-  - Price (BTC): 6.000563990225035e-07
+  - Market Cap Rank: 665
+  - Price (BTC): 7.200458956368809e-07
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **PONKE (PONKE)**
-  - Market Cap Rank: 226
-  - Price (BTC): 7.11479710229522e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **NEURALAI (NEURAL)**
+  - Market Cap Rank: 771
+  - Price (BTC): 5.529531526225962e-05
+  - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.757482932775413e-05
+  - Price (BTC): 2.7536962906825247e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 237
+  - Price (BTC): 6.637574205940985e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 399
+  - Price (BTC): 2.128590577583294e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.2942734839854795e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **mETH Protocol (COOK)**
-  - Market Cap Rank: 994
-  - Price (BTC): 3.636638270907375e-07
-  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
-
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 777
-  - Price (BTC): 5.4038556693459525e-05
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
-
-- **RETARDIO (RETARDIO)**
-  - Market Cap Rank: 307
-  - Price (BTC): 2.4266383286557664e-06
-  - [More Info](https://www.coingecko.com/en/coins/retardio)
-
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.8916638641190204e-05
+  - Market Cap Rank: 65
+  - Price (BTC): 1.8668914205064513e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **TROY (TROY)**
-  - Market Cap Rank: 734
-  - Price (BTC): 5.8881299465600256e-08
-  - [More Info](https://www.coingecko.com/en/coins/troy)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002379191631362698
+  - Price (BTC): 0.0023798613049268507
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006194289485260536
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03581145670560245
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.2745776724515076e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
