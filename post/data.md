@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 23:15:37 UTC
+**Last updated:** 2024-11-04 01:10:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68796 USD
-  - Market Cap: $1360066132528.9219 USD
-  - 24h Volume: $37337925657.78147 USD
-  - 24h Change: -0.617912514876839%
+- **Bitcoin (BTC)**: $68625 USD
+  - Market Cap: $1360126165588.2715 USD
+  - 24h Volume: $38760535572.09625 USD
+  - 24h Change: -0.7210805092871954%
 
-- **Ethereum (ETH)**: $2456.87 USD
-  - Market Cap: $295852763835.61523 USD
-  - 24h Volume: $15269436119.469746 USD
-  - 24h Change: -1.1885712255406509%
+- **Ethereum (ETH)**: $2448.06 USD
+  - Market Cap: $295518814840.68866 USD
+  - 24h Volume: $15996250087.266052 USD
+  - 24h Change: -1.5026849856742919%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 654
-  - Price (BTC): 0.000746814903786549
+  - Market Cap Rank: 661
+  - Price (BTC): 0.0007367622340590138
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 166
-  - Price (BTC): 2.4620048311567296e-05
+  - Price (BTC): 2.4587700693830124e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 298
-  - Price (BTC): 2.1816079723256642e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 577
-  - Price (BTC): 8.626216485879755e-07
+  - Market Cap Rank: 599
+  - Price (BTC): 8.468740377248828e-07
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.8073700147355247e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 110
-  - Price (BTC): 1.0590550505070984e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002362938431387411
+  - Price (BTC): 0.002353499744836928
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.7964093527199774e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **MAGA (TRUMP)**
   - Market Cap Rank: 326
-  - Price (BTC): 4.822243614988428e-05
+  - Price (BTC): 4.793336270175194e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.1870451864640972e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 147
+  - Price (BTC): 7.554699637414788e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 111
+  - Price (BTC): 1.052100110818028e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.1999980872777023e-06
+  - Price (BTC): 2.181801630047075e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 144
-  - Price (BTC): 7.775826299437648e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 130
+  - Price (BTC): 8.950034312643286e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006360500901372986
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 62
+  - Price (BTC): 1.979329272290008e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 396
-  - Price (BTC): 2.210850404212504e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.285008649937021e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Beam (BEAM)**
+  - Market Cap Rank: 93
+  - Price (BTC): 2.2203499957295719e-07
+  - [More Info](https://www.coingecko.com/en/coins/beam-2)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.2759001730180341e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03567827173839141
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
