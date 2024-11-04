@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 22:13:16 UTC
+**Last updated:** 2024-11-04 23:15:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67593 USD
-  - Market Cap: $1336695726295.0415 USD
-  - 24h Volume: $44515152771.107414 USD
-  - 24h Change: -2.435259046377816%
+- **Bitcoin (BTC)**: $67872 USD
+  - Market Cap: $1342449610928.0703 USD
+  - 24h Volume: $44748119036.25568 USD
+  - 24h Change: -1.2229180650289866%
 
-- **Ethereum (ETH)**: $2390.35 USD
-  - Market Cap: $286603117184.4846 USD
-  - 24h Volume: $16660330392.527653 USD
-  - 24h Change: -3.3263071631781735%
+- **Ethereum (ETH)**: $2400.91 USD
+  - Market Cap: $289045682635.59174 USD
+  - 24h Volume: $16219226157.334263 USD
+  - 24h Change: -2.1471069505591966%
 
 ## Trending Coins
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 299
-  - Price (BTC): 5.455672841369899e-05
+  - Market Cap Rank: 308
+  - Price (BTC): 5.227280215138735e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 174
-  - Price (BTC): 2.3321098358934366e-05
+  - Market Cap Rank: 176
+  - Price (BTC): 2.2607468868217135e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 789
-  - Price (BTC): 5.825684603575522e-07
+  - Market Cap Rank: 674
+  - Price (BTC): 6.587182148972575e-07
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023188952364003685
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.6907667625994688e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.2802711510337298e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035431992460798895
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 124
-  - Price (BTC): 9.530354544834186e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 32
-  - Price (BTC): 0.006071032753294523
+  - Price (BTC): 0.006147323754113335
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 309
-  - Price (BTC): 3.5913289349055756e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.7223383300314835e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 53
-  - Price (BTC): 6.163667012892282e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 121
+  - Price (BTC): 9.81136582513894e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.5324929184506688e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023240897873037054
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3224644570525698e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.7641230811456027e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 152
+  - Price (BTC): 7.084023453314984e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 127
+  - Price (BTC): 9.000215985051328e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 151
-  - Price (BTC): 7.173794614764937e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Pyth Network (PYTH)**
+  - Market Cap Rank: 68
+  - Price (BTC): 4.734649908243202e-06
+  - [More Info](https://www.coingecko.com/en/coins/pyth-network)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 39
-  - Price (BTC): 1.5232186106823732e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 758
-  - Price (BTC): 5.586788305047104e-05
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 45
+  - Price (BTC): 2.8432384483564752e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
