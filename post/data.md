@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-05 19:11:03 UTC
+**Last updated:** 2024-11-05 20:16:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70138 USD
-  - Market Cap: $1389159213094.9065 USD
-  - 24h Volume: $43847230681.75557 USD
-  - 24h Change: 3.2357813050460233%
+- **Bitcoin (BTC)**: $69487 USD
+  - Market Cap: $1371940090703.4026 USD
+  - 24h Volume: $47973574177.63786 USD
+  - 24h Change: 2.7378856773993503%
 
-- **Ethereum (ETH)**: $2450.92 USD
-  - Market Cap: $295609840872.98975 USD
-  - 24h Volume: $18643441916.13428 USD
-  - 24h Change: 0.6331081900725332%
+- **Ethereum (ETH)**: $2426.74 USD
+  - Market Cap: $291808173548.5394 USD
+  - 24h Volume: $19927687842.68616 USD
+  - 24h Change: 0.0857072882161483%
 
 ## Trending Coins
 - **BabyBoomToken (BBT)**
-  - Market Cap Rank: 864
-  - Price (BTC): 2.696057479052034e-06
+  - Market Cap Rank: 846
+  - Price (BTC): 2.7743479098751984e-06
   - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 299
-  - Price (BTC): 3.738957321513811e-10
+  - Market Cap Rank: 302
+  - Price (BTC): 3.694441254617151e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 542
-  - Price (BTC): 1.0288727139910017e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 304
-  - Price (BTC): 5.311840724624117e-05
+  - Market Cap Rank: 306
+  - Price (BTC): 5.22438794169778e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 575
+  - Price (BTC): 9.149897960745472e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 172
-  - Price (BTC): 2.3240635044546697e-05
+  - Market Cap Rank: 176
+  - Price (BTC): 2.2919320920066707e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Scroll (SCR)**
-  - Market Cap Rank: 362
-  - Price (BTC): 9.723648578179466e-06
+  - Market Cap Rank: 361
+  - Price (BTC): 9.852740916501784e-06
   - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 128
+  - Price (BTC): 8.612503374238616e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.512790122705951e-06
+  - Price (BTC): 2.43483412924832e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.8745034656474508e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 640
+  - Price (BTC): 7.277406316730113e-07
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002381108331304967
+  - Price (BTC): 0.0023809298279299116
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 115
-  - Price (BTC): 1.0192044167058477e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.8453337751259646e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.034947616437091086
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 133
-  - Price (BTC): 8.236544681123569e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.8373700842153237e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 31
-  - Price (BTC): 0.006621940422705433
+  - Price (BTC): 0.006538799231392869
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.8893673050392783e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.6470257435271244e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
