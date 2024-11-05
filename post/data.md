@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-05 08:18:50 UTC
+**Last updated:** 2024-11-05 09:15:25 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68860 USD
-  - Market Cap: $1361901001767.766 USD
-  - 24h Volume: $43013272011.78493 USD
-  - 24h Change: 0.4277845671565212%
+- **Bitcoin (BTC)**: $68932 USD
+  - Market Cap: $1363138608497.9585 USD
+  - 24h Volume: $47195058927.83216 USD
+  - 24h Change: 0.21547202231338913%
 
-- **Ethereum (ETH)**: $2438.19 USD
-  - Market Cap: $293539497518.8344 USD
-  - 24h Volume: $18277407020.296288 USD
-  - 24h Change: -0.9245412931493344%
+- **Ethereum (ETH)**: $2443.0 USD
+  - Market Cap: $293949202969.5077 USD
+  - 24h Volume: $18272813573.75386 USD
+  - 24h Change: -0.7297418607586846%
 
 ## Trending Coins
-- **Grass (GRASS)**
-  - Market Cap Rank: 173
-  - Price (BTC): 2.3480426471404102e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 684
-  - Price (BTC): 0.0006845748207121816
+  - Market Cap Rank: 693
+  - Price (BTC): 0.00066495632474641
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.4470932805367707e-06
+  - Price (BTC): 2.44334665354187e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 169
+  - Price (BTC): 2.386205178453732e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 327
-  - Price (BTC): 4.799083230037498e-05
+  - Market Cap Rank: 321
+  - Price (BTC): 4.8963927604873676e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023540953933317904
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.7897746364740774e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 657
-  - Price (BTC): 7.193824295400474e-07
+  - Market Cap Rank: 644
+  - Price (BTC): 7.509891058364202e-07
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 395
-  - Price (BTC): 8.277984899867795e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.814818836597984e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 111
-  - Price (BTC): 1.0519829442766386e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 86
-  - Price (BTC): 8.923459345292188e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Fwog (FWOG)**
-  - Market Cap Rank: 184
-  - Price (BTC): 5.420092788539126e-06
-  - [More Info](https://www.coingecko.com/en/coins/fwog)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 39
-  - Price (BTC): 1.5383068853872684e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006242412028592716
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 66
-  - Price (BTC): 1.8850962318535897e-05
+  - Price (BTC): 1.8942671086439527e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Pendle (PENDLE)**
-  - Market Cap Rank: 109
-  - Price (BTC): 6.0682558140128644e-05
-  - [More Info](https://www.coingecko.com/en/coins/pendle)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002357115780786895
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 149
-  - Price (BTC): 7.352249895375599e-06
+  - Market Cap Rank: 152
+  - Price (BTC): 7.293636168308619e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 125
+  - Price (BTC): 9.37400724173956e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 52
+  - Price (BTC): 6.229634171408867e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Toncoin (TON)**
+  - Market Cap Rank: 12
+  - Price (BTC): 6.693521956912462e-05
+  - [More Info](https://www.coingecko.com/en/coins/toncoin)
+
+- **Optimism (OP)**
+  - Market Cap Rank: 51
+  - Price (BTC): 2.023136465947002e-05
+  - [More Info](https://www.coingecko.com/en/coins/optimism)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 158
+  - Price (BTC): 3.490380786313459e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 ## Posts
 - **Post ID: 1**
