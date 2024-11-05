@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-05 15:15:19 UTC
+**Last updated:** 2024-11-05 16:18:41 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69864 USD
-  - Market Cap: $1381815072909.8108 USD
-  - 24h Volume: $49139860763.97998 USD
-  - 24h Change: 2.328448975762466%
+- **Bitcoin (BTC)**: $69912 USD
+  - Market Cap: $1380035046749.8306 USD
+  - 24h Volume: $50550012069.761284 USD
+  - 24h Change: 2.255623449776557%
 
-- **Ethereum (ETH)**: $2462.33 USD
-  - Market Cap: $295612589877.22955 USD
-  - 24h Volume: $19277022927.662884 USD
-  - 24h Change: 0.6975768839064183%
+- **Ethereum (ETH)**: $2450.0 USD
+  - Market Cap: $294582222745.80646 USD
+  - 24h Volume: $19315008051.359936 USD
+  - 24h Change: 0.6670388061685083%
 
 ## Trending Coins
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 670
-  - Price (BTC): 0.0007254117089461787
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 296
-  - Price (BTC): 3.832751584784762e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **BabyBoomToken (BBT)**
-  - Market Cap Rank: 905
-  - Price (BTC): 2.8293051359290815e-06
+  - Market Cap Rank: 860
+  - Price (BTC): 2.724407055140003e-06
   - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 168
-  - Price (BTC): 2.4013765808138747e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 300
+  - Price (BTC): 3.821065460981449e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 672
+  - Price (BTC): 0.0007200784734502192
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 518
-  - Price (BTC): 1.0648667850713687e-06
+  - Market Cap Rank: 516
+  - Price (BTC): 1.030063020891228e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.883128074488391e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Grass (GRASS)**
+  - Market Cap Rank: 169
+  - Price (BTC): 2.3735408550725964e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 319
-  - Price (BTC): 4.947503936918552e-05
+  - Market Cap Rank: 317
+  - Price (BTC): 4.966005766733179e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002386438478661886
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.5160925397400396e-06
+  - Price (BTC): 2.5177059907567045e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 2.8766367870010724e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.9388907335546765e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023837473299937687
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Fwog (FWOG)**
+  - Market Cap Rank: 178
+  - Price (BTC): 5.7309727339603125e-06
+  - [More Info](https://www.coingecko.com/en/coins/fwog)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 133
-  - Price (BTC): 8.124115164280693e-06
+  - Market Cap Rank: 131
+  - Price (BTC): 8.431374283059982e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.933941003709471e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 32
-  - Price (BTC): 0.006390625283694048
+  - Price (BTC): 0.006455394784283595
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.0638797130436244e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **Aptos (APT)**
-  - Market Cap Rank: 27
-  - Price (BTC): 0.0001223311877034757
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 119
+  - Price (BTC): 9.955327082029994e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
