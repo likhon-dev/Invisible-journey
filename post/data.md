@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 21:14:48 UTC
+**Last updated:** 2024-11-06 22:14:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76052 USD
-  - Market Cap: $1506028262690.3875 USD
-  - 24h Volume: $124587809550.66429 USD
-  - 24h Change: 9.661709462338656%
+- **Bitcoin (BTC)**: $76007 USD
+  - Market Cap: $1504386714684.0771 USD
+  - 24h Volume: $137613086414.92975 USD
+  - 24h Change: 9.873707130561245%
 
-- **Ethereum (ETH)**: $2692.15 USD
-  - Market Cap: $323706291080.96643 USD
-  - 24h Volume: $42797382637.34356 USD
-  - 24h Change: 11.046818899783037%
+- **Ethereum (ETH)**: $2692.79 USD
+  - Market Cap: $324509257555.1858 USD
+  - 24h Volume: $43306591746.86067 USD
+  - 24h Change: 11.462962948855933%
 
 ## Trending Coins
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0170399562317193e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 283
-  - Price (BTC): 4.3218259603956775e-10
+  - Market Cap Rank: 276
+  - Price (BTC): 4.45781179199218e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.0001133422287304e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.5586643152038774e-06
+  - Price (BTC): 2.605436309089556e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Raydium (RAY)**
-  - Market Cap Rank: 81
-  - Price (BTC): 5.3910500269349245e-05
+  - Market Cap Rank: 78
+  - Price (BTC): 5.7766003093078815e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Panther AI (PAI)**
-  - Market Cap Rank: 940
-  - Price (BTC): 1.3416027366589541e-06
-  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024651572971468847
+  - Price (BTC): 0.0024897312863853076
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03538669675577672
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 146
-  - Price (BTC): 3.0512652938347174e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 744
-  - Price (BTC): 0.000606025358469222
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **BNB (BNB)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.007753105614787225
+  - Price (BTC): 0.0077822464564508385
   - [More Info](https://www.coingecko.com/en/coins/bnb)
 
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03542401962763905
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 131
+  - Price (BTC): 3.598108617836731e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 732
+  - Price (BTC): 0.0006180271530236623
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **Nym (NYM)**
-  - Market Cap Rank: 644
-  - Price (BTC): 9.182311832335486e-07
+  - Market Cap Rank: 646
+  - Price (BTC): 9.169927977280109e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 476
-  - Price (BTC): 2.661196934092903e-05
+  - Market Cap Rank: 482
+  - Price (BTC): 2.5825630238867758e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2477929938423033e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 268
+  - Price (BTC): 3.684642568417771e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.0068787373218920774
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Panther AI (PAI)**
+  - Market Cap Rank: 952
+  - Price (BTC): 1.3349133141589635e-06
+  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 98
+  - Price (BTC): 1.1901310294022275e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
