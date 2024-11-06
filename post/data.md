@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 09:16:46 UTC
+**Last updated:** 2024-11-06 10:15:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $73807 USD
-  - Market Cap: $1460532220893.9548 USD
-  - 24h Volume: $114078166602.85213 USD
-  - 24h Change: 7.059029806587383%
+- **Bitcoin (BTC)**: $73553 USD
+  - Market Cap: $1452860405675.5044 USD
+  - 24h Volume: $111399018557.63925 USD
+  - 24h Change: 7.153017087112429%
 
-- **Ethereum (ETH)**: $2620.62 USD
-  - Market Cap: $315891376300.62933 USD
-  - 24h Volume: $37387356221.25718 USD
-  - 24h Change: 7.2167350409350375%
+- **Ethereum (ETH)**: $2614.02 USD
+  - Market Cap: $314446685495.86 USD
+  - 24h Volume: $38275700750.7496 USD
+  - 24h Change: 7.459080853482108%
 
 ## Trending Coins
 - **Nym (NYM)**
-  - Market Cap Rank: 682
-  - Price (BTC): 8.406162873158737e-07
+  - Market Cap Rank: 680
+  - Price (BTC): 8.460972314657396e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 356
-  - Price (BTC): 4.2550777140700565e-05
+  - Market Cap Rank: 355
+  - Price (BTC): 4.283858333046106e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 704
-  - Price (BTC): 0.0006624928327976555
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+- **Self Chain (SLF)**
+  - Market Cap Rank: 918
+  - Price (BTC): 4.143737264040661e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
+- **Panther AI (PAI)**
+  - Market Cap Rank: 866
+  - Price (BTC): 1.605581898296838e-06
+  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
 
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 460
-  - Price (BTC): 3.985755628667065e-06
+  - Market Cap Rank: 462
+  - Price (BTC): 4.018758302197225e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.6517016011017496e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 166
-  - Price (BTC): 2.4407199613040343e-05
+  - Price (BTC): 2.4747085016034996e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Self Chain (SLF)**
-  - Market Cap Rank: 916
-  - Price (BTC): 4.131830108799661e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 713
+  - Price (BTC): 0.0006433212129624035
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.675658016228236e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.05946915985906e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 422
-  - Price (BTC): 1.4531672794351322e-06
+  - Market Cap Rank: 410
+  - Price (BTC): 1.5138531029673942e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **CoW Protocol (COW)**
+  - Market Cap Rank: 420
+  - Price (BTC): 5.745163223001179e-06
+  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.0219762806520575e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **CoW Protocol (COW)**
-  - Market Cap Rank: 408
-  - Price (BTC): 5.9280957714105595e-06
-  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 111
+  - Price (BTC): 9.768382451314843e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024939496401266883
+  - Price (BTC): 0.0024972000037578683
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035520927020623316
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 115
-  - Price (BTC): 9.594867686479638e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Doland Tremp (TREMP)**
-  - Market Cap Rank: 798
-  - Price (BTC): 5.100119683089432e-06
-  - [More Info](https://www.coingecko.com/en/coins/doland-tremp)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.1637742164780506e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
