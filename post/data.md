@@ -1,63 +1,58 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 07:13:54 UTC
+**Last updated:** 2024-11-06 08:19:28 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74603 USD
-  - Market Cap: $1475217304035.5115 USD
-  - 24h Volume: $94784747967.17268 USD
-  - 24h Change: 8.553542462789133%
+- **Bitcoin (BTC)**: $73208 USD
+  - Market Cap: $1448590729247.473 USD
+  - 24h Volume: $110295990222.42447 USD
+  - 24h Change: 6.3676124479737055%
 
-- **Ethereum (ETH)**: $2594.46 USD
-  - Market Cap: $312487481280.5437 USD
-  - 24h Volume: $32963755325.892357 USD
-  - 24h Change: 6.828486234413574%
+- **Ethereum (ETH)**: $2594.49 USD
+  - Market Cap: $313008892722.1292 USD
+  - 24h Volume: $35945897039.50106 USD
+  - 24h Change: 6.463312448601058%
 
 ## Trending Coins
-- **BabyBoomToken (BBT)**
-  - Market Cap Rank: 879
-  - Price (BTC): 2.6114493494611293e-06
-  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 312
-  - Price (BTC): 5.104142675620702e-05
+  - Market Cap Rank: 333
+  - Price (BTC): 4.509991582517657e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Nym (NYM)**
   - Market Cap Rank: 682
-  - Price (BTC): 8.296561381199823e-07
+  - Price (BTC): 8.476972207908993e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 732
+  - Price (BTC): 0.0006248195467408546
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 473
-  - Price (BTC): 3.85591299848557e-06
+  - Market Cap Rank: 479
+  - Price (BTC): 3.7633012384979216e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 409
-  - Price (BTC): 1.5460744185808847e-06
+  - Market Cap Rank: 430
+  - Price (BTC): 1.332153986079559e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **CoW Protocol (COW)**
-  - Market Cap Rank: 396
-  - Price (BTC): 6.069799415614965e-06
-  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 739
-  - Price (BTC): 0.0006025049973987546
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 167
-  - Price (BTC): 2.454620710131565e-05
+  - Price (BTC): 2.460178031996311e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.760736145028166e-06
+  - Price (BTC): 2.644633956129545e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **CoW Protocol (COW)**
+  - Market Cap Rank: 394
+  - Price (BTC): 6.20349486238927e-06
+  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -66,28 +61,33 @@
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.060455540614113e-05
+  - Price (BTC): 3.0138236764003492e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025000433181419437
+  - Price (BTC): 0.002491163740768741
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Uniswap (UNI)**
-  - Market Cap Rank: 24
-  - Price (BTC): 0.00012285515872323
-  - [More Info](https://www.coingecko.com/en/coins/uniswap)
+- **Self Chain (SLF)**
+  - Market Cap Rank: 970
+  - Price (BTC): 3.988322882667971e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03477605809292145
+  - Price (BTC): 0.03542026382742297
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 118
-  - Price (BTC): 9.535635196543761e-06
+  - Market Cap Rank: 119
+  - Price (BTC): 9.42449813749437e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.264365219178465e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
