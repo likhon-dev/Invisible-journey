@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 19:12:29 UTC
+**Last updated:** 2024-11-06 20:15:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75419 USD
-  - Market Cap: $1492239700328.1257 USD
-  - 24h Volume: $132320268761.12346 USD
-  - 24h Change: 7.784503087680298%
+- **Bitcoin (BTC)**: $76011 USD
+  - Market Cap: $1497962486781.8745 USD
+  - 24h Volume: $135348456517.60057 USD
+  - 24h Change: 9.36995938125958%
 
-- **Ethereum (ETH)**: $2677.37 USD
-  - Market Cap: $322693711492.5326 USD
-  - 24h Volume: $38904023030.99343 USD
-  - 24h Change: 9.40706524494454%
+- **Ethereum (ETH)**: $2693.1 USD
+  - Market Cap: $324267709183.95135 USD
+  - 24h Volume: $42219138240.077675 USD
+  - 24h Change: 10.914593918520787%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 294
-  - Price (BTC): 3.956413044045314e-10
+  - Price (BTC): 4.108295043079064e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Panther AI (PAI)**
-  - Market Cap Rank: 930
-  - Price (BTC): 1.3898204721672091e-06
-  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 155
-  - Price (BTC): 2.853911482971102e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Nym (NYM)**
   - Market Cap Rank: 644
-  - Price (BTC): 9.26883915240501e-07
+  - Price (BTC): 9.19082020368863e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 408
-  - Price (BTC): 3.3620423193246315e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Panther AI (PAI)**
+  - Market Cap Rank: 936
+  - Price (BTC): 1.3736801876407327e-06
+  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 147
+  - Price (BTC): 3.101789007148819e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 749
-  - Price (BTC): 0.0005939463882544225
+  - Market Cap Rank: 741
+  - Price (BTC): 0.000600431728557537
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **CoW Protocol (COW)**
-  - Market Cap Rank: 325
-  - Price (BTC): 8.17812584341306e-06
-  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.016169651797256e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 437
-  - Price (BTC): 4.325329024680282e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.580532153464085e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 393
-  - Price (BTC): 1.6279456551969655e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 119
-  - Price (BTC): 9.344026588540538e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024938830247953517
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 436
+  - Price (BTC): 2.982158005505661e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
 - **Self Chain (SLF)**
-  - Market Cap Rank: 964
-  - Price (BTC): 3.770188255715697e-06
+  - Market Cap Rank: 976
+  - Price (BTC): 3.679329329233253e-06
   - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
+- **CoW Protocol (COW)**
+  - Market Cap Rank: 348
+  - Price (BTC): 7.38540864781148e-06
+  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0167050763936875e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.5778820835375392e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 404
+  - Price (BTC): 1.5575642935374472e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Banana Gun (BANANA)**
+  - Market Cap Rank: 303
+  - Price (BTC): 0.0007358179300028094
+  - [More Info](https://www.coingecko.com/en/coins/banana-gun)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 446
+  - Price (BTC): 4.091544903203176e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 64
+  - Price (BTC): 2.0542646127867058e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
