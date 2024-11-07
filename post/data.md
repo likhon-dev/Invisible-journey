@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 04:17:52 UTC
+**Last updated:** 2024-11-07 05:14:04 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74888 USD
-  - Market Cap: $1481552083914.549 USD
-  - 24h Volume: $103740429364.90257 USD
-  - 24h Change: 0.5709015112918581%
+- **Bitcoin (BTC)**: $74751 USD
+  - Market Cap: $1479784533543.4504 USD
+  - 24h Volume: $106566229878.68413 USD
+  - 24h Change: 1.0393628237471082%
 
-- **Ethereum (ETH)**: $2842.36 USD
-  - Market Cap: $342519421546.50323 USD
-  - 24h Volume: $43877320761.106 USD
-  - 24h Change: 9.64164377242277%
+- **Ethereum (ETH)**: $2837.65 USD
+  - Market Cap: $341768970708.58826 USD
+  - 24h Volume: $43257111756.64126 USD
+  - 24h Change: 10.260113421928187%
 
 ## Trending Coins
-- **Grass (GRASS)**
-  - Market Cap Rank: 131
-  - Price (BTC): 3.652341830169093e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 692
-  - Price (BTC): 0.000683897666945105
+  - Market Cap Rank: 707
+  - Price (BTC): 0.0006733147206823253
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 140
+  - Price (BTC): 3.414774683870977e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 540
-  - Price (BTC): 2.2762386329801815e-05
+  - Market Cap Rank: 524
+  - Price (BTC): 2.4340779178363406e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.067188913202544e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 70
-  - Price (BTC): 6.4867828844116754e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025224591344987987
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 149
-  - Price (BTC): 4.1519305274170634e-05
+  - Price (BTC): 4.1807215857371414e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **CoW Protocol (COW)**
-  - Market Cap Rank: 351
-  - Price (BTC): 8.04370631205192e-06
-  - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025237252383483034
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.6109546092686887e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0423738879330732e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 67
+  - Price (BTC): 6.699088233103023e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 77
+  - Price (BTC): 6.182606955624783e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 452
+  - Price (BTC): 4.155786996516269e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 452
-  - Price (BTC): 4.2252487590098274e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.586771922597033e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.037971768237595
+  - Price (BTC): 0.03798326752626545
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4048985017118115e-10
+  - Price (BTC): 1.3928311561672382e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 284
-  - Price (BTC): 4.4841052624158814e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Brett (BRETT)**
+  - Market Cap Rank: 93
+  - Price (BTC): 1.265752181754415e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 387
-  - Price (BTC): 1.7456197476268997e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Aave (AAVE)**
+  - Market Cap Rank: 40
+  - Price (BTC): 0.0024717949058570363
+  - [More Info](https://www.coingecko.com/en/coins/aave)
 
 ## Posts
 - **Post ID: 1**
