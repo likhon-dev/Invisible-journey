@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 07:13:23 UTC
+**Last updated:** 2024-11-07 08:18:33 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74913 USD
-  - Market Cap: $1480480797869.1992 USD
-  - 24h Volume: $94644983610.95206 USD
-  - 24h Change: 0.531755049303031%
+- **Bitcoin (BTC)**: $75103 USD
+  - Market Cap: $1484734819646.2454 USD
+  - 24h Volume: $79911830428.15266 USD
+  - 24h Change: 2.791481439470313%
 
-- **Ethereum (ETH)**: $2810.76 USD
-  - Market Cap: $337177189283.69006 USD
-  - 24h Volume: $40772284230.4204 USD
-  - 24h Change: 8.324162770610123%
+- **Ethereum (ETH)**: $2829.44 USD
+  - Market Cap: $340700801871.5317 USD
+  - 24h Volume: $38963948854.518875 USD
+  - 24h Change: 9.306236606533432%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 711
-  - Price (BTC): 0.0006641276655082966
+  - Market Cap Rank: 714
+  - Price (BTC): 0.0006618128971334885
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 146
-  - Price (BTC): 3.2680798647256955e-05
+  - Market Cap Rank: 138
+  - Price (BTC): 3.471111449944158e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 462
-  - Price (BTC): 2.833655683490812e-05
+  - Market Cap Rank: 438
+  - Price (BTC): 3.0495074991369727e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 147
-  - Price (BTC): 4.227266753546279e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Ethena (ENA)**
+  - Market Cap Rank: 63
+  - Price (BTC): 7.299048516178615e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.9880340903200697e-05
+  - Price (BTC): 3.0017976306488867e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 146
+  - Price (BTC): 4.2657960386893616e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025034818817313517
+  - Price (BTC): 0.0025165178232301392
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03749767405491797
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.5641429676984497e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 73
+  - Price (BTC): 6.29516341660188e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 307
+  - Price (BTC): 4.399389982638786e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 388
-  - Price (BTC): 1.751520248256272e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03774386747616074
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Ethena (ENA)**
-  - Market Cap Rank: 67
-  - Price (BTC): 6.905409376432171e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.5477266930433604e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 311
-  - Price (BTC): 4.155453670420949e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.3687255654441562e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.359951032097189e-10
+  - Price (BTC): 1.372447767068811e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Polygon (MATIC)**
-  - Market Cap Rank: 95
-  - Price (BTC): 4.511727368523417e-06
-  - [More Info](https://www.coingecko.com/en/coins/polygon)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 16
-  - Price (BTC): 2.47207313658965e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 394
+  - Price (BTC): 1.6788523096376365e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 ## Posts
 - **Post ID: 1**
