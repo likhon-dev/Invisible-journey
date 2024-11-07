@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 11:13:16 UTC
+**Last updated:** 2024-11-07 12:28:05 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74975 USD
-  - Market Cap: $1482137769259.9023 USD
-  - 24h Volume: $74255862887.73691 USD
-  - 24h Change: 1.5925864840014008%
+- **Bitcoin (BTC)**: $74973 USD
+  - Market Cap: $1482475705313.3325 USD
+  - 24h Volume: $75340336194.4233 USD
+  - 24h Change: 0.6852104646632302%
 
-- **Ethereum (ETH)**: $2819.18 USD
-  - Market Cap: $339539801850.4029 USD
-  - 24h Volume: $36971300330.17194 USD
-  - 24h Change: 7.401960550117397%
+- **Ethereum (ETH)**: $2809.3 USD
+  - Market Cap: $338292736137.50934 USD
+  - 24h Volume: $36606128634.64053 USD
+  - 24h Change: 6.308411802153915%
 
 ## Trending Coins
 - **Swell (SWELL)**
-  - Market Cap Rank: 794
-  - Price (BTC): 4.1174429510650616e-07
+  - Market Cap Rank: 677
+  - Price (BTC): 5.150648470696566e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 693
+  - Price (BTC): 0.0006912888094645996
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 137
-  - Price (BTC): 3.510665502815747e-05
+  - Price (BTC): 3.4968433154171535e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Swell Ethereum (SWETH)**
-  - Market Cap Rank: 197
-  - Price (BTC): 0.04028129480703319
-  - [More Info](https://www.coingecko.com/en/coins/sweth)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 97
-  - Price (BTC): 2.902749859983282e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 286
-  - Price (BTC): 5.046791102605341e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 441
-  - Price (BTC): 3.0318215922407707e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 701
-  - Price (BTC): 0.0006774835739241147
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 72
-  - Price (BTC): 6.547573484654587e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 64
-  - Price (BTC): 6.9906709502822345e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.0002428317370424e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 284
-  - Price (BTC): 4.4068185114662406e-10
+  - Market Cap Rank: 279
+  - Price (BTC): 4.606830937462191e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.5578144233733368e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 285
+  - Price (BTC): 5.057992641851134e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 73
+  - Price (BTC): 6.304585044374837e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 103
+  - Price (BTC): 2.8206446022862764e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **Swell Ethereum (SWETH)**
+  - Market Cap Rank: 198
+  - Price (BTC): 0.04012145043146308
+  - [More Info](https://www.coingecko.com/en/coins/sweth)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024998002963782656
+  - Price (BTC): 0.0024937645442366287
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03758921437786383
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 440
+  - Price (BTC): 3.112922390467588e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3876340893960728e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0311648671455836e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.564589576959517e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 67
+  - Price (BTC): 6.763038158672222e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 2.0163395724610734e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 149
+  - Price (BTC): 4.1409987721042505e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 ## Posts
 - **Post ID: 1**
