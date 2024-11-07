@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 15:14:32 UTC
+**Last updated:** 2024-11-07 16:18:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75192 USD
-  - Market Cap: $1486795834291.3577 USD
-  - 24h Volume: $72527706076.32916 USD
-  - 24h Change: 1.1267606903867062%
+- **Bitcoin (BTC)**: $75887 USD
+  - Market Cap: $1500574143673.5186 USD
+  - 24h Volume: $60124906707.22498 USD
+  - 24h Change: 1.8234224522241753%
 
-- **Ethereum (ETH)**: $2810.39 USD
-  - Market Cap: $337516435894.73224 USD
-  - 24h Volume: $36308346092.247696 USD
-  - 24h Change: 6.162494702399736%
+- **Ethereum (ETH)**: $2837.36 USD
+  - Market Cap: $341418749090.7666 USD
+  - 24h Volume: $33542673369.627716 USD
+  - 24h Change: 7.165268352619184%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 267
-  - Price (BTC): 4.752431181161205e-10
+  - Market Cap Rank: 268
+  - Price (BTC): 4.869546466909639e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 121
+  - Price (BTC): 3.836860034740062e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 684
-  - Price (BTC): 0.0007002462587827788
+  - Market Cap Rank: 678
+  - Price (BTC): 0.0007135658318921694
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 772
-  - Price (BTC): 4.161972320876537e-07
+  - Market Cap Rank: 782
+  - Price (BTC): 4.0513216157949206e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 122
-  - Price (BTC): 3.791910207845453e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 281
-  - Price (BTC): 5.147648983032403e-06
+  - Market Cap Rank: 273
+  - Price (BTC): 5.355979393370147e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 67
-  - Price (BTC): 6.662557796237345e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 74
-  - Price (BTC): 6.273295110185902e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025070413265271493
+  - Price (BTC): 0.0025253950480411615
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 73
+  - Price (BTC): 6.436495559925115e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.037415814016770126
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 67
+  - Price (BTC): 6.672517442854078e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0325743627713184e-05
+  - Price (BTC): 3.097014299100105e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 450
-  - Price (BTC): 2.848068661480399e-05
+  - Market Cap Rank: 465
+  - Price (BTC): 2.7915155206862126e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Aave (AAVE)**
-  - Market Cap Rank: 40
-  - Price (BTC): 0.0023997747957038005
-  - [More Info](https://www.coingecko.com/en/coins/aave)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 106
+  - Price (BTC): 1.0851855265732122e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3658304120181697e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.554588295562302e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Swell Ethereum (SWETH)**
+  - Market Cap Rank: 197
+  - Price (BTC): 0.04009142215827776
+  - [More Info](https://www.coingecko.com/en/coins/sweth)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 106
-  - Price (BTC): 2.734543468448304e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.5250131634061747e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
