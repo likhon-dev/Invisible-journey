@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 17:12:52 UTC
+**Last updated:** 2024-11-08 18:19:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75886 USD
-  - Market Cap: $1504046297496.4043 USD
-  - 24h Volume: $62212478539.64869 USD
-  - 24h Change: -0.443551259171268%
+- **Bitcoin (BTC)**: $76533 USD
+  - Market Cap: $1513216187457.4163 USD
+  - 24h Volume: $64229317650.3496 USD
+  - 24h Change: 0.38459712169127597%
 
-- **Ethereum (ETH)**: $2902.77 USD
-  - Market Cap: $349552330037.3463 USD
-  - 24h Volume: $35369523175.82519 USD
-  - 24h Change: 1.600256562059222%
+- **Ethereum (ETH)**: $2926.61 USD
+  - Market Cap: $351843628620.05304 USD
+  - 24h Volume: $35347223415.883385 USD
+  - 24h Change: 2.5199296198535657%
 
 ## Trending Coins
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 453
-  - Price (BTC): 1.2241936403260538e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 272
+  - Price (BTC): 4.6179649163486983e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.929358279489814e-05
+  - Price (BTC): 2.9434863427987802e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002599110435414626
+  - Price (BTC): 0.0026007784184283716
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03832451121211037
+  - Price (BTC): 0.03820808022922329
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.5433199917172333e-06
+  - Price (BTC): 2.5263243748869845e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 271
-  - Price (BTC): 4.670833840650126e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.823830118039118e-06
+  - Price (BTC): 5.8207837287994006e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 457
+  - Price (BTC): 1.2087855435165914e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 107
-  - Price (BTC): 4.2404381691842835e-05
+  - Market Cap Rank: 105
+  - Price (BTC): 4.35961221940761e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 616
-  - Price (BTC): 6.408801002693564e-07
+  - Market Cap Rank: 622
+  - Price (BTC): 6.39902572477209e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 251
+  - Price (BTC): 1.5051400816665001e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 76
-  - Price (BTC): 1.799180316898996e-05
+  - Price (BTC): 1.7889942379201117e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3725108983906864e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.0064495564289091725
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 93
+  - Price (BTC): 1.829628831035141e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3807420172727088e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 112
-  - Price (BTC): 9.985640742060423e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 491
-  - Price (BTC): 2.5360500051212695e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 230
-  - Price (BTC): 4.029807186549889e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 ## Posts
 - **Post ID: 1**
