@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 01:07:48 UTC
+**Last updated:** 2024-11-08 02:44:33 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76047 USD
-  - Market Cap: $1504289218157.1797 USD
-  - 24h Volume: $61491321538.807335 USD
-  - 24h Change: 0.9838196213337475%
+- **Bitcoin (BTC)**: $75757 USD
+  - Market Cap: $1498893025258.6208 USD
+  - 24h Volume: $61832793001.02231 USD
+  - 24h Change: 0.6757737731815846%
 
-- **Ethereum (ETH)**: $2909.07 USD
-  - Market Cap: $350570605817.6233 USD
-  - 24h Volume: $32611797144.913395 USD
-  - 24h Change: 6.529396696657844%
+- **Ethereum (ETH)**: $2898.39 USD
+  - Market Cap: $349827766981.2502 USD
+  - 24h Volume: $35730425426.70852 USD
+  - 24h Change: 2.0153661995751793%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 258
-  - Price (BTC): 5.048002525521063e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.429917089370049e-06
+  - Price (BTC): 5.4545228241219455e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 706
-  - Price (BTC): 0.0006611845147192113
+  - Market Cap Rank: 709
+  - Price (BTC): 0.000656470307308636
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.647611709455548e-08
+  - Market Cap Rank: 131
+  - Price (BTC): 8.485851531584054e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 118
-  - Price (BTC): 3.9070812972578475e-05
+  - Market Cap Rank: 122
+  - Price (BTC): 3.780400883277036e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 453
-  - Price (BTC): 1.2507999733930044e-06
+  - Market Cap Rank: 451
+  - Price (BTC): 1.2481747272273357e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 737
-  - Price (BTC): 4.632201001200004e-07
+  - Market Cap Rank: 734
+  - Price (BTC): 4.6614098269121576e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0756140593759374e-05
+  - Price (BTC): 3.0428924714541773e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026201932936659646
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.5589328136300757e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 278
+  - Price (BTC): 5.328359806443881e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.464072337738423e-10
+  - Price (BTC): 1.432905665412506e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 288
-  - Price (BTC): 5.229693611676174e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.4614264677776233e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025990080702182187
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.535642703465754e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03828957486710543
+  - Price (BTC): 0.03831621475009518
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.4162109183130484e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 486
+  - Price (BTC): 2.6132894363627987e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 ## Posts
 - **Post ID: 1**
