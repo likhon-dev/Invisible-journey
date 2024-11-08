@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 20:15:20 UTC
+**Last updated:** 2024-11-08 21:13:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $77152 USD
-  - Market Cap: $1525584543695.3914 USD
-  - 24h Volume: $60392308640.92903 USD
-  - 24h Change: 0.6104663634406734%
+- **Bitcoin (BTC)**: $76735 USD
+  - Market Cap: $1518948582233.9905 USD
+  - 24h Volume: $63329157436.45466 USD
+  - 24h Change: 0.11449507547634288%
 
-- **Ethereum (ETH)**: $2960.16 USD
-  - Market Cap: $355844412129.7161 USD
-  - 24h Volume: $36001904384.15068 USD
-  - 24h Change: 2.4814559026468874%
+- **Ethereum (ETH)**: $2936.23 USD
+  - Market Cap: $353632173590.0797 USD
+  - 24h Volume: $34706058982.619095 USD
+  - 24h Change: 0.9708404559938463%
 
 ## Trending Coins
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.7564894345948885e-06
+  - Price (BTC): 5.757044427517894e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 459
-  - Price (BTC): 1.1992663553188329e-06
+  - Market Cap Rank: 460
+  - Price (BTC): 1.1975467456990466e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 110
-  - Price (BTC): 4.100145929694863e-05
+  - Market Cap Rank: 113
+  - Price (BTC): 4.025074095255384e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 221
-  - Price (BTC): 1.5927917574714986e-05
+  - Market Cap Rank: 231
+  - Price (BTC): 1.5682860926191414e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+
+- **Swell (SWELL)**
+  - Market Cap Rank: 629
+  - Price (BTC): 6.275978284842399e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.9408860828164858e-05
+  - Price (BTC): 2.945961189608567e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025964519755325966
+  - Price (BTC): 0.0025905532023984784
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03834838110193071
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3974471049270555e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 613
-  - Price (BTC): 6.324555527451708e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **MANTRA (OM)**
+  - Market Cap Rank: 76
+  - Price (BTC): 1.78913870335042e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 73
+  - Price (BTC): 6.349917276540646e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Kamino (KMNO)**
+  - Market Cap Rank: 322
+  - Price (BTC): 1.7016926736684299e-06
+  - [More Info](https://www.coingecko.com/en/coins/kamino)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 293
+  - Price (BTC): 4.646589035018396e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 41
+  - Price (BTC): 1.4402621315485605e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
 - **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.559109561070935e-06
+  - Market Cap Rank: 8
+  - Price (BTC): 2.5840551373669196e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.4030323464721872e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 77
-  - Price (BTC): 1.7890973831830672e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.4381693162330997e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 85
-  - Price (BTC): 9.5188371302839e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 74
-  - Price (BTC): 6.249582711821626e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
