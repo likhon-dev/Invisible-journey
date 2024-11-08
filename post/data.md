@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 08:18:19 UTC
+**Last updated:** 2024-11-08 09:14:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75848 USD
-  - Market Cap: $1501211515268.3796 USD
-  - 24h Volume: $54964848421.213165 USD
-  - 24h Change: 1.0148211329466035%
+- **Bitcoin (BTC)**: $76006 USD
+  - Market Cap: $1503248560767.9646 USD
+  - 24h Volume: $64150715959.5581 USD
+  - 24h Change: 1.1912097291103132%
 
-- **Ethereum (ETH)**: $2898.96 USD
-  - Market Cap: $350095929926.57196 USD
-  - 24h Volume: $30180505974.97617 USD
-  - 24h Change: 2.4569533118717612%
+- **Ethereum (ETH)**: $2907.92 USD
+  - Market Cap: $350155794781.73456 USD
+  - 24h Volume: $32465208663.597054 USD
+  - 24h Change: 3.0175417184923137%
 
 ## Trending Coins
 - **Notcoin (NOT)**
-  - Market Cap Rank: 133
-  - Price (BTC): 8.302229016991556e-08
+  - Market Cap Rank: 134
+  - Price (BTC): 8.296663188782551e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 449
+  - Price (BTC): 1.2529480486233181e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 110
-  - Price (BTC): 4.14883186423159e-05
+  - Price (BTC): 4.361012803281526e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Swell (SWELL)**
-  - Market Cap Rank: 641
-  - Price (BTC): 5.880222869466894e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.618906598469352e-06
+  - Price (BTC): 5.614533237837591e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 279
-  - Price (BTC): 1.2350929285446171e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+- **Swell (SWELL)**
+  - Market Cap Rank: 641
+  - Price (BTC): 5.988172020656882e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 453
-  - Price (BTC): 1.2322783390007646e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 286
+  - Price (BTC): 1.246701513164961e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002623833793929574
+  - Price (BTC): 0.002627105156284678
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0093323669487423e-05
+  - Price (BTC): 3.0301621676060596e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 72
-  - Price (BTC): 6.484438725655142e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 91
-  - Price (BTC): 3.0720727701579235e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 276
-  - Price (BTC): 5.283995680304939e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.6125449284252117e-06
+  - Price (BTC): 2.59648449622706e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Kamino (KMNO)**
-  - Market Cap Rank: 341
-  - Price (BTC): 1.5767165126889947e-06
+  - Market Cap Rank: 335
+  - Price (BTC): 1.6298964578323164e-06
   - [More Info](https://www.coingecko.com/en/coins/kamino)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.418248943870698e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.038248314817147015
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.4423882109808843e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 271
+  - Price (BTC): 5.396465332944316e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 104
+  - Price (BTC): 1.08983148722904e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 71
+  - Price (BTC): 6.31797506350142e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 ## Posts
 - **Post ID: 1**
