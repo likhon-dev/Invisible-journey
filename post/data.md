@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 19:10:37 UTC
+**Last updated:** 2024-11-09 20:13:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76636 USD
-  - Market Cap: $1510800330692.5715 USD
-  - 24h Volume: $37905616232.72498 USD
-  - 24h Change: -0.4055351153882822%
+- **Bitcoin (BTC)**: $76227 USD
+  - Market Cap: $1507766724425.4648 USD
+  - 24h Volume: $33482430449.11195 USD
+  - 24h Change: -1.160760662462755%
 
-- **Ethereum (ETH)**: $3068.2 USD
-  - Market Cap: $369338645230.18353 USD
-  - 24h Volume: $29607316328.681377 USD
-  - 24h Change: 3.4585951363305445%
+- **Ethereum (ETH)**: $3070.3 USD
+  - Market Cap: $369729522651.1475 USD
+  - 24h Volume: $28828629699.81131 USD
+  - 24h Change: 3.845854373218622%
 
 ## Trending Coins
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.2060227149224656e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 116
-  - Price (BTC): 4.024356401236729e-05
+  - Market Cap Rank: 115
+  - Price (BTC): 4.054973728689296e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 547
-  - Price (BTC): 8.06504884240703e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.2505110982373466e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 472
-  - Price (BTC): 1.1682501144807592e-06
+  - Market Cap Rank: 475
+  - Price (BTC): 1.1621150432403768e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
+- **Swell (SWELL)**
+  - Market Cap Rank: 552
+  - Price (BTC): 8.067107552991217e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 182
-  - Price (BTC): 2.1766872783554333e-05
+  - Market Cap Rank: 178
+  - Price (BTC): 2.2310328753133618e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 233
-  - Price (BTC): 6.277121581128163e-08
+  - Market Cap Rank: 227
+  - Price (BTC): 6.461254121718376e-08
   - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
-
-- **lmeow (LMEOW)**
-  - Market Cap Rank: 888
-  - Price (BTC): 4.4256522463721215e-07
-  - [More Info](https://www.coingecko.com/en/coins/lmeow-2)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 280
-  - Price (BTC): 5.2641642149890324e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.6334912739829747e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026028525776386016
+  - Price (BTC): 0.0025966889134556945
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Parcl (PRCL)**
-  - Market Cap Rank: 582
-  - Price (BTC): 6.09387867866555e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.04029756249242686
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 63
-  - Price (BTC): 1.5826060531251036e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 7.231139468759284e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Dogs (DOGS)**
-  - Market Cap Rank: 193
-  - Price (BTC): 1.00469654938004e-08
-  - [More Info](https://www.coingecko.com/en/coins/dogs)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.7301083267705186e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.5793461682203497e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 281
+  - Price (BTC): 5.279337179392262e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **lmeow (LMEOW)**
+  - Market Cap Rank: 879
+  - Price (BTC): 4.52638029382753e-07
+  - [More Info](https://www.coingecko.com/en/coins/lmeow-2)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6117841855892716e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Parcl (PRCL)**
+  - Market Cap Rank: 576
+  - Price (BTC): 6.202602559463651e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
 
 ## Posts
 - **Post ID: 1**
