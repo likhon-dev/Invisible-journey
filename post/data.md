@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 05:13:00 UTC
+**Last updated:** 2024-11-09 06:18:32 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76439 USD
-  - Market Cap: $1511389579220.3547 USD
-  - 24h Volume: $56384601980.512314 USD
-  - 24h Change: 0.5347824412523756%
+- **Bitcoin (BTC)**: $76764 USD
+  - Market Cap: $1514706112978.1858 USD
+  - 24h Volume: $56416959473.51681 USD
+  - 24h Change: 0.9978792097038417%
 
-- **Ethereum (ETH)**: $2974.2 USD
-  - Market Cap: $358057740163.52405 USD
-  - 24h Volume: $31217004917.671246 USD
-  - 24h Change: 2.173347565248872%
+- **Ethereum (ETH)**: $3055.29 USD
+  - Market Cap: $366311387004.56555 USD
+  - 24h Volume: $33653150710.055496 USD
+  - 24h Change: 4.604920847942677%
 
 ## Trending Coins
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 159
-  - Price (BTC): 2.7862177132310232e-05
+  - Market Cap Rank: 170
+  - Price (BTC): 2.5595665182137966e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 535
-  - Price (BTC): 8.208815937398498e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Grass (GRASS)**
+  - Market Cap Rank: 106
+  - Price (BTC): 4.313312572411684e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Solidus Ai Tech (AITECH)**
   - Market Cap Rank: 468
-  - Price (BTC): 1.1807343671166748e-06
+  - Price (BTC): 1.1716053494362215e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 105
-  - Price (BTC): 4.3662222204323595e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Swell (SWELL)**
+  - Market Cap Rank: 535
+  - Price (BTC): 8.218067399487154e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Kamino (KMNO)**
-  - Market Cap Rank: 298
-  - Price (BTC): 2.064014015480609e-06
+  - Market Cap Rank: 291
+  - Price (BTC): 2.152825778480731e-06
   - [More Info](https://www.coingecko.com/en/coins/kamino)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 64
-  - Price (BTC): 1.5232947920678349e-05
+  - Price (BTC): 1.5205108289640068e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Parcl (PRCL)**
+  - Market Cap Rank: 608
+  - Price (BTC): 5.538479770575929e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.039804140097281615
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 69
+  - Price (BTC): 7.143228173212048e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002630792927220236
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.9483058669497936e-05
+  - Price (BTC): 2.9965894318736256e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **mETH Protocol (COOK)**
+  - Market Cap Rank: 776
+  - Price (BTC): 5.691693065641546e-07
+  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Injective (INJ)**
-  - Market Cap Rank: 51
-  - Price (BTC): 0.00029087626906662583
-  - [More Info](https://www.coingecko.com/en/coins/injective)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 92
+  - Price (BTC): 1.8759735852112314e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026138363419523185
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 69
-  - Price (BTC): 7.099170336681348e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Stargate Finance (STG)**
-  - Market Cap Rank: 492
-  - Price (BTC): 5.718004783068706e-06
-  - [More Info](https://www.coingecko.com/en/coins/stargate-finance)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3855009409212754e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 48
-  - Price (BTC): 3.0166974174350924e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.038913584221267734
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Wormhole (W)**
+  - Market Cap Rank: 128
+  - Price (BTC): 3.3729513301206823e-06
+  - [More Info](https://www.coingecko.com/en/coins/wormhole)
 
 ## Posts
 - **Post ID: 1**
