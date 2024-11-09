@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 16:16:00 UTC
+**Last updated:** 2024-11-09 17:11:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76293 USD
-  - Market Cap: $1509044241963.0552 USD
-  - 24h Volume: $42229444956.729065 USD
-  - 24h Change: -0.18184363529124287%
+- **Bitcoin (BTC)**: $76042 USD
+  - Market Cap: $1505102504733.491 USD
+  - 24h Volume: $41634528918.091675 USD
+  - 24h Change: 0.1826762359110476%
 
-- **Ethereum (ETH)**: $3038.19 USD
-  - Market Cap: $366002182327.43475 USD
-  - 24h Volume: $31283689968.5732 USD
-  - 24h Change: 3.588501291838938%
+- **Ethereum (ETH)**: $3024.71 USD
+  - Market Cap: $364494407876.0462 USD
+  - 24h Volume: $30583542070.06678 USD
+  - 24h Change: 4.204984892731877%
 
 ## Trending Coins
 - **lmeow (LMEOW)**
-  - Market Cap Rank: 831
-  - Price (BTC): 5.013907933342857e-07
+  - Market Cap Rank: 819
+  - Price (BTC): 5.082259736904126e-07
   - [More Info](https://www.coingecko.com/en/coins/lmeow-2)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 126
-  - Price (BTC): 3.788204592240558e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Swell (SWELL)**
+  - Market Cap Rank: 552
+  - Price (BTC): 8.096641961416167e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 183
-  - Price (BTC): 2.4397484493522077e-05
+  - Market Cap Rank: 175
+  - Price (BTC): 2.2630097801420417e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 467
-  - Price (BTC): 1.1739660194042884e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+- **Grass (GRASS)**
+  - Market Cap Rank: 122
+  - Price (BTC): 3.865633385997765e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 537
-  - Price (BTC): 8.218280827526487e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 470
+  - Price (BTC): 1.1714334827919204e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Hamster Kombat (HMSTR)**
   - Market Cap Rank: 236
-  - Price (BTC): 6.165364318193601e-08
+  - Price (BTC): 6.0362474810701e-08
   - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025983704545331082
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.118002000894577e-05
+  - Price (BTC): 3.101218289761e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.5408170437626007e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025874880608834157
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03985422889482709
+  - Price (BTC): 0.039816837510117956
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.6988563772381524e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.5536187379258924e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 7.17874204465115e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 5.732878999575623e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.5987506065231678e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4141762863012982e-10
+  - Price (BTC): 1.409643195659236e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.9075025118480547e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Toncoin (TON)**
+  - Market Cap Rank: 12
+  - Price (BTC): 6.888864835048336e-05
+  - [More Info](https://www.coingecko.com/en/coins/toncoin)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.0064681664133903125
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.6934747592287266e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
