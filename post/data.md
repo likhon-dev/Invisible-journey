@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 03:19:22 UTC
+**Last updated:** 2024-11-10 04:16:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $77266 USD
-  - Market Cap: $1526010418550.851 USD
-  - 24h Volume: $36316130201.495026 USD
-  - 24h Change: 1.2144542512086378%
+- **Bitcoin (BTC)**: $77373 USD
+  - Market Cap: $1529760013287.69 USD
+  - 24h Volume: $36589032731.21917 USD
+  - 24h Change: 1.278297980839812%
 
-- **Ethereum (ETH)**: $3133.61 USD
-  - Market Cap: $377306128541.06195 USD
-  - 24h Volume: $31704802064.862743 USD
-  - 24h Change: 5.417518282767632%
+- **Ethereum (ETH)**: $3142.63 USD
+  - Market Cap: $378393122533.25146 USD
+  - 24h Volume: $31735851645.29588 USD
+  - 24h Change: 5.928964661157371%
 
 ## Trending Coins
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.655529715173256e-05
+  - Price (BTC): 3.650509954356572e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Tezos (XTZ)**
+  - Market Cap Rank: 131
+  - Price (BTC): 9.054579386295837e-06
+  - [More Info](https://www.coingecko.com/en/coins/tezos)
 
 - **Solidus Ai Tech (AITECH)**
   - Market Cap Rank: 483
-  - Price (BTC): 1.158911896110698e-06
+  - Price (BTC): 1.158317383006748e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 108
-  - Price (BTC): 4.259963125414365e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026171346903718896
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 258
-  - Price (BTC): 5.918264849599725e-06
+  - Market Cap Rank: 254
+  - Price (BTC): 6.102358294257244e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 111
+  - Price (BTC): 4.237427620484601e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 6.788595551989639e-06
+  - Price (BTC): 6.9146740595763645e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Venus (XVS)**
+  - Market Cap Rank: 415
+  - Price (BTC): 9.648739162258474e-05
+  - [More Info](https://www.coingecko.com/en/coins/venus)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 2.91732583757993e-06
+  - Price (BTC): 2.9492884964208124e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026069681820746985
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Swell (SWELL)**
-  - Market Cap Rank: 557
-  - Price (BTC): 7.808214270046804e-07
+  - Market Cap Rank: 556
+  - Price (BTC): 7.87043905125913e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 176
-  - Price (BTC): 2.262866930823688e-05
+  - Market Cap Rank: 177
+  - Price (BTC): 2.3010083827921606e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 63
+  - Price (BTC): 1.5897268311971074e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Hamster Kombat (HMSTR)**
+  - Market Cap Rank: 208
+  - Price (BTC): 7.453490510127687e-08
+  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.04053282152755984
+  - Price (BTC): 0.040585797957943044
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 211
-  - Price (BTC): 7.439059319629848e-08
-  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 212
-  - Price (BTC): 4.790152918066916e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.4643364280295844e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 14
-  - Price (BTC): 2.892890010632274e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Dogs (DOGS)**
+  - Market Cap Rank: 192
+  - Price (BTC): 1.0277797782154445e-08
+  - [More Info](https://www.coingecko.com/en/coins/dogs)
 
 ## Posts
 - **Post ID: 1**
