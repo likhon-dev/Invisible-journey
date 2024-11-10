@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 15:13:41 UTC
+**Last updated:** 2024-11-10 16:15:30 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $79663 USD
-  - Market Cap: $1572984941357.2695 USD
-  - 24h Volume: $68168721592.72359 USD
-  - 24h Change: 4.341813337963947%
+- **Bitcoin (BTC)**: $79616 USD
+  - Market Cap: $1576295398041.533 USD
+  - 24h Volume: $70851450644.08354 USD
+  - 24h Change: 4.354148357906458%
 
-- **Ethereum (ETH)**: $3198.57 USD
-  - Market Cap: $384678278386.25507 USD
-  - 24h Volume: $39775377524.38089 USD
-  - 24h Change: 5.370979361359629%
+- **Ethereum (ETH)**: $3203.26 USD
+  - Market Cap: $386401323891.6988 USD
+  - 24h Volume: $40899000055.106514 USD
+  - 24h Change: 5.433878829979449%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 277
-  - Price (BTC): 4.731960054639658e-10
+  - Market Cap Rank: 274
+  - Price (BTC): 4.758821724718533e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.7344509469915725e-05
+  - Price (BTC): 3.7744219969825595e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 127
+  - Price (BTC): 3.879588951904647e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Notcoin (NOT)**
-  - Market Cap Rank: 116
-  - Price (BTC): 9.830063062017818e-08
+  - Market Cap Rank: 115
+  - Price (BTC): 9.88992946061911e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 482
+  - Price (BTC): 1.1823523322727355e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.471819439210575e-06
+  - Price (BTC): 7.5044488971287764e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 128
-  - Price (BTC): 3.8130089003590165e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.0334058894704837e-06
+  - Price (BTC): 3.083139082317688e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 477
-  - Price (BTC): 1.1852309124283384e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.9836873327956248e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.5398826560714778e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025934328218607757
+  - Price (BTC): 0.0026574627871605067
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.04013542485918795
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.5697890697608562e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 86
-  - Price (BTC): 1.015889687434198e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.987706606116441e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.04023421931794087
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 93
+  - Price (BTC): 1.9599896792433855e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
 - **Shiba Inu (SHIB)**
   - Market Cap Rank: 11
-  - Price (BTC): 3.200792308265071e-10
+  - Price (BTC): 3.2390958374137587e-10
   - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 1.8986841227101003e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Brett (BRETT)**
+  - Market Cap Rank: 94
+  - Price (BTC): 1.2992049016988188e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 ## Posts
 - **Post ID: 1**
