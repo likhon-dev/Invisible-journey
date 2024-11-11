@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 06:20:49 UTC
+**Last updated:** 2024-11-11 07:14:58 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $80823 USD
-  - Market Cap: $1598306695015.9224 USD
-  - 24h Volume: $86385041658.4479 USD
-  - 24h Change: 2.2203282646042934%
+- **Bitcoin (BTC)**: $81032 USD
+  - Market Cap: $1602362322192.022 USD
+  - 24h Volume: $82708061398.22054 USD
+  - 24h Change: 2.491868719027359%
 
-- **Ethereum (ETH)**: $3128.81 USD
-  - Market Cap: $376875517578.28625 USD
-  - 24h Volume: $48231907801.38095 USD
-  - 24h Change: -1.4580035255225485%
+- **Ethereum (ETH)**: $3142.02 USD
+  - Market Cap: $378215416238.4442 USD
+  - 24h Volume: $48377240499.583496 USD
+  - 24h Change: -1.481458182680426%
 
 ## Trending Coins
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 218
-  - Price (BTC): 4.225306146643096e-06
+  - Market Cap Rank: 213
+  - Price (BTC): 4.78078847455762e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 251
+  - Price (BTC): 3.7638657887830253e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 18
-  - Price (BTC): 3.892701108482441e-05
+  - Price (BTC): 3.886047030531044e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.471479881440577e-06
+  - Price (BTC): 3.4503861349812702e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 134
-  - Price (BTC): 3.4456818128453144e-05
+  - Price (BTC): 3.387697319230246e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 39
+  - Price (BTC): 3.712060055347356e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 401
-  - Price (BTC): 4.1107110739394766e-06
+  - Market Cap Rank: 400
+  - Price (BTC): 4.09264108304128e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 40
-  - Price (BTC): 3.693264779367465e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002558300548286786
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 111
+  - Price (BTC): 1.0069799067853103e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 93
+  - Price (BTC): 2.998966756546014e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4889054889612459e-10
+  - Price (BTC): 1.4844108314070122e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.9100335005562933e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 214
+  - Price (BTC): 4.568703792356768e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.103577240098487e-06
+  - Price (BTC): 7.060789013957318e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Acet (ACT)**
-  - Market Cap Rank: 402
-  - Price (BTC): 7.657561552009948e-07
-  - [More Info](https://www.coingecko.com/en/coins/acet)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002552731632624836
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03881987542848574
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 209
-  - Price (BTC): 4.664074307704763e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.4813953717613644e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.0335825086235376e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
 - **Post ID: 1**
