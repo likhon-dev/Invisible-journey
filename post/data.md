@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 02:46:31 UTC
+**Last updated:** 2024-11-11 03:19:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $81291 USD
-  - Market Cap: $1611127769204.8523 USD
-  - 24h Volume: $97946997628.87186 USD
-  - 24h Change: 5.016665426581751%
+- **Bitcoin (BTC)**: $81270 USD
+  - Market Cap: $1607566623246.2231 USD
+  - 24h Volume: $97351435803.54279 USD
+  - 24h Change: 4.986236374655414%
 
-- **Ethereum (ETH)**: $3201.69 USD
-  - Market Cap: $386497912351.58246 USD
-  - 24h Volume: $51988729140.75939 USD
-  - 24h Change: 1.6822258539615726%
+- **Ethereum (ETH)**: $3194.38 USD
+  - Market Cap: $385294700756.3925 USD
+  - 24h Volume: $51531259120.47921 USD
+  - 24h Change: 1.7531057612545542%
 
 ## Trending Coins
 - **BounceBit (BB)**
-  - Market Cap Rank: 387
-  - Price (BTC): 4.349262081664877e-06
+  - Market Cap Rank: 389
+  - Price (BTC): 4.34246562636283e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Sui (SUI)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.880761052546644e-05
+  - Price (BTC): 3.9141097277744965e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.645830639937503e-06
+  - Price (BTC): 3.6050700185159264e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 131
-  - Price (BTC): 3.665455742302841e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 105
-  - Price (BTC): 1.1522410095223922e-05
+  - Market Cap Rank: 106
+  - Price (BTC): 1.156324985396513e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025920267645765643
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.385971251962152e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.314329921664946e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.5248924676003415e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Grass (GRASS)**
+  - Market Cap Rank: 132
+  - Price (BTC): 3.702391955230428e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 87
-  - Price (BTC): 3.34394012937917e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025886532077991705
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.5775526572186036e-10
+  - Price (BTC): 1.58274318568302e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 272
-  - Price (BTC): 4.79552954473279e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.288090469669354e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 273
-  - Price (BTC): 5.3390245706520434e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 40
+  - Price (BTC): 3.806630021654922e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **Kamino (KMNO)**
-  - Market Cap Rank: 315
-  - Price (BTC): 1.8777909603460342e-06
-  - [More Info](https://www.coingecko.com/en/coins/kamino)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.311040465765759e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03933072216671328
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 79
+  - Price (BTC): 1.1077299248569867e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.9116937670203386e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.874590979786632e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 ## Posts
 - **Post ID: 1**
