@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 15:14:53 UTC
+**Last updated:** 2024-11-11 16:19:05 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $82894 USD
-  - Market Cap: $1635597281816.0264 USD
-  - 24h Volume: $93927109899.59695 USD
-  - 24h Change: 3.9911074132512616%
+- **Bitcoin (BTC)**: $84842 USD
+  - Market Cap: $1678820489991.0186 USD
+  - 24h Volume: $98840940543.41338 USD
+  - 24h Change: 6.603048605856357%
 
-- **Ethereum (ETH)**: $3193.93 USD
-  - Market Cap: $384139612985.6873 USD
-  - 24h Volume: $50015775071.44281 USD
-  - 24h Change: -0.23040619004829113%
+- **Ethereum (ETH)**: $3252.85 USD
+  - Market Cap: $391513537384.7397 USD
+  - 24h Volume: $53223708731.20716 USD
+  - 24h Change: 1.6667078395079062%
 
 ## Trending Coins
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 314
-  - Price (BTC): 2.0157233675280328e-10
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
-
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 177
-  - Price (BTC): 6.0500900592588265e-06
+  - Market Cap Rank: 183
+  - Price (BTC): 5.548452063672478e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 398
-  - Price (BTC): 4.13418098736717e-06
+  - Market Cap Rank: 394
+  - Price (BTC): 4.178415945862816e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 706
-  - Price (BTC): 1.9760275734921455e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 193
-  - Price (BTC): 5.143946204604241e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 310
+  - Price (BTC): 2.0574512480761297e-10
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.9449165052314164e-05
+  - Market Cap Rank: 18
+  - Price (BTC): 3.8012201557635e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 120
-  - Price (BTC): 3.744836224858622e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 202
+  - Price (BTC): 4.813555027684396e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002648547947753405
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 671
+  - Price (BTC): 2.1246251124602513e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.518549110330837e-06
+  - Price (BTC): 3.7378060797078135e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.198312404677899e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.038546953669979504
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 63
-  - Price (BTC): 7.67734784742644e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 114
-  - Price (BTC): 9.814471069701958e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Grass (GRASS)**
+  - Market Cap Rank: 119
+  - Price (BTC): 3.80382440969059e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03843847898338299
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025914536411802518
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 64
+  - Price (BTC): 7.502380846668506e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.162141336681314e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.460278667625459e-10
+  - Price (BTC): 1.477511444387584e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 78
+  - Price (BTC): 1.0617755693523501e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
