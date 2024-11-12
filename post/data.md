@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 16:18:28 UTC
+**Last updated:** 2024-11-12 17:12:58 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $85977 USD
-  - Market Cap: $1705791480861.112 USD
-  - 24h Volume: $174954123076.23676 USD
-  - 24h Change: 1.2539949906114054%
+- **Bitcoin (BTC)**: $87313 USD
+  - Market Cap: $1728516826305.9412 USD
+  - 24h Volume: $167948752807.76163 USD
+  - 24h Change: 3.111385132220607%
 
-- **Ethereum (ETH)**: $3233.54 USD
-  - Market Cap: $389401663547.8844 USD
-  - 24h Volume: $75860309686.38966 USD
-  - 24h Change: -0.6444012838326763%
+- **Ethereum (ETH)**: $3260.62 USD
+  - Market Cap: $392906939832.876 USD
+  - 24h Volume: $70771283135.30113 USD
+  - 24h Change: -1.1562933300428366%
 
 ## Trending Coins
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 461
-  - Price (BTC): 3.852395232167387e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
 - **BounceBit (BB)**
-  - Market Cap Rank: 392
-  - Price (BTC): 3.852627048254405e-06
+  - Market Cap Rank: 393
+  - Price (BTC): 3.843285050643416e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 495
+  - Price (BTC): 3.439704494244507e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 481
+  - Price (BTC): 1.3301085079251264e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
 - **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.107938897309036e-08
+  - Market Cap Rank: 129
+  - Price (BTC): 8.060808634034216e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Nimiq (NIM)**
-  - Market Cap Rank: 957
-  - Price (BTC): 2.8944399305402006e-08
+  - Market Cap Rank: 954
+  - Price (BTC): 2.8974932327467796e-08
   - [More Info](https://www.coingecko.com/en/coins/nimiq)
-
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 416
-  - Price (BTC): 1.7411369656567933e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.239598885817996e-06
+  - Price (BTC): 4.178998016012315e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.0742314237938864e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.590640194035199e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.499776035377005e-05
+  - Market Cap Rank: 18
+  - Price (BTC): 3.565054136314994e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.0857081102935082e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0024283983937193766
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024302885711386603
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03736270271787046
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 182
-  - Price (BTC): 5.538906726064815e-06
+  - Market Cap Rank: 184
+  - Price (BTC): 5.282938890138035e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 154
-  - Price (BTC): 6.9649447269306815e-06
+  - Market Cap Rank: 158
+  - Price (BTC): 6.6001099658347495e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 126
-  - Price (BTC): 3.445692795167141e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.6221349558285024e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 1.4700126017006475e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **NEURALAI (NEURAL)**
+  - Market Cap Rank: 572
+  - Price (BTC): 8.925390619356102e-05
+  - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 ## Posts
 - **Post ID: 1**
