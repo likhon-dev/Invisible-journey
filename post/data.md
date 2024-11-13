@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-13 12:29:11 UTC
+**Last updated:** 2024-11-13 13:21:33 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $87837 USD
-  - Market Cap: $1734584409901.1 USD
-  - 24h Volume: $119221070979.70876 USD
-  - 24h Change: 0.8094315358444361%
+- **Bitcoin (BTC)**: $87912 USD
+  - Market Cap: $1737493010661.3428 USD
+  - 24h Volume: $115362542017.88048 USD
+  - 24h Change: 2.276513128558052%
 
-- **Ethereum (ETH)**: $3169.19 USD
-  - Market Cap: $381407126437.7333 USD
-  - 24h Volume: $48204240906.54377 USD
-  - 24h Change: -2.9675242885963695%
+- **Ethereum (ETH)**: $3168.27 USD
+  - Market Cap: $381327836801.8839 USD
+  - 24h Volume: $45844506865.572784 USD
+  - 24h Change: -2.3993234522776308%
 
 ## Trending Coins
-- **BounceBit (BB)**
-  - Market Cap Rank: 402
-  - Price (BTC): 3.575636838693154e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 77
-  - Price (BTC): 1.632711792570603e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 472
-  - Price (BTC): 3.5970170643685986e-07
+  - Market Cap Rank: 440
+  - Price (BTC): 3.681503942486752e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
-- **PaLM AI (PALM)**
-  - Market Cap Rank: 686
-  - Price (BTC): 8.321664479127002e-06
-  - [More Info](https://www.coingecko.com/en/coins/palm-ai)
-
 - **Notcoin (NOT)**
-  - Market Cap Rank: 126
-  - Price (BTC): 8.197431843884179e-08
+  - Market Cap Rank: 125
+  - Price (BTC): 8.318616216028908e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
-- **sudeng (HIPPO)**
-  - Market Cap Rank: 291
-  - Price (BTC): 2.5989461634953333e-07
-  - [More Info](https://www.coingecko.com/en/coins/sudeng)
-
 - **Nimiq (NIM)**
-  - Market Cap Rank: 982
-  - Price (BTC): 2.7509780484433226e-08
+  - Market Cap Rank: 992
+  - Price (BTC): 2.7366566623103783e-08
   - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 185
-  - Price (BTC): 4.6597962224315945e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.970334803379294e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **PaLM AI (PALM)**
+  - Market Cap Rank: 692
+  - Price (BTC): 8.278446713593284e-06
+  - [More Info](https://www.coingecko.com/en/coins/palm-ai)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 405
+  - Price (BTC): 3.5569096367827957e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **sudeng (HIPPO)**
+  - Market Cap Rank: 294
+  - Price (BTC): 2.488243363998027e-07
+  - [More Info](https://www.coingecko.com/en/coins/sudeng)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.411152520105109e-06
+  - Price (BTC): 4.436162120550759e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 184
+  - Price (BTC): 4.906803054775149e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 47
-  - Price (BTC): 4.1070020756911563e-10
+  - Price (BTC): 4.253286026648444e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **PAAL AI (PAAL)**
-  - Market Cap Rank: 488
-  - Price (BTC): 1.3432548157711513e-06
+  - Market Cap Rank: 494
+  - Price (BTC): 1.2948288402530357e-06
   - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.61524890292282e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Act I The AI Prophecy (ACT)**
   - Market Cap Rank: 139
-  - Price (BTC): 7.910033533982468e-06
+  - Price (BTC): 7.621832511089577e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.66708103901689e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002366451050035827
+  - Price (BTC): 0.002360680682036656
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 131
-  - Price (BTC): 3.238149856986923e-05
+  - Market Cap Rank: 132
+  - Price (BTC): 3.1561323700178077e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 ## Posts
