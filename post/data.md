@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-14 07:14:25 UTC
+**Last updated:** 2024-11-14 08:19:22 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $89664 USD
-  - Market Cap: $1772464515821.4941 USD
-  - 24h Volume: $135246841205.78186 USD
-  - 24h Change: 2.9567960202761445%
+- **Bitcoin (BTC)**: $91339 USD
+  - Market Cap: $1805705634653.81 USD
+  - 24h Volume: $119296154782.45609 USD
+  - 24h Change: 4.550731992085252%
 
-- **Ethereum (ETH)**: $3188.33 USD
-  - Market Cap: $383235502934.5561 USD
-  - 24h Volume: $48132717323.94926 USD
-  - 24h Change: 1.324390195272181%
+- **Ethereum (ETH)**: $3228.44 USD
+  - Market Cap: $388702643584.3906 USD
+  - 24h Volume: $60227061802.93561 USD
+  - 24h Change: 2.300614894039341%
 
 ## Trending Coins
 - **Notcoin (NOT)**
-  - Market Cap Rank: 115
-  - Price (BTC): 9.126533640205423e-08
+  - Market Cap Rank: 118
+  - Price (BTC): 9.061749099279318e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 61
-  - Price (BTC): 2.3042160489463367e-05
+  - Market Cap Rank: 58
+  - Price (BTC): 2.3718101978783557e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 18
-  - Price (BTC): 2.5342534620159783e-10
+  - Price (BTC): 2.5089862143267257e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 180
-  - Price (BTC): 5.081333637142364e-06
+  - Market Cap Rank: 196
+  - Price (BTC): 4.749190773803423e-06
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 6
-  - Price (BTC): 4.343062676436191e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **First Convicted RACCON (FRED)**
+  - Market Cap Rank: 273
+  - Price (BTC): 3.007600747448641e-06
+  - [More Info](https://www.coingecko.com/en/coins/first-convicted-raccon)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.8419692626116704e-05
+  - Price (BTC): 3.7543237476981936e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **First Convicted RACCON (FRED)**
-  - Market Cap Rank: 292
-  - Price (BTC): 2.67814765825092e-06
-  - [More Info](https://www.coingecko.com/en/coins/first-convicted-raccon)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 31
-  - Price (BTC): 4.5639560673458e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 6
+  - Price (BTC): 4.394686919454127e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 185
-  - Price (BTC): 5.0924264902599424e-06
+  - Market Cap Rank: 180
+  - Price (BTC): 5.295877589633965e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 124
+  - Price (BTC): 9.616305291565715e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 33
+  - Price (BTC): 4.491467489602058e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 44
-  - Price (BTC): 4.373981477753129e-10
+  - Price (BTC): 4.387344674715215e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 473
-  - Price (BTC): 3.5639679558384267e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.0382833636695715e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 388
-  - Price (BTC): 1.9170684033243616e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
-
-- **Sundog (SUNDOG)**
-  - Market Cap Rank: 325
-  - Price (BTC): 2.2788620933325552e-06
-  - [More Info](https://www.coingecko.com/en/coins/sundog)
-
 - **Brett (BRETT)**
-  - Market Cap Rank: 76
-  - Price (BTC): 1.5611102328764542e-06
+  - Market Cap Rank: 78
+  - Price (BTC): 1.5537741081935033e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 66
+  - Price (BTC): 2.0214438691111917e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 163
+  - Price (BTC): 6.44527426426597e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Shrub (SHRUB)**
+  - Market Cap Rank: 332
+  - Price (BTC): 2.336656297357198e-06
+  - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 ## Posts
 - **Post ID: 1**
