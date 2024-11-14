@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-14 17:14:03 UTC
+**Last updated:** 2024-11-14 18:20:07 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $89105 USD
-  - Market Cap: $1762696540545.957 USD
-  - 24h Volume: $118238381603.18987 USD
-  - 24h Change: -3.92834470964599%
+- **Bitcoin (BTC)**: $89624 USD
+  - Market Cap: $1772967707965.033 USD
+  - 24h Volume: $109757379524.35728 USD
+  - 24h Change: -3.1715680151029804%
 
-- **Ethereum (ETH)**: $3163.89 USD
-  - Market Cap: $380908774010.242 USD
-  - 24h Volume: $42313265192.72266 USD
-  - 24h Change: -4.1164512261081665%
+- **Ethereum (ETH)**: $3144.22 USD
+  - Market Cap: $377349514583.50494 USD
+  - 24h Volume: $53667729975.59681 USD
+  - 24h Change: -4.330395631641363%
 
 ## Trending Coins
-- **BounceBit (BB)**
-  - Market Cap Rank: 415
-  - Price (BTC): 3.531907197122669e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
 - **Dogelon Mars (ELON)**
-  - Market Cap Rank: 427
-  - Price (BTC): 2.5154047895119225e-12
+  - Market Cap Rank: 438
+  - Price (BTC): 2.4509571906125662e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 369
-  - Price (BTC): 5.205770189748622e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 57
-  - Price (BTC): 2.2451273199231727e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.564413765092903e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **BounceBit (BB)**
+  - Market Cap Rank: 413
+  - Price (BTC): 3.5096804616376708e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 197
-  - Price (BTC): 6.861652025959839e-10
+  - Market Cap Rank: 198
+  - Price (BTC): 6.885748458162964e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.18624915101262e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 384
+  - Price (BTC): 4.873364095502098e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 17
+  - Price (BTC): 2.5883656781774403e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 211
-  - Price (BTC): 4.262546747558162e-06
+  - Market Cap Rank: 223
+  - Price (BTC): 3.93264721388099e-06
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6474117863003997e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
 - **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.806532548710374e-05
+  - Market Cap Rank: 18
+  - Price (BTC): 3.773836950465871e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.4789995598747195e-06
+  - Price (BTC): 4.44083002209111e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024239964546798323
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 35
-  - Price (BTC): 1.5760138991976748e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Bonk (BONK)**
+  - Market Cap Rank: 46
+  - Price (BTC): 4.2328218736501667e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 31
-  - Price (BTC): 4.534700691770778e-05
+  - Price (BTC): 4.4917475513919836e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.988295827177745e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 178
-  - Price (BTC): 5.311687144643549e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0024162761796993905
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.676616500245567e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 147
+  - Price (BTC): 7.177365897622621e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
