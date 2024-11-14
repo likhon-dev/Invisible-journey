@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-14 13:23:05 UTC
+**Last updated:** 2024-11-14 14:14:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91032 USD
-  - Market Cap: $1803463933821.1436 USD
-  - 24h Volume: $138041917992.11823 USD
-  - 24h Change: 3.2306119740413495%
+- **Bitcoin (BTC)**: $90821 USD
+  - Market Cap: $1796662416383.9243 USD
+  - 24h Volume: $131857651245.41739 USD
+  - 24h Change: 1.2513348537889086%
 
-- **Ethereum (ETH)**: $3185.56 USD
-  - Market Cap: $384196346209.0504 USD
-  - 24h Volume: $59353430005.60128 USD
-  - 24h Change: 0.21478588968316545%
+- **Ethereum (ETH)**: $3180.57 USD
+  - Market Cap: $382113334430.55835 USD
+  - 24h Volume: $57426499282.31541 USD
+  - 24h Change: -1.8122829418300135%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 357
-  - Price (BTC): 5.746070644712754e-07
+  - Market Cap Rank: 359
+  - Price (BTC): 5.593397945785655e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 234
-  - Price (BTC): 5.561090005558535e-10
+  - Market Cap Rank: 225
+  - Price (BTC): 5.821293491675963e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 416
-  - Price (BTC): 3.4753142687119846e-06
+  - Market Cap Rank: 415
+  - Price (BTC): 3.4817685826690307e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.066173625674643e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.394321844998825e-10
+  - Market Cap Rank: 19
+  - Price (BTC): 2.3872694710464335e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 2.0387362022000268e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 203
-  - Price (BTC): 4.308153485961507e-06
+  - Market Cap Rank: 206
+  - Price (BTC): 4.2346177918354285e-06
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.344835056330588e-06
+  - Price (BTC): 4.510488500304156e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.659897490787413e-05
+  - Price (BTC): 3.662553408468019e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00237820484126493
+  - Price (BTC): 0.002367656960732098
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 43
-  - Price (BTC): 4.4480784170092817e-10
+  - Price (BTC): 4.313657564072691e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.9703213130453086e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 184
+  - Price (BTC): 5.034440683094837e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 31
-  - Price (BTC): 4.460121674924287e-05
+  - Price (BTC): 4.444256754500893e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
+- **sudeng (HIPPO)**
+  - Market Cap Rank: 323
+  - Price (BTC): 2.2439301333280338e-07
+  - [More Info](https://www.coingecko.com/en/coins/sudeng)
+
 - **First Convicted RACCON (FRED)**
-  - Market Cap Rank: 282
-  - Price (BTC): 2.6548986526038586e-06
+  - Market Cap Rank: 303
+  - Price (BTC): 2.4949373546296875e-06
   - [More Info](https://www.coingecko.com/en/coins/first-convicted-raccon)
-
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 131
-  - Price (BTC): 8.442705695870028e-06
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 144
-  - Price (BTC): 2.8391943681005412e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.0466416252629209e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
 - **Post ID: 1**
