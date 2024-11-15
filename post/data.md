@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-15 17:13:24 UTC
+**Last updated:** 2024-11-15 18:20:11 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $89655 USD
-  - Market Cap: $1772826631603.143 USD
-  - 24h Volume: $90650854771.85692 USD
-  - 24h Change: 0.5066325438323249%
+- **Bitcoin (BTC)**: $89585 USD
+  - Market Cap: $1768743351326.8171 USD
+  - 24h Volume: $91147662343.86543 USD
+  - 24h Change: 0.05669467308829883%
 
-- **Ethereum (ETH)**: $3044.83 USD
-  - Market Cap: $366004013766.8053 USD
-  - 24h Volume: $32084986190.805725 USD
-  - 24h Change: -3.712673787880902%
+- **Ethereum (ETH)**: $3036.68 USD
+  - Market Cap: $365617656370.35443 USD
+  - 24h Volume: $31934677562.322388 USD
+  - 24h Change: -3.317157848265869%
 
 ## Trending Coins
 - **MANTRA (OM)**
   - Market Cap Rank: 71
-  - Price (BTC): 1.8588854728878182e-05
+  - Price (BTC): 1.9072984960157668e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Koma Inu (KOMA)**
   - Market Cap Rank: 854
-  - Price (BTC): 4.306552380141815e-07
+  - Price (BTC): 4.3623959401510276e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **SAD HAMSTER (HAMMY)**
-  - Market Cap Rank: 936
-  - Price (BTC): 3.6096530198894933e-07
+  - Market Cap Rank: 924
+  - Price (BTC): 3.592115019865808e-07
   - [More Info](https://www.coingecko.com/en/coins/sad-hamster)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 441
+  - Price (BTC): 2.392722524357132e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 423
+  - Price (BTC): 3.3908133631076144e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Solar (SXP)**
+  - Market Cap Rank: 307
+  - Price (BTC): 3.8040833481786925e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 65
-  - Price (BTC): 2.002552115912034e-05
+  - Price (BTC): 1.906271283350009e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 436
-  - Price (BTC): 2.4278805655023565e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 309
-  - Price (BTC): 3.7678224875826482e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 424
-  - Price (BTC): 3.3712272111793445e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.081987704165813e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 18
+  - Price (BTC): 2.436773022322716e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 185
-  - Price (BTC): 2.9052089711085423e-07
+  - Market Cap Rank: 184
+  - Price (BTC): 2.906163964458275e-07
   - [More Info](https://www.coingecko.com/en/coins/degen-base)
-
-- **Mister Miggles (MIGGLES)**
-  - Market Cap Rank: 412
-  - Price (BTC): 1.5817818158611488e-06
-  - [More Info](https://www.coingecko.com/en/coins/mister-miggles)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002349629628850252
+  - Price (BTC): 0.0023544035635638663
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Brett (BRETT)**
   - Market Cap Rank: 67
-  - Price (BTC): 1.8605510936770186e-06
+  - Price (BTC): 1.8650210612530905e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.375092997092416e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.8412628126626113e-05
+  - Market Cap Rank: 68
+  - Price (BTC): 1.8717848626576167e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 150
-  - Price (BTC): 6.299549458231338e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Mister Miggles (MIGGLES)**
+  - Market Cap Rank: 396
+  - Price (BTC): 1.5159399556270438e-06
+  - [More Info](https://www.coingecko.com/en/coins/mister-miggles)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.6876157117261615e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 43
+  - Price (BTC): 4.4332170860744e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 ## Posts
 - **Post ID: 1**
