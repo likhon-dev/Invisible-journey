@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-14 23:15:10 UTC
+**Last updated:** 2024-11-15 01:12:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $87014 USD
-  - Market Cap: $1727571961707.2642 USD
-  - 24h Volume: $95821938133.37856 USD
-  - 24h Change: -2.9870650117587947%
+- **Bitcoin (BTC)**: $88072 USD
+  - Market Cap: $1743877809958.162 USD
+  - 24h Volume: $99326681009.57852 USD
+  - 24h Change: -2.5306370948981742%
 
-- **Ethereum (ETH)**: $3063.58 USD
-  - Market Cap: $368920770492.0474 USD
-  - 24h Volume: $34970474384.12756 USD
-  - 24h Change: -3.657577145908271%
+- **Ethereum (ETH)**: $3070.75 USD
+  - Market Cap: $369746507189.87494 USD
+  - 24h Volume: $37324762294.04317 USD
+  - 24h Change: -3.9726445105995816%
 
 ## Trending Coins
 - **MANTRA (OM)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.980408117394771e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 1.8791053235025346e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Dogelon Mars (ELON)**
-  - Market Cap Rank: 442
-  - Price (BTC): 2.457620291281057e-12
+  - Market Cap Rank: 439
+  - Price (BTC): 2.4454242463853543e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 426
-  - Price (BTC): 4.200036147473001e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 213
-  - Price (BTC): 6.169690591318869e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **BounceBit (BB)**
-  - Market Cap Rank: 411
-  - Price (BTC): 3.534157317260366e-06
+  - Market Cap Rank: 416
+  - Price (BTC): 3.436186725814779e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.87164521705431e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 181
+  - Price (BTC): 5.120899050404643e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.423475628532037e-10
+  - Price (BTC): 2.3909594560992215e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.0852983268240357e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 7
-  - Price (BTC): 9.122217096634986e-06
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.874903899679168e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 397
+  - Price (BTC): 4.6368620168211645e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.250746274104493e-06
+  - Price (BTC): 4.219808132040299e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.678307869223102e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **XRP (XRP)**
+  - Market Cap Rank: 7
+  - Price (BTC): 9.129988782955289e-06
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 223
-  - Price (BTC): 3.9445912872157754e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 34
+  - Price (BTC): 4.030196497656076e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 178
+  - Price (BTC): 3.0133856244990065e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024205181912589596
+  - Price (BTC): 0.0023908441653792
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 176
-  - Price (BTC): 3.121534895071635e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
+- **First Convicted RACCON (FRED)**
+  - Market Cap Rank: 355
+  - Price (BTC): 1.9323803957385416e-06
+  - [More Info](https://www.coingecko.com/en/coins/first-convicted-raccon)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 105
-  - Price (BTC): 9.952892903481033e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Bonk (BONK)**
+  - Market Cap Rank: 46
+  - Price (BTC): 4.039725959095178e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 379
+  - Price (BTC): 1.770889175263531e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 ## Posts
 - **Post ID: 1**
