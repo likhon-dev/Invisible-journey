@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 15:14:31 UTC
+**Last updated:** 2024-11-16 16:17:54 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90691 USD
-  - Market Cap: $1794621395153.5017 USD
-  - 24h Volume: $69763988515.73492 USD
-  - 24h Change: 2.541241614723%
+- **Bitcoin (BTC)**: $90429 USD
+  - Market Cap: $1785268945731.223 USD
+  - 24h Volume: $66739799868.239105 USD
+  - 24h Change: 1.3856408423021636%
 
-- **Ethereum (ETH)**: $3151.75 USD
-  - Market Cap: $379646367911.8105 USD
-  - 24h Volume: $32281401314.66032 USD
-  - 24h Change: 3.7596038975624446%
+- **Ethereum (ETH)**: $3139.51 USD
+  - Market Cap: $377133216484.0941 USD
+  - 24h Volume: $31989263687.93384 USD
+  - 24h Change: 3.0561303697644506%
 
 ## Trending Coins
-- **BounceBit (BB)**
-  - Market Cap Rank: 422
-  - Price (BTC): 3.517693495110836e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 741
-  - Price (BTC): 5.925599212957539e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 438
-  - Price (BTC): 2.523905699272749e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 226
-  - Price (BTC): 5.793544690387283e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.3209163215711266e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 305
-  - Price (BTC): 3.941018494534333e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
+- **XDC Network (XDC)**
+  - Market Cap Rank: 133
+  - Price (BTC): 5.321976026411194e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 62
-  - Price (BTC): 2.5226165663519068e-05
+  - Price (BTC): 2.470856909840838e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 226
+  - Price (BTC): 5.867513146143247e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Solar (SXP)**
+  - Market Cap Rank: 305
+  - Price (BTC): 3.884430893613509e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 728
+  - Price (BTC): 6.073035022163399e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 433
+  - Price (BTC): 2.5116161519883697e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 431
+  - Price (BTC): 3.4255034192862847e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2145472787179247e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.075699061918204e-05
+  - Price (BTC): 3.994602021347317e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.9144066355249625e-05
+  - Market Cap Rank: 67
+  - Price (BTC): 1.894792889604104e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.035232285980546e-06
+  - Price (BTC): 4.034991766435633e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.3677715017772446e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002386920056499524
+  - Price (BTC): 0.0023709491894936736
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.419801890357839e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.3078838158650122e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 225
-  - Price (BTC): 4.03993181222078e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+- **Foxy (FOXY)**
+  - Market Cap Rank: 729
+  - Price (BTC): 1.988942310920053e-07
+  - [More Info](https://www.coingecko.com/en/coins/foxy)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.2841570582459782e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 462
+  - Price (BTC): 1.4811429366627345e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
 ## Posts
 - **Post ID: 1**
