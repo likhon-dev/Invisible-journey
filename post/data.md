@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 08:18:00 UTC
+**Last updated:** 2024-11-16 09:14:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91122 USD
-  - Market Cap: $1802101902060.3157 USD
-  - 24h Volume: $80795249829.93478 USD
-  - 24h Change: 3.917046779913813%
+- **Bitcoin (BTC)**: $91326 USD
+  - Market Cap: $1807237326007.1577 USD
+  - 24h Volume: $78731855302.43004 USD
+  - 24h Change: 2.836140426581333%
 
-- **Ethereum (ETH)**: $3109.17 USD
-  - Market Cap: $374623921610.5278 USD
-  - 24h Volume: $30606660136.691574 USD
-  - 24h Change: 2.3165828792198746%
+- **Ethereum (ETH)**: $3121.77 USD
+  - Market Cap: $375843339833.08673 USD
+  - 24h Volume: $30356357508.78754 USD
+  - 24h Change: 0.7734348657786716%
 
 ## Trending Coins
 - **Solar (SXP)**
   - Market Cap Rank: 309
-  - Price (BTC): 3.858436610619569e-06
+  - Price (BTC): 3.852009963784395e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 861
-  - Price (BTC): 4.303571206138476e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 416
-  - Price (BTC): 2.6087013451094166e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.110705395437006e-05
+  - Price (BTC): 4.147623452064438e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.0878487871587052e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
 - **MANTRA (OM)**
-  - Market Cap Rank: 58
-  - Price (BTC): 2.564693824759584e-05
+  - Market Cap Rank: 59
+  - Price (BTC): 2.5389373152978403e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 7
-  - Price (BTC): 1.0649544984601761e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 2.0012807607817323e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 430
+  - Price (BTC): 2.5499272019809415e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 811
+  - Price (BTC): 4.794751997561164e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 18
-  - Price (BTC): 2.421964265920055e-10
+  - Price (BTC): 2.40094933647553e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.0906246598742754e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 43
-  - Price (BTC): 4.6282083522771823e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.963909263153728e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
 - **Dogecoin (DOGE)**
-  - Market Cap Rank: 6
-  - Price (BTC): 4.171539480163483e-06
+  - Market Cap Rank: 7
+  - Price (BTC): 4.14486441520184e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 89
+  - Price (BTC): 1.2643178080570932e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002405104420164119
+  - Price (BTC): 0.0024002869335735108
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.9521026663264372e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 286
+  - Price (BTC): 2.7642122489032523e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 137
-  - Price (BTC): 3.0493985704043905e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.892945044544402e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 184
-  - Price (BTC): 2.97386713748627e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
+- **Slerf (SLERF)**
+  - Market Cap Rank: 306
+  - Price (BTC): 4.806976026797348e-06
+  - [More Info](https://www.coingecko.com/en/coins/slerf)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 37
+  - Price (BTC): 9.91149633780489e-07
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 ## Posts
 - **Post ID: 1**
