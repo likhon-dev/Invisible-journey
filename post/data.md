@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 12:27:42 UTC
+**Last updated:** 2024-11-16 13:20:07 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90876 USD
-  - Market Cap: $1796857674141.345 USD
-  - 24h Volume: $69279145712.94437 USD
-  - 24h Change: 0.757884898225095%
+- **Bitcoin (BTC)**: $91219 USD
+  - Market Cap: $1803680505875.9944 USD
+  - 24h Volume: $74628336742.35634 USD
+  - 24h Change: 1.5370444172806177%
 
-- **Ethereum (ETH)**: $3197.64 USD
-  - Market Cap: $384932986154.356 USD
-  - 24h Volume: $32225040302.345135 USD
-  - 24h Change: 2.904268098060284%
+- **Ethereum (ETH)**: $3189.42 USD
+  - Market Cap: $383665215569.317 USD
+  - 24h Volume: $33379689371.981167 USD
+  - 24h Change: 2.702348403971261%
 
 ## Trending Coins
-- **MANTRA (OM)**
-  - Market Cap Rank: 62
-  - Price (BTC): 2.452708894195463e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 230
+  - Price (BTC): 5.763256137193064e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 423
-  - Price (BTC): 3.560075599199027e-06
+  - Market Cap Rank: 418
+  - Price (BTC): 3.5718344426573124e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 759
-  - Price (BTC): 5.656745294505917e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **MANTRA (OM)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.4781860140961713e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Dogelon Mars (ELON)**
   - Market Cap Rank: 431
-  - Price (BTC): 2.5679650875845505e-12
+  - Price (BTC): 2.551316686544305e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 728
+  - Price (BTC): 6.419910312189318e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 71
+  - Price (BTC): 2.1761405758355253e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.145513664693213e-05
+  - Price (BTC): 1.1652446236731817e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1247174850141344e-05
+  - Price (BTC): 4.180208375505171e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 67
-  - Price (BTC): 2.0069726935046873e-05
+  - Price (BTC): 2.0098936239366663e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Solar (SXP)**
   - Market Cap Rank: 305
-  - Price (BTC): 3.92323760719653e-06
+  - Price (BTC): 3.94061323101615e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.093873083113466e-06
+  - Price (BTC): 4.130473658367512e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.4020596108942694e-10
+  - Price (BTC): 2.4293519418445197e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0023969438988309245
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.17301317113333e-06
+  - Price (BTC): 8.277339321464282e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 68
-  - Price (BTC): 1.983950287155995e-05
+  - Price (BTC): 2.0191061638334082e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 158
-  - Price (BTC): 6.3636723962820425e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 44
-  - Price (BTC): 4.4376034439193877e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002422589825291511
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
