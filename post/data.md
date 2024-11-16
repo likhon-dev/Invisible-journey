@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 16:17:54 UTC
+**Last updated:** 2024-11-16 17:11:58 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90429 USD
-  - Market Cap: $1785268945731.223 USD
-  - 24h Volume: $66739799868.239105 USD
-  - 24h Change: 1.3856408423021636%
+- **Bitcoin (BTC)**: $90699 USD
+  - Market Cap: $1792687104408.0508 USD
+  - 24h Volume: $62725181757.59604 USD
+  - 24h Change: 1.0902163746897555%
 
-- **Ethereum (ETH)**: $3139.51 USD
-  - Market Cap: $377133216484.0941 USD
-  - 24h Volume: $31989263687.93384 USD
-  - 24h Change: 3.0561303697644506%
+- **Ethereum (ETH)**: $3149.16 USD
+  - Market Cap: $378618746735.99854 USD
+  - 24h Volume: $31460868145.59036 USD
+  - 24h Change: 3.3626555848327375%
 
 ## Trending Coins
-- **XDC Network (XDC)**
-  - Market Cap Rank: 133
-  - Price (BTC): 5.321976026411194e-07
-  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
-
 - **MANTRA (OM)**
   - Market Cap Rank: 62
-  - Price (BTC): 2.470856909840838e-05
+  - Price (BTC): 2.4418452767582143e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 226
-  - Price (BTC): 5.867513146143247e-10
+  - Market Cap Rank: 229
+  - Price (BTC): 5.694523165216817e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **XDC Network (XDC)**
+  - Market Cap Rank: 133
+  - Price (BTC): 5.331954484337197e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
+
 - **Solar (SXP)**
-  - Market Cap Rank: 305
-  - Price (BTC): 3.884430893613509e-06
+  - Market Cap Rank: 304
+  - Price (BTC): 3.939802833198316e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 728
-  - Price (BTC): 6.073035022163399e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Dogelon Mars (ELON)**
-  - Market Cap Rank: 433
-  - Price (BTC): 2.5116161519883697e-12
+  - Market Cap Rank: 441
+  - Price (BTC): 2.5075441890556444e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 431
-  - Price (BTC): 3.4255034192862847e-06
+  - Market Cap Rank: 428
+  - Price (BTC): 3.4688243849710624e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 740
+  - Price (BTC): 6.191122926836626e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2145472787179247e-05
+  - Price (BTC): 1.2745629364610282e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.8757881363876874e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.994602021347317e-05
+  - Price (BTC): 4.040258221834146e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.894792889604104e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.034991766435633e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0023709491894936736
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.3078838158650122e-10
+  - Price (BTC): 2.3124271203424743e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Foxy (FOXY)**
-  - Market Cap Rank: 729
-  - Price (BTC): 1.988942310920053e-07
-  - [More Info](https://www.coingecko.com/en/coins/foxy)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0023646743654707836
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **PAAL AI (PAAL)**
-  - Market Cap Rank: 462
-  - Price (BTC): 1.4811429366627345e-06
+  - Market Cap Rank: 454
+  - Price (BTC): 1.5912360813633905e-06
   - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.818733894138659e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Foxy (FOXY)**
+  - Market Cap Rank: 725
+  - Price (BTC): 2.066401809418143e-07
+  - [More Info](https://www.coingecko.com/en/coins/foxy)
 
 ## Posts
 - **Post ID: 1**
