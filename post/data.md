@@ -1,47 +1,47 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 14:12:32 UTC
+**Last updated:** 2024-11-17 15:13:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90585 USD
-  - Market Cap: $1792591649465.9592 USD
-  - 24h Volume: $49526942435.66629 USD
-  - 24h Change: -0.3026648799217747%
+- **Bitcoin (BTC)**: $90274 USD
+  - Market Cap: $1785220501641.257 USD
+  - 24h Volume: $49371426177.88372 USD
+  - 24h Change: -0.33615573398973186%
 
-- **Ethereum (ETH)**: $3099.85 USD
-  - Market Cap: $373687802633.3325 USD
-  - 24h Volume: $27705873592.324604 USD
-  - 24h Change: -2.2741944473676097%
+- **Ethereum (ETH)**: $3083.41 USD
+  - Market Cap: $371192925421.65857 USD
+  - 24h Volume: $27323251148.328194 USD
+  - 24h Change: -1.9600927958350205%
 
 ## Trending Coins
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 614
-  - Price (BTC): 7.899202708344278e-07
+  - Market Cap Rank: 595
+  - Price (BTC): 8.716710610050659e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 234
-  - Price (BTC): 5.773795391198241e-10
+  - Market Cap Rank: 232
+  - Price (BTC): 5.789232589308666e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 434
-  - Price (BTC): 3.480026327991886e-06
+  - Market Cap Rank: 435
+  - Price (BTC): 3.4604533119888215e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **XDC Network (XDC)**
+  - Market Cap Rank: 147
+  - Price (BTC): 4.7184036910173865e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025559240711369967
+  - Price (BTC): 0.002584810935631913
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **XDC Network (XDC)**
-  - Market Cap Rank: 146
-  - Price (BTC): 4.7009854838555657e-07
-  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
-
 - **Solar (SXP)**
-  - Market Cap Rank: 308
-  - Price (BTC): 3.925481512141505e-06
+  - Market Cap Rank: 310
+  - Price (BTC): 3.907531624599072e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Bitcoin (BTC)**
@@ -51,43 +51,43 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03429158392727095
+  - Price (BTC): 0.03416804129588167
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.907988767302831e-05
+  - Price (BTC): 3.8935800889561686e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.905916693241153e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 183
+  - Price (BTC): 3.032494200315335e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 19
+  - Price (BTC): 2.34051041667037e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 67
-  - Price (BTC): 2.0870079968693924e-05
+  - Market Cap Rank: 64
+  - Price (BTC): 2.1618209066079023e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.7248350869877838e-05
+  - Price (BTC): 1.7219964810862573e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.206162621630161e-05
+  - Price (BTC): 4.1771743622598845e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.720462489733474e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.005943840953537e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.3124195245004944e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
