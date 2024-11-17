@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 06:20:08 UTC
+**Last updated:** 2024-11-17 07:14:08 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90416 USD
-  - Market Cap: $1789888467642.9111 USD
-  - 24h Volume: $47870998493.64991 USD
-  - 24h Change: -1.1111021436116006%
+- **Bitcoin (BTC)**: $90386 USD
+  - Market Cap: $1789905251961.2134 USD
+  - 24h Volume: $50084116079.9923 USD
+  - 24h Change: -1.1105361135559422%
 
-- **Ethereum (ETH)**: $3106.01 USD
-  - Market Cap: $374214801391.3926 USD
-  - 24h Volume: $28021495009.150738 USD
-  - 24h Change: -0.6340823010722503%
+- **Ethereum (ETH)**: $3123.57 USD
+  - Market Cap: $376256868143.79974 USD
+  - 24h Volume: $30043510395.339718 USD
+  - 24h Change: 0.01883754314529874%
 
 ## Trending Coins
 - **XDC Network (XDC)**
-  - Market Cap Rank: 144
-  - Price (BTC): 4.826739501922809e-07
+  - Market Cap Rank: 146
+  - Price (BTC): 4.7460718765700545e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solar (SXP)**
-  - Market Cap Rank: 306
-  - Price (BTC): 3.89788778742912e-06
+  - Market Cap Rank: 307
+  - Price (BTC): 3.93089746512091e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.828044584332679e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 619
-  - Price (BTC): 8.126754260368101e-07
+  - Market Cap Rank: 578
+  - Price (BTC): 9.111073788694713e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **MANTRA (OM)**
-  - Market Cap Rank: 45
-  - Price (BTC): 3.577509493355129e-05
+  - Market Cap Rank: 44
+  - Price (BTC): 3.7094308710744726e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026127279405006036
+  - Price (BTC): 0.0026300561999823657
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1232590258505442e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.822447574304303e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.7387309673194353e-05
+  - Price (BTC): 1.7523328788297615e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.066437191952407e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 6.531809067318938e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.4076421027291451e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.3293485202312407e-10
+  - Market Cap Rank: 21
+  - Price (BTC): 2.33359269585135e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 215
-  - Price (BTC): 4.2980804583644415e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.876031395488244e-06
+  - Price (BTC): 3.9295640399165525e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Brett (BRETT)**
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 142
+  - Price (BTC): 7.227457019240468e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Jupiter (JUP)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.9499509679499535e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+  - Price (BTC): 1.4114297215888847e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 71
+  - Price (BTC): 6.468884769989155e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 55
+  - Price (BTC): 2.8594780647108455e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.0461196042929826e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 156
+  - Price (BTC): 7.053642283310995e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
