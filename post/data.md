@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 17:12:14 UTC
+**Last updated:** 2024-11-17 18:18:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90405 USD
-  - Market Cap: $1788244537277.4521 USD
-  - 24h Volume: $44857534197.89943 USD
-  - 24h Change: -0.447550058887647%
+- **Bitcoin (BTC)**: $90263 USD
+  - Market Cap: $1785922177484.756 USD
+  - 24h Volume: $39267055607.643814 USD
+  - 24h Change: -1.0545488895660386%
 
-- **Ethereum (ETH)**: $3092.16 USD
-  - Market Cap: $372403945846.7587 USD
-  - 24h Volume: $25510832102.13227 USD
-  - 24h Change: -1.913023424305634%
+- **Ethereum (ETH)**: $3095.27 USD
+  - Market Cap: $372619008710.69403 USD
+  - 24h Volume: $26427439254.752037 USD
+  - 24h Change: -2.4895233219522477%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 232
-  - Price (BTC): 5.878538425276896e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 514
-  - Price (BTC): 3.3804298437848995e-07
+  - Market Cap Rank: 535
+  - Price (BTC): 3.094641947728923e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 227
+  - Price (BTC): 6.090156075713474e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 605
-  - Price (BTC): 8.539093062260444e-07
+  - Market Cap Rank: 540
+  - Price (BTC): 9.980873177144211e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 437
-  - Price (BTC): 3.444394850806062e-06
+  - Market Cap Rank: 431
+  - Price (BTC): 3.435860473759111e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.7807522342778615e-05
+  - Price (BTC): 3.7852061982058e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
-  - Market Cap Rank: 36
-  - Price (BTC): 5.897235211525843e-10
+  - Market Cap Rank: 37
+  - Price (BTC): 5.651851416929694e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.279415831297634e-05
+  - Price (BTC): 4.3221323354313206e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 73
-  - Price (BTC): 1.7382423412200484e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 1.8109844934614766e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002583537211479958
+  - Price (BTC): 0.0025818508295868403
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 63
-  - Price (BTC): 2.2001922056217296e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 224
-  - Price (BTC): 7.462141839038216e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.068554124702341e-06
+  - Price (BTC): 4.0497547190524546e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 18
-  - Price (BTC): 2.4349597988484976e-10
+  - Price (BTC): 2.4266812053387224e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 64
+  - Price (BTC): 2.1352064508398675e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1983816307973335e-05
+  - Price (BTC): 1.1855290414713749e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Mister Miggles (MIGGLES)**
-  - Market Cap Rank: 357
-  - Price (BTC): 2.0835811318763777e-06
-  - [More Info](https://www.coingecko.com/en/coins/mister-miggles)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 136
+  - Price (BTC): 7.935421022084389e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 86
+  - Price (BTC): 1.4150288012340663e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
 - **Post ID: 1**
