@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 11:13:23 UTC
+**Last updated:** 2024-11-18 12:31:42 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91526 USD
-  - Market Cap: $1813310086045.9536 USD
-  - 24h Volume: $56316830018.752945 USD
-  - 24h Change: 0.6869261324449842%
+- **Bitcoin (BTC)**: $90611 USD
+  - Market Cap: $1790485170618.517 USD
+  - 24h Volume: $56807464260.98442 USD
+  - 24h Change: -0.2910422940895179%
 
-- **Ethereum (ETH)**: $3108.45 USD
-  - Market Cap: $375265284300.93384 USD
-  - 24h Volume: $25696346651.827183 USD
-  - 24h Change: -0.5151897444087536%
+- **Ethereum (ETH)**: $3073.9 USD
+  - Market Cap: $369912291774.0051 USD
+  - 24h Volume: $26125645995.45573 USD
+  - 24h Change: -1.341810055734903%
 
 ## Trending Coins
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 73
-  - Price (BTC): 1.7735040217095434e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **MANTRA (OM)**
+  - Market Cap Rank: 37
+  - Price (BTC): 4.5797623208115805e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.0688490895219636e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **BounceBit (BB)**
+  - Market Cap Rank: 443
+  - Price (BTC): 3.363991252281649e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.7416664708517833e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2463560580954641e-05
+  - Price (BTC): 1.2419815307102824e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026957014201380723
+  - Price (BTC): 0.0026817704404005307
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 879
-  - Price (BTC): 6.311472222471937e-07
-  - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
-
 - **Akash Network (AKT)**
-  - Market Cap Rank: 102
-  - Price (BTC): 4.44756582196572e-05
+  - Market Cap Rank: 108
+  - Price (BTC): 4.2216502617556635e-05
   - [More Info](https://www.coingecko.com/en/coins/akash-network)
 
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.0042231862942604e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
 - **Comedian (BAN)**
-  - Market Cap Rank: 261
-  - Price (BTC): 3.408386320394923e-06
+  - Market Cap Rank: 259
+  - Price (BTC): 3.4533569695373085e-06
   - [More Info](https://www.coingecko.com/en/coins/comedian)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 37
-  - Price (BTC): 4.553312917648168e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 136
-  - Price (BTC): 7.797718500346756e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.051306557918361e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Evercraft Ecotechnologies (ECET)**
+  - Market Cap Rank: 820
+  - Price (BTC): 7.146031511142679e-07
+  - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.211759173688676e-06
+  - Price (BTC): 1.2295058705785247e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.3477509914946227e-10
+  - Price (BTC): 2.2934722671403102e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Fractal Bitcoin (FB)**
-  - Market Cap Rank: 894
-  - Price (BTC): 6.762016042939663e-05
-  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 135
+  - Price (BTC): 7.712215460466276e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.887950796264251e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.010936798298732e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Rifampicin ($RIF)**
-  - Market Cap Rank: 327
-  - Price (BTC): 2.238413168253824e-06
-  - [More Info](https://www.coingecko.com/en/coins/rifampicin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 40
+  - Price (BTC): 5.300849709332806e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.9683871163398805e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
