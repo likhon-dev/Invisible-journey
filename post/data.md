@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 01:14:10 UTC
+**Last updated:** 2024-11-18 02:57:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90130 USD
-  - Market Cap: $1782313892057.5361 USD
-  - 24h Volume: $52303873116.248764 USD
-  - 24h Change: -0.6482474371760408%
+- **Bitcoin (BTC)**: $90582 USD
+  - Market Cap: $1792812556404.1313 USD
+  - 24h Volume: $50276681857.23262 USD
+  - 24h Change: 0.548264204871739%
 
-- **Ethereum (ETH)**: $3105.38 USD
-  - Market Cap: $373988182615.1678 USD
-  - 24h Volume: $29136710527.071884 USD
-  - 24h Change: -1.1568092869237803%
+- **Ethereum (ETH)**: $3112.98 USD
+  - Market Cap: $374879826227.79596 USD
+  - 24h Volume: $27159563964.375546 USD
+  - 24h Change: 1.5278998759831273%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 221
-  - Price (BTC): 6.193492858218182e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 436
-  - Price (BTC): 3.4116335070256856e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 36
-  - Price (BTC): 4.446506026677177e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 65
-  - Price (BTC): 2.0367388275740278e-05
+  - Market Cap Rank: 68
+  - Price (BTC): 1.9222484469485227e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 129
-  - Price (BTC): 8.51217143771198e-08
+  - Market Cap Rank: 125
+  - Price (BTC): 8.844780822922467e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1980384128972216e-05
+  - Price (BTC): 4.2375911035270525e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.348695281784542e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **MANTRA (OM)**
+  - Market Cap Rank: 36
+  - Price (BTC): 4.686059583741429e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.799139446328935e-10
+  - Market Cap Rank: 38
+  - Price (BTC): 5.801247109560924e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Cheyenne (CHEYENNE)**
-  - Market Cap Rank: 691
-  - Price (BTC): 6.901755443767366e-07
-  - [More Info](https://www.coingecko.com/en/coins/cheyenne)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026160457557479772
+  - Price (BTC): 0.002639923005134292
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 19
+  - Price (BTC): 2.3697316080294714e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 147
+  - Price (BTC): 7.126083637964227e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1943224111215021e-05
+  - Price (BTC): 1.2302504393691602e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.116685946726166e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 220
+  - Price (BTC): 6.161355468596089e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.050356034439345e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.1763890575009e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Hasbulla's Cat (BARSIK)**
-  - Market Cap Rank: 379
-  - Price (BTC): 1.7851577499101723e-06
-  - [More Info](https://www.coingecko.com/en/coins/hasbulla-s-cat)
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 195
+  - Price (BTC): 2.868317164862634e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 67
-  - Price (BTC): 2.0866331314940645e-05
+  - Price (BTC): 2.0612788824267464e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
