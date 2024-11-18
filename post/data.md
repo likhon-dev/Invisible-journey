@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 07:15:39 UTC
+**Last updated:** 2024-11-18 08:20:47 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91993 USD
-  - Market Cap: $1814180325007.5977 USD
-  - 24h Volume: $52752046530.13352 USD
-  - 24h Change: 1.7771821405387662%
+- **Bitcoin (BTC)**: $92052 USD
+  - Market Cap: $1816805449455.7488 USD
+  - 24h Volume: $56127689883.7558 USD
+  - 24h Change: 1.578275239156457%
 
-- **Ethereum (ETH)**: $3143.62 USD
-  - Market Cap: $378279407098.2792 USD
-  - 24h Volume: $25170078420.200684 USD
-  - 24h Change: 0.6505422484099153%
+- **Ethereum (ETH)**: $3137.98 USD
+  - Market Cap: $377223799838.66693 USD
+  - 24h Volume: $25656414467.345142 USD
+  - 24h Change: -0.24597506247395176%
 
 ## Trending Coins
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 133
-  - Price (BTC): 8.072260864275271e-08
+  - Market Cap Rank: 137
+  - Price (BTC): 7.809260994421224e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 36
-  - Price (BTC): 4.586791697183228e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1347034691599544e-05
+  - Price (BTC): 4.103085008906947e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.3425025719833843e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002631673301241161
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **MANTRA (OM)**
+  - Market Cap Rank: 36
+  - Price (BTC): 4.537736609692294e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.8222714403343275e-05
+  - Price (BTC): 1.8007699938548448e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.295595369545994e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2549607474583289e-05
+  - Price (BTC): 1.2707752657875934e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 39
-  - Price (BTC): 5.534155198958346e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002620138432588362
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.106037454143578e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Fractal Bitcoin (FB)**
+  - Market Cap Rank: 819
+  - Price (BTC): 7.746735618966931e-05
+  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.3477786449738365e-10
+  - Price (BTC): 2.39508301078269e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 158
-  - Price (BTC): 2.6741289907766684e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.0908558469539685e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 39
+  - Price (BTC): 5.575787271108734e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.7813753054027624e-06
+  - Price (BTC): 1.81680618128191e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 154
-  - Price (BTC): 6.627366496571782e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 92
+  - Price (BTC): 1.2465798666131185e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 6.190842786945261e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.339410447965603e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **PONKE (PONKE)**
-  - Market Cap Rank: 213
-  - Price (BTC): 8.130601092329699e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **Brett (BRETT)**
+  - Market Cap Rank: 72
+  - Price (BTC): 1.782919334072391e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 ## Posts
 - **Post ID: 1**
