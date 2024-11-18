@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 08:20:47 UTC
+**Last updated:** 2024-11-18 09:17:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92052 USD
-  - Market Cap: $1816805449455.7488 USD
-  - 24h Volume: $56127689883.7558 USD
-  - 24h Change: 1.578275239156457%
+- **Bitcoin (BTC)**: $91733 USD
+  - Market Cap: $1814995139755.5273 USD
+  - 24h Volume: $54716131687.681984 USD
+  - 24h Change: 0.4676619699321711%
 
-- **Ethereum (ETH)**: $3137.98 USD
-  - Market Cap: $377223799838.66693 USD
-  - 24h Volume: $25656414467.345142 USD
-  - 24h Change: -0.24597506247395176%
+- **Ethereum (ETH)**: $3118.25 USD
+  - Market Cap: $375382584888.81104 USD
+  - 24h Volume: $25028293383.781525 USD
+  - 24h Change: -1.0840738044941087%
 
 ## Trending Coins
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 137
-  - Price (BTC): 7.809260994421224e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.103085008906947e-05
+  - Price (BTC): 4.094981681283733e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 36
-  - Price (BTC): 4.537736609692294e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 134
+  - Price (BTC): 7.809723860982447e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.8007699938548448e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 1.808600400931797e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.295595369545994e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2707752657875934e-05
+  - Price (BTC): 1.25227241479896e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 37
+  - Price (BTC): 4.445536493091907e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.2579897465910043e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Fractal Bitcoin (FB)**
+  - Market Cap Rank: 835
+  - Price (BTC): 7.873927198983282e-05
+  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002620138432588362
+  - Price (BTC): 0.0026381472551096313
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Fractal Bitcoin (FB)**
-  - Market Cap Rank: 819
-  - Price (BTC): 7.746735618966931e-05
-  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 38
+  - Price (BTC): 5.820122040425433e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.39508301078269e-10
+  - Market Cap Rank: 18
+  - Price (BTC): 2.4313142352409075e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 189
+  - Price (BTC): 4.755909189430013e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.0908558469539685e-06
+  - Price (BTC): 4.073527173803707e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 39
-  - Price (BTC): 5.575787271108734e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 2.0130878398737874e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.81680618128191e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.2465798666131185e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Stellar (XLM)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.6993916164852538e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.339410447965603e-06
+  - Price (BTC): 8.407832783385152e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.782919334072391e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 ## Posts
 - **Post ID: 1**
