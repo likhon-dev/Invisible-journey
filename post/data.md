@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 04:18:15 UTC
+**Last updated:** 2024-11-19 05:14:48 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91332 USD
-  - Market Cap: $1807067551708.8804 USD
-  - 24h Volume: $71893425955.36165 USD
-  - 24h Change: 0.8863419330591121%
+- **Bitcoin (BTC)**: $91704 USD
+  - Market Cap: $1813975185198.3499 USD
+  - 24h Volume: $85948235986.97798 USD
+  - 24h Change: 1.2533066565401418%
 
-- **Ethereum (ETH)**: $3148.51 USD
-  - Market Cap: $379104145489.4308 USD
-  - 24h Volume: $37816333113.79737 USD
-  - 24h Change: 1.3002705637503718%
+- **Ethereum (ETH)**: $3141.14 USD
+  - Market Cap: $378288238561.634 USD
+  - 24h Volume: $38535571632.50814 USD
+  - 24h Change: 1.2058317482104157%
 
 ## Trending Coins
 - **MANTRA (OM)**
-  - Market Cap Rank: 40
-  - Price (BTC): 4.269179917633301e-05
+  - Market Cap Rank: 39
+  - Price (BTC): 4.2657708947184075e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 859
-  - Price (BTC): 6.443799028692651e-07
+  - Market Cap Rank: 863
+  - Price (BTC): 6.38340306834733e-07
   - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
 
 - **PONKE (PONKE)**
   - Market Cap Rank: 194
-  - Price (BTC): 9.083179749645425e-06
+  - Price (BTC): 8.897126002911443e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 28
-  - Price (BTC): 1.6892843266352372e-06
+  - Price (BTC): 1.636656483977042e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 129
-  - Price (BTC): 8.66512526644192e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026335251657152187
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.0921521439791414e-05
+  - Price (BTC): 4.09748522733472e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 1.1340742968002645e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.7319649112475957e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.2382918329314101e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 69
-  - Price (BTC): 6.594350665980035e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.9092664764070417e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Rifampicin ($RIF)**
-  - Market Cap Rank: 347
-  - Price (BTC): 2.0773241588114e-06
+  - Market Cap Rank: 368
+  - Price (BTC): 1.9172451739575673e-06
   - [More Info](https://www.coingecko.com/en/coins/rifampicin)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 156
-  - Price (BTC): 2.6141056519863648e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 132
+  - Price (BTC): 8.372424117494436e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.550230928605348e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 76
+  - Price (BTC): 1.678286214543931e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026196516728563923
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dasha (VVAIFU)**
+  - Market Cap Rank: 382
+  - Price (BTC): 1.7701951789407322e-06
+  - [More Info](https://www.coingecko.com/en/coins/dasha)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.230935055286997e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2422884015113467e-05
+  - Price (BTC): 1.2189978281923078e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.38326187367091e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1883540659065185e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
