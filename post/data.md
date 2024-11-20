@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 10:17:02 UTC
+**Last updated:** 2024-11-20 11:12:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93383 USD
-  - Market Cap: $1847308041131.4614 USD
-  - 24h Volume: $81524520828.98859 USD
-  - 24h Change: 1.9394273553732304%
+- **Bitcoin (BTC)**: $93244 USD
+  - Market Cap: $1845298510497.6978 USD
+  - 24h Volume: $85538772054.2476 USD
+  - 24h Change: 1.63943629093428%
 
-- **Ethereum (ETH)**: $3123.62 USD
-  - Market Cap: $376148172103.8143 USD
-  - 24h Volume: $29354794583.204464 USD
-  - 24h Change: 0.556863122901845%
+- **Ethereum (ETH)**: $3103.18 USD
+  - Market Cap: $373881183034.31824 USD
+  - 24h Volume: $29418084624.250004 USD
+  - 24h Change: -0.7541207188947471%
 
 ## Trending Coins
+- **XYO Network (XYO)**
+  - Market Cap Rank: 467
+  - Price (BTC): 9.118472579413234e-08
+  - [More Info](https://www.coingecko.com/en/coins/xyo-network)
+
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 581
-  - Price (BTC): 1.0114245478634744e-10
+  - Market Cap Rank: 580
+  - Price (BTC): 1.015753176948293e-10
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 302
-  - Price (BTC): 2.353904814235905e-06
+  - Market Cap Rank: 295
+  - Price (BTC): 2.512427407303933e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.819203061902071e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002549819774873031
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 158
-  - Price (BTC): 6.461310396582786e-06
+  - Market Cap Rank: 155
+  - Price (BTC): 6.592801475859197e-06
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Aptos (APT)**
   - Market Cap Rank: 26
-  - Price (BTC): 0.00014216797807464358
+  - Price (BTC): 0.0001377014573895357
   - [More Info](https://www.coingecko.com/en/coins/aptos)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025421890245633247
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.046038113243533e-05
+  - Price (BTC): 4.065183212031494e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.7318903535590103e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.981749423920454e-06
+  - Price (BTC): 8.984298623227882e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.196889358912148e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.170806739794787e-10
+  - Price (BTC): 2.1405535815154906e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 40
-  - Price (BTC): 0.005153583017569798
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.799977828828956e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.821293607318782e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **MANTRA (OM)**
+  - Market Cap Rank: 39
+  - Price (BTC): 4.201968939449102e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 187
-  - Price (BTC): 5.165176251807408e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.187438703813481e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03333718251614704
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 72
+  - Price (BTC): 1.7251923456312108e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.3383408825532013e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 ## Posts
 - **Post ID: 1**
