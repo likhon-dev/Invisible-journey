@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 07:14:39 UTC
+**Last updated:** 2024-11-20 08:20:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92580 USD
-  - Market Cap: $1830631335102.7305 USD
-  - 24h Volume: $85071200085.73508 USD
-  - 24h Change: 0.7873943557102452%
+- **Bitcoin (BTC)**: $93165 USD
+  - Market Cap: $1840308265166.3677 USD
+  - 24h Volume: $87675885204.0005 USD
+  - 24h Change: 1.7392416995431714%
 
-- **Ethereum (ETH)**: $3107.88 USD
-  - Market Cap: $374234235749.7403 USD
-  - 24h Volume: $29201686064.796913 USD
-  - 24h Change: -0.4917426622602304%
+- **Ethereum (ETH)**: $3121.26 USD
+  - Market Cap: $374926279254.6204 USD
+  - 24h Volume: $29154964766.841557 USD
+  - 24h Change: 0.08475869877553184%
 
 ## Trending Coins
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 590
-  - Price (BTC): 9.974662491227222e-11
+  - Market Cap Rank: 588
+  - Price (BTC): 9.97637129950022e-11
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 315
-  - Price (BTC): 2.2684776328545073e-06
+  - Market Cap Rank: 285
+  - Price (BTC): 2.73839125705709e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.989580768624916e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.7326840220239e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.193209026684223e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002540108498860369
+  - Price (BTC): 0.0025492687521517336
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 789
-  - Price (BTC): 3.85241226277222e-05
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 34
+  - Price (BTC): 6.10209147107184e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 38
-  - Price (BTC): 4.313214469593357e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.7632558768412e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.103295838388881e-05
+  - Price (BTC): 4.087416685279505e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.205814350887511e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **MANTRA (OM)**
+  - Market Cap Rank: 38
+  - Price (BTC): 4.291624506171409e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.1952708418051977e-10
+  - Price (BTC): 2.1999116835684653e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 41
-  - Price (BTC): 0.005016083416003363
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.220473624229598e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03361096202234381
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Quant (QNT)**
+  - Market Cap Rank: 86
+  - Price (BTC): 0.000939047101516292
+  - [More Info](https://www.coingecko.com/en/coins/quant)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.534591477840552e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.360018447362872e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **NEAR Protocol (NEAR)**
-  - Market Cap Rank: 25
-  - Price (BTC): 6.0509141696380025e-05
-  - [More Info](https://www.coingecko.com/en/coins/near)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 166
+  - Price (BTC): 6.146729148449769e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Render (RENDER)**
+  - Market Cap Rank: 35
+  - Price (BTC): 8.715631188938024e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 148
+  - Price (BTC): 2.6728748041577034e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.9088181045809167e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 ## Posts
 - **Post ID: 1**
