@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 18:20:30 UTC
+**Last updated:** 2024-11-21 19:12:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98031 USD
-  - Market Cap: $1940809753548.9368 USD
-  - 24h Volume: $109801103890.3125 USD
-  - 24h Change: 4.325025196656763%
+- **Bitcoin (BTC)**: $98424 USD
+  - Market Cap: $1946869003570.2317 USD
+  - 24h Volume: $100203509699.69151 USD
+  - 24h Change: 5.219679283254513%
 
-- **Ethereum (ETH)**: $3350.8 USD
-  - Market Cap: $404234402885.2731 USD
-  - 24h Volume: $54239218392.58038 USD
-  - 24h Change: 9.366226569429832%
+- **Ethereum (ETH)**: $3379.84 USD
+  - Market Cap: $406770486483.1353 USD
+  - 24h Volume: $54610309424.86814 USD
+  - 24h Change: 11.128812063877142%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 966
-  - Price (BTC): 3.454571104551117e-07
+  - Market Cap Rank: 958
+  - Price (BTC): 3.508747618818007e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 843
-  - Price (BTC): 5.243452030353337e-07
+  - Market Cap Rank: 841
+  - Price (BTC): 5.192584819989926e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 447
-  - Price (BTC): 3.144830898576802e-06
+  - Market Cap Rank: 448
+  - Price (BTC): 3.133249041281731e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 956
-  - Price (BTC): 3.6647689069064495e-10
+  - Market Cap Rank: 907
+  - Price (BTC): 3.9013885774230156e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 193
+  - Price (BTC): 4.62013775794022e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.713629005668172e-05
+  - Price (BTC): 3.6721365111198744e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 221
-  - Price (BTC): 4.054948812702513e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 907
-  - Price (BTC): 1.5561216681671208e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026265623060719697
+  - Price (BTC): 0.002626493808766101
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.034227538345045695
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Mode (MODE)**
+  - Market Cap Rank: 904
+  - Price (BTC): 1.5517563503989198e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2332727374226819e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.1019071400386338e-10
+  - Price (BTC): 2.0964640835678157e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **FLOKI (FLOKI)**
   - Market Cap Rank: 54
-  - Price (BTC): 2.6446262327474508e-09
+  - Price (BTC): 2.631495189019839e-09
   - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03432614103552795
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.938345547125886e-06
+  - Price (BTC): 3.922374069566003e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 85
+  - Price (BTC): 1.3561076366665942e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.170838557270382e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 77
-  - Price (BTC): 1.1601678563656763e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 ## Posts
 - **Post ID: 1**
