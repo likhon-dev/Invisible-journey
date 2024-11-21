@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 04:19:00 UTC
+**Last updated:** 2024-11-21 05:14:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96906 USD
-  - Market Cap: $1917043209459.0552 USD
-  - 24h Volume: $91315276823.10056 USD
-  - 24h Change: 5.121853021895059%
+- **Bitcoin (BTC)**: $97542 USD
+  - Market Cap: $1930216780602.7705 USD
+  - 24h Volume: $75962502073.45464 USD
+  - 24h Change: 5.84944434950896%
 
-- **Ethereum (ETH)**: $3112.03 USD
-  - Market Cap: $374814524718.69995 USD
-  - 24h Volume: $32436590233.490665 USD
-  - 24h Change: 0.5028992765358146%
+- **Ethereum (ETH)**: $3144.41 USD
+  - Market Cap: $378896888232.0004 USD
+  - 24h Volume: $35407074967.66656 USD
+  - 24h Change: 1.447556922555087%
 
 ## Trending Coins
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024587503499779325
+  - Price (BTC): 0.002472688942972087
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 206
-  - Price (BTC): 4.047606521768222e-06
+  - Market Cap Rank: 190
+  - Price (BTC): 4.615684235999657e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 83
-  - Price (BTC): 1.3657428275367932e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 169
-  - Price (BTC): 2.1735003389868513e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 82
+  - Price (BTC): 1.4814051957930003e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.625807905839441e-05
+  - Price (BTC): 3.698692394987139e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **FLOKI (FLOKI)**
-  - Market Cap Rank: 49
-  - Price (BTC): 2.833319096334593e-09
+  - Market Cap Rank: 52
+  - Price (BTC): 2.7528148073414637e-09
   - [More Info](https://www.coingecko.com/en/coins/floki)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.926580373722674e-06
+  - Price (BTC): 3.9933435094743365e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 164
+  - Price (BTC): 2.2327250371108464e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 38
+  - Price (BTC): 0.005068351393862122
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.284772143110176e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
 - **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 1.9448035934059556e-10
+  - Market Cap Rank: 21
+  - Price (BTC): 2.0222956171184784e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03213042361885511
+  - Price (BTC): 0.032198792658659964
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.010907032492941e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.1481639133411901e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 43
-  - Price (BTC): 3.7800498196342806e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.5948261602888962e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 45
-  - Price (BTC): 3.219235595191739e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 69
-  - Price (BTC): 5.8315887674920595e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 133
-  - Price (BTC): 7.44874327420624e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+- **Render (RENDER)**
+  - Market Cap Rank: 36
+  - Price (BTC): 7.622171609884232e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
 - **Post ID: 1**
