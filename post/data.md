@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 17:13:43 UTC
+**Last updated:** 2024-11-21 18:20:30 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97129 USD
-  - Market Cap: $1920013636430.2886 USD
-  - 24h Volume: $115355191205.26811 USD
-  - 24h Change: 2.992574513153854%
+- **Bitcoin (BTC)**: $98031 USD
+  - Market Cap: $1940809753548.9368 USD
+  - 24h Volume: $109801103890.3125 USD
+  - 24h Change: 4.325025196656763%
 
-- **Ethereum (ETH)**: $3324.71 USD
-  - Market Cap: $400040900583.0317 USD
-  - 24h Volume: $54098713901.89226 USD
-  - 24h Change: 7.547511806860016%
+- **Ethereum (ETH)**: $3350.8 USD
+  - Market Cap: $404234402885.2731 USD
+  - 24h Volume: $54239218392.58038 USD
+  - 24h Change: 9.366226569429832%
 
 ## Trending Coins
-- **StrikeX (STRX)**
-  - Market Cap Rank: 839
-  - Price (BTC): 5.309847865288026e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **Phil (PHIL)**
-  - Market Cap Rank: 961
-  - Price (BTC): 3.478198821141056e-07
+  - Market Cap Rank: 966
+  - Price (BTC): 3.454571104551117e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 843
+  - Price (BTC): 5.243452030353337e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 446
-  - Price (BTC): 3.1533847139641603e-06
+  - Market Cap Rank: 447
+  - Price (BTC): 3.144830898576802e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 965
-  - Price (BTC): 3.5390638972822905e-10
+  - Market Cap Rank: 956
+  - Price (BTC): 3.6647689069064495e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 907
-  - Price (BTC): 1.573167470356649e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 206
-  - Price (BTC): 4.086531360127234e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.643230441159598e-05
+  - Price (BTC): 3.713629005668172e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 221
+  - Price (BTC): 4.054948812702513e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 907
+  - Price (BTC): 1.5561216681671208e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002616338653224575
+  - Price (BTC): 0.0026265623060719697
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.148300627961946e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03422949227890095
+  - Price (BTC): 0.034227538345045695
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1019071400386338e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 54
+  - Price (BTC): 2.6446262327474508e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.938345547125886e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.940597289394174e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.170838557270382e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Arbitrum (ARB)**
-  - Market Cap Rank: 45
-  - Price (BTC): 8.13128022586144e-06
-  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 38
-  - Price (BTC): 0.005221421412517507
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Ether.fi (ETHFI)**
-  - Market Cap Rank: 202
-  - Price (BTC): 2.0357122419275795e-05
-  - [More Info](https://www.coingecko.com/en/coins/ether-fi)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 77
+  - Price (BTC): 1.1601678563656763e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 ## Posts
 - **Post ID: 1**
