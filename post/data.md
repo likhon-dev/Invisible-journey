@@ -1,73 +1,68 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 16:19:15 UTC
+**Last updated:** 2024-11-21 17:13:43 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96824 USD
-  - Market Cap: $1915532317116.0034 USD
-  - 24h Volume: $116856997955.66754 USD
-  - 24h Change: 2.741539759121055%
+- **Bitcoin (BTC)**: $97129 USD
+  - Market Cap: $1920013636430.2886 USD
+  - 24h Volume: $115355191205.26811 USD
+  - 24h Change: 2.992574513153854%
 
-- **Ethereum (ETH)**: $3299.73 USD
-  - Market Cap: $395719822180.4026 USD
-  - 24h Volume: $53555767673.5099 USD
-  - 24h Change: 6.180881101098725%
+- **Ethereum (ETH)**: $3324.71 USD
+  - Market Cap: $400040900583.0317 USD
+  - 24h Volume: $54098713901.89226 USD
+  - 24h Change: 7.547511806860016%
 
 ## Trending Coins
 - **StrikeX (STRX)**
-  - Market Cap Rank: 829
-  - Price (BTC): 5.370920779764089e-07
+  - Market Cap Rank: 839
+  - Price (BTC): 5.309847865288026e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Phil (PHIL)**
   - Market Cap Rank: 961
-  - Price (BTC): 3.4736354629083655e-07
+  - Price (BTC): 3.478198821141056e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 450
-  - Price (BTC): 3.112480904699109e-06
+  - Market Cap Rank: 446
+  - Price (BTC): 3.1533847139641603e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 967
-  - Price (BTC): 3.420502283887833e-10
+  - Market Cap Rank: 965
+  - Price (BTC): 3.5390638972822905e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 894
-  - Price (BTC): 1.5889260749408628e-07
+  - Market Cap Rank: 907
+  - Price (BTC): 1.573167470356649e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 221
-  - Price (BTC): 3.894437688890724e-06
+  - Market Cap Rank: 206
+  - Price (BTC): 4.086531360127234e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.69179498210666e-05
+  - Price (BTC): 3.643230441159598e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025862894316980166
+  - Price (BTC): 0.002616338653224575
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03411172729380056
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.114889794611971e-10
+  - Price (BTC): 2.148300627961946e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 150
-  - Price (BTC): 2.522857176995507e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03422949227890095
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -76,18 +71,23 @@
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.941241973037081e-06
+  - Price (BTC): 3.940597289394174e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 75
-  - Price (BTC): 1.657157793199836e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Arbitrum (ARB)**
+  - Market Cap Rank: 45
+  - Price (BTC): 8.13128022586144e-06
+  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
 
-- **Optimism (OP)**
-  - Market Cap Rank: 51
-  - Price (BTC): 2.1948126546574012e-05
-  - [More Info](https://www.coingecko.com/en/coins/optimism)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 38
+  - Price (BTC): 0.005221421412517507
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Ether.fi (ETHFI)**
+  - Market Cap Rank: 202
+  - Price (BTC): 2.0357122419275795e-05
+  - [More Info](https://www.coingecko.com/en/coins/ether-fi)
 
 ## Posts
 - **Post ID: 1**
