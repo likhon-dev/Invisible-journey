@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 02:54:49 UTC
+**Last updated:** 2024-11-22 03:27:17 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98611 USD
-  - Market Cap: $1951767495238.7205 USD
-  - 24h Volume: $121408793169.395 USD
-  - 24h Change: 4.407593552055275%
+- **Bitcoin (BTC)**: $99075 USD
+  - Market Cap: $1959509476358.0513 USD
+  - 24h Volume: $127247558579.38525 USD
+  - 24h Change: 3.47838836206053%
 
-- **Ethereum (ETH)**: $3333.61 USD
-  - Market Cap: $401194225095.33716 USD
-  - 24h Volume: $57248266610.90801 USD
-  - 24h Change: 9.191056741834158%
+- **Ethereum (ETH)**: $3348.15 USD
+  - Market Cap: $402991964164.1039 USD
+  - 24h Volume: $57639171322.25403 USD
+  - 24h Change: 8.007533397917426%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 913
-  - Price (BTC): 1.527675558398581e-07
+  - Market Cap Rank: 902
+  - Price (BTC): 1.561364141039803e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 799
-  - Price (BTC): 4.87579664573589e-10
+  - Market Cap Rank: 807
+  - Price (BTC): 4.84384664434455e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 955
+  - Price (BTC): 3.52152662469064e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.3767866333800437e-05
+  - Price (BTC): 1.3920119242991485e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 951
-  - Price (BTC): 3.5147594499539566e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 209
-  - Price (BTC): 4.033084191545619e-06
+  - Market Cap Rank: 218
+  - Price (BTC): 3.918279527101331e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 883
-  - Price (BTC): 4.7404362359025596e-07
+  - Market Cap Rank: 879
+  - Price (BTC): 4.927407375500806e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026075819778990142
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.580473643363432e-05
+  - Price (BTC): 3.604633064230663e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002621812809204282
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.024363178577668e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.2849789675158012e-05
+  - Market Cap Rank: 86
+  - Price (BTC): 1.319314809423686e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.0911045903381623e-10
+  - Price (BTC): 2.119895283386629e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.8141899216363003e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03375149983239563
+  - Price (BTC): 0.03375196975797363
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.878739806915575e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 55
+  - Price (BTC): 2.6417595554227215e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
+
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 109
-  - Price (BTC): 9.790858875508413e-06
+  - Market Cap Rank: 108
+  - Price (BTC): 9.895565115089985e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
