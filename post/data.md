@@ -1,47 +1,52 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 08:19:38 UTC
+**Last updated:** 2024-11-22 09:16:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99167 USD
-  - Market Cap: $1962283412513.942 USD
-  - 24h Volume: $110971648157.94359 USD
-  - 24h Change: 2.1863578459605644%
+- **Bitcoin (BTC)**: $98686 USD
+  - Market Cap: $1956086338320.9895 USD
+  - 24h Volume: $114007789847.54498 USD
+  - 24h Change: 1.2411096091382035%
 
-- **Ethereum (ETH)**: $3371.48 USD
-  - Market Cap: $406007448178.9471 USD
-  - 24h Volume: $54268053646.60202 USD
-  - 24h Change: 7.401787456982422%
+- **Ethereum (ETH)**: $3371.04 USD
+  - Market Cap: $406475767347.6168 USD
+  - 24h Volume: $55727099016.77137 USD
+  - 24h Change: 7.257058055527144%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 865
-  - Price (BTC): 1.667447041770159e-07
+  - Market Cap Rank: 857
+  - Price (BTC): 1.7192089933179352e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 662
-  - Price (BTC): 6.915607990956463e-10
+  - Market Cap Rank: 699
+  - Price (BTC): 6.43053787474608e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 199
+  - Price (BTC): 4.186791551064246e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.3846983744738398e-05
+  - Price (BTC): 1.4085257047577955e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 200
-  - Price (BTC): 4.232748379892248e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.612258697637806e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 955
-  - Price (BTC): 3.5245314067564755e-07
+  - Market Cap Rank: 960
+  - Price (BTC): 3.47158988219524e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026159384649862296
+  - Price (BTC): 0.002627620439120371
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
@@ -49,45 +54,40 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.586483458969899e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.1146916863961263e-10
+  - Price (BTC): 2.1390458857010554e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 866
-  - Price (BTC): 4.900859426906822e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+- **Grass (GRASS)**
+  - Market Cap Rank: 180
+  - Price (BTC): 2.048992308778759e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03399685000250834
+  - Price (BTC): 0.03412808906635699
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.689604178809743e-06
+  - Price (BTC): 8.778082848292342e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.2657915838936372e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 876
+  - Price (BTC): 4.949066177068255e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.953355897067424e-06
+  - Price (BTC): 3.978948793628415e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 92
-  - Price (BTC): 2.9340236848723045e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+- **Optimism (OP)**
+  - Market Cap Rank: 53
+  - Price (BTC): 2.1262564077066768e-05
+  - [More Info](https://www.coingecko.com/en/coins/optimism)
 
 ## Posts
 - **Post ID: 1**
