@@ -1,53 +1,48 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 07:14:48 UTC
+**Last updated:** 2024-11-22 08:19:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99100 USD
-  - Market Cap: $1960444338649.901 USD
-  - 24h Volume: $106648537884.6756 USD
-  - 24h Change: 2.1167909151023565%
+- **Bitcoin (BTC)**: $99167 USD
+  - Market Cap: $1962283412513.942 USD
+  - 24h Volume: $110971648157.94359 USD
+  - 24h Change: 2.1863578459605644%
 
-- **Ethereum (ETH)**: $3373.21 USD
-  - Market Cap: $406515313848.39166 USD
-  - 24h Volume: $56618553071.113205 USD
-  - 24h Change: 7.947167562739913%
+- **Ethereum (ETH)**: $3371.48 USD
+  - Market Cap: $406007448178.9471 USD
+  - 24h Volume: $54268053646.60202 USD
+  - 24h Change: 7.401787456982422%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 871
-  - Price (BTC): 1.6951622426289794e-07
+  - Market Cap Rank: 865
+  - Price (BTC): 1.667447041770159e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 720
-  - Price (BTC): 6.002432796572592e-10
+  - Market Cap Rank: 662
+  - Price (BTC): 6.915607990956463e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4091544682653245e-05
+  - Price (BTC): 1.3846983744738398e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 224
-  - Price (BTC): 3.917800750435292e-06
+  - Market Cap Rank: 200
+  - Price (BTC): 4.232748379892248e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 953
-  - Price (BTC): 3.4975926027255534e-07
+  - Market Cap Rank: 955
+  - Price (BTC): 3.5245314067564755e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026148540054321268
+  - Price (BTC): 0.0026159384649862296
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 874
-  - Price (BTC): 4.939804260735856e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -56,38 +51,43 @@
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.60741992267279e-05
+  - Price (BTC): 3.586483458969899e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.967567744935262e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1146916863961263e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 866
+  - Price (BTC): 4.900859426906822e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.034040606833154775
+  - Price (BTC): 0.03399685000250834
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.1386025813687035e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 174
-  - Price (BTC): 2.155219840362506e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.2835042188366866e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.903044937159719e-06
+  - Price (BTC): 8.689604178809743e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 88
+  - Price (BTC): 1.2657915838936372e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.953355897067424e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 92
+  - Price (BTC): 2.9340236848723045e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 ## Posts
 - **Post ID: 1**
