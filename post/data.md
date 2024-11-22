@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 15:15:45 UTC
+**Last updated:** 2024-11-22 16:18:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98078 USD
-  - Market Cap: $1938962757108.066 USD
-  - 24h Volume: $97370938071.99342 USD
-  - 24h Change: 1.1044665725086056%
+- **Bitcoin (BTC)**: $98343 USD
+  - Market Cap: $1947429118433.0923 USD
+  - 24h Volume: $99554736128.00569 USD
+  - 24h Change: 1.5430331305381229%
 
-- **Ethereum (ETH)**: $3310.8 USD
-  - Market Cap: $398459573949.14667 USD
-  - 24h Volume: $44042181852.571266 USD
-  - 24h Change: -0.36259138775197197%
+- **Ethereum (ETH)**: $3298.44 USD
+  - Market Cap: $397704405648.2584 USD
+  - 24h Volume: $44324696509.714554 USD
+  - 24h Change: -0.16307823143964637%
 
 ## Trending Coins
+- **Mythos (MYTH)**
+  - Market Cap Rank: 320
+  - Price (BTC): 2.85768308409191e-06
+  - [More Info](https://www.coingecko.com/en/coins/mythos)
+
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 279
-  - Price (BTC): 4.208561125619885e-10
+  - Price (BTC): 4.204947329812584e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 451
-  - Price (BTC): 3.0028424743143098e-06
+  - Price (BTC): 3.0182331323768853e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **Mythos (MYTH)**
-  - Market Cap Rank: 314
-  - Price (BTC): 2.8910227752707927e-06
-  - [More Info](https://www.coingecko.com/en/coins/mythos)
-
 - **Phil (PHIL)**
-  - Market Cap Rank: 992
-  - Price (BTC): 3.272748159877432e-07
+  - Market Cap Rank: 996
+  - Price (BTC): 3.265062648218692e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 805
-  - Price (BTC): 4.80078359493487e-10
+  - Market Cap Rank: 838
+  - Price (BTC): 4.571180135179903e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 897
-  - Price (BTC): 4.550155935498299e-07
+  - Market Cap Rank: 900
+  - Price (BTC): 4.635708932572384e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 846
-  - Price (BTC): 1.753674395835471e-07
+  - Market Cap Rank: 845
+  - Price (BTC): 1.7634798079548376e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.5860411408646725e-05
+  - Price (BTC): 3.5403227457019155e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.469431973256253e-05
+  - Price (BTC): 1.4576552722184213e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 230
-  - Price (BTC): 3.75413100081668e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.076006608544033e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026064337666048707
+  - Price (BTC): 0.0025906889685096087
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03377234946760171
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 224
+  - Price (BTC): 3.880083031497787e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.073202250750737e-10
+  - Price (BTC): 2.0749305394801676e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 9.427143142035807e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.070210111318945e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 56
+  - Price (BTC): 2.5274654622298488e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
 
 ## Posts
 - **Post ID: 1**
