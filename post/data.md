@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 19:11:01 UTC
+**Last updated:** 2024-11-23 20:15:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97945 USD
-  - Market Cap: $1938068154696.0984 USD
-  - 24h Volume: $55578620194.6531 USD
-  - 24h Change: -1.462905027429092%
+- **Bitcoin (BTC)**: $97483 USD
+  - Market Cap: $1928742361150.8787 USD
+  - 24h Volume: $50376586902.769196 USD
+  - 24h Change: -1.8949627080335405%
 
-- **Ethereum (ETH)**: $3427.08 USD
-  - Market Cap: $412885479705.3747 USD
-  - 24h Volume: $43005458735.21256 USD
-  - 24h Change: 4.0963545291116965%
+- **Ethereum (ETH)**: $3404.08 USD
+  - Market Cap: $410143182711.10876 USD
+  - 24h Volume: $42300862797.73999 USD
+  - 24h Change: 3.3885579145182247%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 666
-  - Price (BTC): 2.1846212749674366e-07
+  - Market Cap Rank: 650
+  - Price (BTC): 2.3136842466044426e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 576
-  - Price (BTC): 8.766239676054018e-07
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 917
-  - Price (BTC): 4.5793127298843465e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 505
-  - Price (BTC): 2.046045800815313e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 261
-  - Price (BTC): 5.102429110109028e-10
+  - Price (BTC): 5.004873808477202e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 575
+  - Price (BTC): 8.756396651428609e-07
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 918
+  - Price (BTC): 4.5810852986762376e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 442
-  - Price (BTC): 3.3040820826978957e-06
+  - Market Cap Rank: 443
+  - Price (BTC): 3.269076445481006e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 728
-  - Price (BTC): 6.103602683501303e-06
+  - Market Cap Rank: 713
+  - Price (BTC): 6.357297671674481e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 501
+  - Price (BTC): 2.0653854069397017e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
 - **PONKE (PONKE)**
-  - Market Cap Rank: 257
-  - Price (BTC): 6.327678866362639e-06
+  - Market Cap Rank: 258
+  - Price (BTC): 6.211825505453418e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.232031092074813e-06
+  - Market Cap Rank: 15
+  - Price (BTC): 5.053986146767424e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Kusama (KSM)**
-  - Market Cap Rank: 148
-  - Price (BTC): 0.00043645660026683347
-  - [More Info](https://www.coingecko.com/en/coins/kusama)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002616091854553061
+  - Price (BTC): 0.002610967002918416
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.4091372638875694e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 8.710476292962082e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5245380910731804e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.5001087586839487e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 281
+  - Price (BTC): 2.8337940134306587e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 1.0864882921995191e-05
+  - Price (BTC): 1.0869354265794853e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 40
-  - Price (BTC): 1.4565567535846778e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.30524074625679e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
