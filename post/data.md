@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 06:20:40 UTC
+**Last updated:** 2024-11-23 07:13:47 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98794 USD
-  - Market Cap: $1955175510974.6802 USD
-  - 24h Volume: $83373329272.78467 USD
-  - 24h Change: -0.3079773492181181%
+- **Bitcoin (BTC)**: $98783 USD
+  - Market Cap: $1954469766450.7468 USD
+  - 24h Volume: $75334557963.691 USD
+  - 24h Change: -0.2802403180425171%
 
-- **Ethereum (ETH)**: $3352.18 USD
-  - Market Cap: $403755545633.9704 USD
-  - 24h Volume: $37273326285.191284 USD
-  - 24h Change: -0.7414309398680955%
+- **Ethereum (ETH)**: $3351.03 USD
+  - Market Cap: $403291177027.9407 USD
+  - 24h Volume: $37160517992.07594 USD
+  - 24h Change: -0.760366169980334%
 
 ## Trending Coins
 - **MAD (MAD)**
-  - Market Cap Rank: 733
-  - Price (BTC): 5.708892510863311e-10
+  - Market Cap Rank: 770
+  - Price (BTC): 5.220881005151603e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 870
-  - Price (BTC): 1.7017823079726377e-07
+  - Market Cap Rank: 869
+  - Price (BTC): 1.6882987649525425e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Solidus Ai Tech (AITECH)**
   - Market Cap Rank: 597
-  - Price (BTC): 7.837093388541199e-07
+  - Price (BTC): 7.92859547971636e-07
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 949
+  - Price (BTC): 4.3330818692020176e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 251
+  - Price (BTC): 6.341098950211481e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.68358281755191e-06
+  - Price (BTC): 4.6994180989674815e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.421416976515854e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 945
-  - Price (BTC): 4.3621086205101755e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 8
-  - Price (BTC): 1.1038442359253067e-05
+  - Price (BTC): 1.107945770674418e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002632532735679218
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.618116411774988e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Stellar (XLM)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.418101908096167e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.56324070679582e-05
+  - Price (BTC): 1.5713786099513666e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 18
-  - Price (BTC): 7.541474299665561e-05
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026277351731141146
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03390942334236831
+  - Price (BTC): 0.03391292030341965
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **NEURALAI (NEURAL)**
+  - Market Cap Rank: 526
+  - Price (BTC): 0.0001026187019328
+  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.653100441646041e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 294
+  - Price (BTC): 2.4853020320978225e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.160149394995284e-10
+  - Price (BTC): 2.1576200504642414e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 286
-  - Price (BTC): 2.720064911022196e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 ## Posts
 - **Post ID: 1**
