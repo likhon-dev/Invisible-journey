@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 04:17:54 UTC
+**Last updated:** 2024-11-23 05:14:42 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98671 USD
-  - Market Cap: $1952317647181.649 USD
-  - 24h Volume: $80137021269.75291 USD
-  - 24h Change: -0.2010990012667419%
+- **Bitcoin (BTC)**: $98533 USD
+  - Market Cap: $1950171311479.058 USD
+  - 24h Volume: $83669026242.7659 USD
+  - 24h Change: -0.3698636501050134%
 
-- **Ethereum (ETH)**: $3346.37 USD
-  - Market Cap: $403001805941.7114 USD
-  - 24h Volume: $38528449642.51669 USD
-  - 24h Change: -0.6486379051029949%
+- **Ethereum (ETH)**: $3350.49 USD
+  - Market Cap: $403712173906.9884 USD
+  - 24h Volume: $38496305332.308136 USD
+  - 24h Change: -1.0342431947978215%
 
 ## Trending Coins
-- **Mythos (MYTH)**
-  - Market Cap Rank: 345
-  - Price (BTC): 2.6304774919153786e-06
-  - [More Info](https://www.coingecko.com/en/coins/mythos)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 754
-  - Price (BTC): 5.599092828883709e-10
+  - Market Cap Rank: 732
+  - Price (BTC): 5.661096979014751e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
+- **Mythos (MYTH)**
+  - Market Cap Rank: 346
+  - Price (BTC): 2.63263774772617e-06
+  - [More Info](https://www.coingecko.com/en/coins/mythos)
+
 - **Mode (MODE)**
-  - Market Cap Rank: 865
-  - Price (BTC): 1.703189921608687e-07
+  - Market Cap Rank: 868
+  - Price (BTC): 1.7030686875572575e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.351975994934928e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
 - **StrikeX (STRX)**
-  - Market Cap Rank: 950
-  - Price (BTC): 4.330564263536773e-07
+  - Market Cap Rank: 944
+  - Price (BTC): 4.3485325524011495e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 1.0848836971042359e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.552641907224039e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.5960226011546814e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.584649863214484e-06
+  - Price (BTC): 4.6407019564295094e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026166771174734194
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 1.0935314217868328e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.139342135837873e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Stellar (XLM)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.288380449646782e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.5457403056756002e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 283
+  - Price (BTC): 2.7783894569410593e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.621724843681706e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03392184448505335
+  - Price (BTC): 0.03401396605113792
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 0.000451106743264652
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 13
+  - Price (BTC): 2.7480261712254575e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 526
-  - Price (BTC): 9.97402890134e-05
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.1521775115144403e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 7.760889817282002e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 7.594891469437792e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+
+- **AIOZ Network (AIOZ)**
+  - Market Cap Rank: 116
+  - Price (BTC): 8.298146790041579e-06
+  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
 
 ## Posts
 - **Post ID: 1**
