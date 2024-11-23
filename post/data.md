@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 23:15:01 UTC
+**Last updated:** 2024-11-23 01:09:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98795 USD
-  - Market Cap: $1956887705381.9114 USD
-  - 24h Volume: $91051949355.98225 USD
-  - 24h Change: 0.06993334753070528%
+- **Bitcoin (BTC)**: $98710 USD
+  - Market Cap: $1951379185875.5247 USD
+  - 24h Volume: $77396215530.88022 USD
+  - 24h Change: 0.5316768684184504%
 
-- **Ethereum (ETH)**: $3313.38 USD
-  - Market Cap: $399598827845.01636 USD
-  - 24h Volume: $39101817507.44996 USD
-  - 24h Change: -1.758458390529085%
+- **Ethereum (ETH)**: $3353.7 USD
+  - Market Cap: $403353492842.39764 USD
+  - 24h Volume: $39542231709.461586 USD
+  - 24h Change: 0.9317197466134661%
 
 ## Trending Coins
-- **Mythos (MYTH)**
-  - Market Cap Rank: 333
-  - Price (BTC): 2.723329880047011e-06
-  - [More Info](https://www.coingecko.com/en/coins/mythos)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 996
-  - Price (BTC): 3.2038694820071194e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **StrikeX (STRX)**
-  - Market Cap Rank: 933
-  - Price (BTC): 4.3363073260719817e-07
+  - Market Cap Rank: 944
+  - Price (BTC): 4.320132789653799e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 272
-  - Price (BTC): 4.4808003172515625e-10
+  - Market Cap Rank: 276
+  - Price (BTC): 4.519953066795754e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Phil (PHIL)**
+  - Market Cap Rank: 999
+  - Price (BTC): 3.247865472276326e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 455
-  - Price (BTC): 3.053884808003089e-06
+  - Market Cap Rank: 445
+  - Price (BTC): 3.1468399023226215e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 779
-  - Price (BTC): 5.003300643407713e-10
+  - Market Cap Rank: 758
+  - Price (BTC): 5.375647959933893e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 848
-  - Price (BTC): 1.7348586914385817e-07
+  - Market Cap Rank: 852
+  - Price (BTC): 1.7349809596314977e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.524716256554194e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 12
-  - Price (BTC): 0.0004246459408805428
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.6117000272677075e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 1.0340217157052585e-05
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1297974292430923e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025921367874955047
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.5155413603713737e-06
+  - Price (BTC): 4.056679616688063e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.5266038225635831e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.190530250540702e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 277
-  - Price (BTC): 2.832827358518079e-06
+  - Market Cap Rank: 273
+  - Price (BTC): 3.0623262564675256e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 19
+  - Price (BTC): 3.5821225359056416e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 30
+  - Price (BTC): 1.5876178241149198e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.055713422682245e-10
+  - Price (BTC): 2.1015389844200125e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
