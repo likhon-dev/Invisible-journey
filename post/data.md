@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 19:11:53 UTC
+**Last updated:** 2024-11-24 20:15:18 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96328 USD
-  - Market Cap: $1906471335211.622 USD
-  - 24h Volume: $51898730670.25227 USD
-  - 24h Change: -1.6117337999660353%
+- **Bitcoin (BTC)**: $96383 USD
+  - Market Cap: $1906298007695.1985 USD
+  - 24h Volume: $50077898094.84564 USD
+  - 24h Change: -1.0718231170068708%
 
-- **Ethereum (ETH)**: $3324.88 USD
-  - Market Cap: $400230106377.6617 USD
-  - 24h Volume: $30833655326.96798 USD
-  - 24h Change: -2.966546478881088%
+- **Ethereum (ETH)**: $3329.95 USD
+  - Market Cap: $400826150307.7566 USD
+  - 24h Volume: $29740709649.907364 USD
+  - 24h Change: -2.062809844122847%
 
 ## Trending Coins
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 682
-  - Price (BTC): 7.030460304719604e-07
+  - Market Cap Rank: 680
+  - Price (BTC): 7.033900332311394e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 844
-  - Price (BTC): 5.28985490809562e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 695
-  - Price (BTC): 2.0512037134230128e-07
+  - Market Cap Rank: 670
+  - Price (BTC): 2.1834490485723335e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 437
-  - Price (BTC): 3.4078488443894356e-06
+  - Price (BTC): 3.398468596235185e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 848
+  - Price (BTC): 5.455573431360593e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 520
-  - Price (BTC): 1.0331871546919653e-06
+  - Market Cap Rank: 505
+  - Price (BTC): 1.0438852361445562e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 872
-  - Price (BTC): 4.365013128884684e-10
+  - Market Cap Rank: 883
+  - Price (BTC): 4.2841991082058976e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 43
-  - Price (BTC): 8.308645395929031e-05
+  - Market Cap Rank: 45
+  - Price (BTC): 8.274709005804716e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 366
-  - Price (BTC): 0.00014448591848946534
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
-
 - **Entangle (NGL)**
-  - Market Cap Rank: 725
-  - Price (BTC): 1.0707880033789102e-06
+  - Market Cap Rank: 723
+  - Price (BTC): 1.0542873093301485e-06
   - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **Fantom (FTM)**
-  - Market Cap Rank: 55
-  - Price (BTC): 1.020758367440805e-05
+  - Market Cap Rank: 58
+  - Price (BTC): 9.985191205720888e-06
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **POL (ex-MATIC) (POL)**
-  - Market Cap Rank: 34
-  - Price (BTC): 5.657720093817851e-06
-  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 13
-  - Price (BTC): 5.561712558202568e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002590339810916989
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.465020816088161e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.343639685193683e-06
+  - Price (BTC): 4.344830891224301e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Sei (SEI)**
+  - Market Cap Rank: 57
+  - Price (BTC): 6.543556674132558e-06
+  - [More Info](https://www.coingecko.com/en/coins/sei)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 13
+  - Price (BTC): 5.500573553141894e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.4909186133732987e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 376
+  - Price (BTC): 0.0001416409083110958
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 12
+  - Price (BTC): 0.0004175440896355078
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
 
 ## Posts
 - **Post ID: 1**
