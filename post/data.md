@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 04:18:37 UTC
+**Last updated:** 2024-11-24 05:14:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98309 USD
-  - Market Cap: $1945693834747.0925 USD
-  - 24h Volume: $47854234486.54263 USD
-  - 24h Change: -0.35857085817242135%
+- **Bitcoin (BTC)**: $98303 USD
+  - Market Cap: $1944793703760.0115 USD
+  - 24h Volume: $46037465150.268074 USD
+  - 24h Change: -0.17978061197888937%
 
-- **Ethereum (ETH)**: $3431.01 USD
-  - Market Cap: $413366814765.561 USD
-  - 24h Volume: $40062066676.280685 USD
-  - 24h Change: 2.4977088110099976%
+- **Ethereum (ETH)**: $3417.45 USD
+  - Market Cap: $411504302378.95026 USD
+  - 24h Volume: $37257510245.622444 USD
+  - 24h Change: 2.0317835706095955%
 
 ## Trending Coins
 - **Celestia (TIA)**
   - Market Cap Rank: 50
-  - Price (BTC): 7.804234629542874e-05
+  - Price (BTC): 7.5934538994633e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 538
-  - Price (BTC): 9.721356923875615e-07
+  - Market Cap Rank: 539
+  - Price (BTC): 9.619971224629188e-07
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 674
-  - Price (BTC): 7.191420512746973e-06
+  - Market Cap Rank: 691
+  - Price (BTC): 6.754245067904443e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 515
-  - Price (BTC): 2.0171564688191322e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 12
-  - Price (BTC): 6.209987371994197e-06
+  - Price (BTC): 5.99080084299221e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 18
-  - Price (BTC): 9.574257883709722e-05
+  - Price (BTC): 9.306666761687027e-05
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.5961186213551947e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 519
+  - Price (BTC): 2.012226653287148e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.4988392319078e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5028344727423278e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **POL (ex-MATIC) (POL)**
-  - Market Cap Rank: 34
-  - Price (BTC): 6.040401433494616e-06
-  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002634245278387979
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **The Sandbox (SAND)**
+  - Market Cap Rank: 89
+  - Price (BTC): 5.973646087288906e-06
+  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
 
 - **Tether (USDT)**
   - Market Cap Rank: 3
-  - Price (BTC): 1.018262830832903e-05
+  - Price (BTC): 1.018765035964669e-05
   - [More Info](https://www.coingecko.com/en/coins/tether)
 
-- **Harmony (ONE)**
-  - Market Cap Rank: 261
-  - Price (BTC): 2.825588500206546e-07
-  - [More Info](https://www.coingecko.com/en/coins/harmony)
-
-- **Kusama (KSM)**
-  - Market Cap Rank: 142
-  - Price (BTC): 0.00048638197939060196
-  - [More Info](https://www.coingecko.com/en/coins/kusama)
-
 - **Fantom (FTM)**
-  - Market Cap Rank: 60
-  - Price (BTC): 9.296946665466966e-06
+  - Market Cap Rank: 59
+  - Price (BTC): 9.230804939692301e-06
   - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.5249537542946516e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002615994714794579
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03476497746731874
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Cosmos Hub (ATOM)**
+  - Market Cap Rank: 42
+  - Price (BTC): 9.399448416821391e-05
+  - [More Info](https://www.coingecko.com/en/coins/cosmos-hub)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.4885643875342458e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
