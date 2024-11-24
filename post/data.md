@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 20:15:18 UTC
+**Last updated:** 2024-11-24 21:13:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96383 USD
-  - Market Cap: $1906298007695.1985 USD
-  - 24h Volume: $50077898094.84564 USD
-  - 24h Change: -1.0718231170068708%
+- **Bitcoin (BTC)**: $96844 USD
+  - Market Cap: $1917184478381.4521 USD
+  - 24h Volume: $52026182146.22061 USD
+  - 24h Change: -0.9052261286279003%
 
-- **Ethereum (ETH)**: $3329.95 USD
-  - Market Cap: $400826150307.7566 USD
-  - 24h Volume: $29740709649.907364 USD
-  - 24h Change: -2.062809844122847%
+- **Ethereum (ETH)**: $3341.38 USD
+  - Market Cap: $402623804282.5768 USD
+  - 24h Volume: $29426952070.968735 USD
+  - 24h Change: -1.9317116425275702%
 
 ## Trending Coins
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 680
-  - Price (BTC): 7.033900332311394e-07
+  - Market Cap Rank: 688
+  - Price (BTC): 6.822551221210613e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 670
-  - Price (BTC): 2.1834490485723335e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 437
-  - Price (BTC): 3.398468596235185e-06
+  - Price (BTC): 3.4178531307018523e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 848
-  - Price (BTC): 5.455573431360593e-07
+  - Market Cap Rank: 856
+  - Price (BTC): 5.391188574773931e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 674
+  - Price (BTC): 2.251178088641181e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 505
-  - Price (BTC): 1.0438852361445562e-06
+  - Market Cap Rank: 485
+  - Price (BTC): 1.1522969352796595e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 883
-  - Price (BTC): 4.2841991082058976e-10
+  - Market Cap Rank: 927
+  - Price (BTC): 3.896134511763382e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 45
-  - Price (BTC): 8.274709005804716e-05
+  - Market Cap Rank: 46
+  - Price (BTC): 8.155006161965418e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Entangle (NGL)**
-  - Market Cap Rank: 723
-  - Price (BTC): 1.0542873093301485e-06
+  - Market Cap Rank: 715
+  - Price (BTC): 1.0987315818247287e-06
   - [More Info](https://www.coingecko.com/en/coins/entangle)
 
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 395
+  - Price (BTC): 0.000125658900348849
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002589176308950536
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Fantom (FTM)**
-  - Market Cap Rank: 58
-  - Price (BTC): 9.985191205720888e-06
+  - Market Cap Rank: 57
+  - Price (BTC): 1.0017829248891524e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.344830891224301e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Sei (SEI)**
-  - Market Cap Rank: 57
-  - Price (BTC): 6.543556674132558e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
-
 - **Stellar (XLM)**
-  - Market Cap Rank: 13
-  - Price (BTC): 5.500573553141894e-06
+  - Market Cap Rank: 12
+  - Price (BTC): 5.756205680119207e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.4909186133732987e-05
+  - Price (BTC): 3.468939733043835e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 376
-  - Price (BTC): 0.0001416409083110958
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 1.0381432019795187e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 12
-  - Price (BTC): 0.0004175440896355078
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 9.031408933108125e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
 ## Posts
 - **Post ID: 1**
