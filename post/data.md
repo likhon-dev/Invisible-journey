@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 07:13:16 UTC
+**Last updated:** 2024-11-24 08:17:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98502 USD
-  - Market Cap: $1948887679055.6184 USD
-  - 24h Volume: $41927901311.19406 USD
-  - 24h Change: -0.2850123551700946%
+- **Bitcoin (BTC)**: $98511 USD
+  - Market Cap: $1948115680571.5508 USD
+  - 24h Volume: $47652669740.179504 USD
+  - 24h Change: -0.06503324563922479%
 
-- **Ethereum (ETH)**: $3429.9 USD
-  - Market Cap: $413067229109.524 USD
-  - 24h Volume: $35185882779.20137 USD
-  - 24h Change: 2.3825733326332013%
+- **Ethereum (ETH)**: $3428.51 USD
+  - Market Cap: $412615233068.2881 USD
+  - 24h Volume: $37830531096.73061 USD
+  - 24h Change: 2.5633832782198693%
 
 ## Trending Coins
 - **Celestia (TIA)**
   - Market Cap Rank: 52
-  - Price (BTC): 7.453057630374266e-05
+  - Price (BTC): 7.462645273472655e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 526
-  - Price (BTC): 9.96121038983261e-07
+  - Market Cap Rank: 499
+  - Price (BTC): 1.103279255102794e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 694
-  - Price (BTC): 6.777399750421695e-06
+  - Market Cap Rank: 686
+  - Price (BTC): 6.924064317756607e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **PONKE (PONKE)**
   - Market Cap Rank: 262
-  - Price (BTC): 6.243648046361228e-06
+  - Price (BTC): 6.271234001722224e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
+- **The Sandbox (SAND)**
+  - Market Cap Rank: 84
+  - Price (BTC): 6.2796675011046195e-06
+  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 12
+  - Price (BTC): 5.863626632479911e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
 - **Dogelon Mars (ELON)**
-  - Market Cap Rank: 515
-  - Price (BTC): 2.0244581823910448e-12
+  - Market Cap Rank: 511
+  - Price (BTC): 2.0364021934766e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 18
-  - Price (BTC): 9.117277969697361e-05
+  - Price (BTC): 9.227752607470123e-05
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 89
-  - Price (BTC): 6.1268425314368595e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 13
-  - Price (BTC): 5.774535766091002e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4874685713580547e-05
+  - Price (BTC): 1.4866108574522617e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.458315569944839e-06
+  - Price (BTC): 4.444622202612111e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.532569089558509e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Tether (USDT)**
-  - Market Cap Rank: 3
-  - Price (BTC): 1.0167615612020436e-05
-  - [More Info](https://www.coingecko.com/en/coins/tether)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 8.137405663671166e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026035434146992353
+  - Price (BTC): 0.002605943459284561
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Terra Luna Classic (LUNC)**
+  - Market Cap Rank: 148
+  - Price (BTC): 1.3062338582028357e-09
+  - [More Info](https://www.coingecko.com/en/coins/terra-luna-classic)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 1.0823835638683017e-05
+  - Price (BTC): 1.088202266564971e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 59
+  - Price (BTC): 9.249762139179045e-06
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Axie Infinity (AXS)**
+  - Market Cap Rank: 98
+  - Price (BTC): 8.463184543332407e-05
+  - [More Info](https://www.coingecko.com/en/coins/axie-infinity)
 
 ## Posts
 - **Post ID: 1**
