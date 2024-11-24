@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 17:11:54 UTC
+**Last updated:** 2024-11-24 18:18:30 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96296 USD
-  - Market Cap: $1905878832062.4873 USD
-  - 24h Volume: $52078508540.55914 USD
-  - 24h Change: -1.2890551386975504%
+- **Bitcoin (BTC)**: $96127 USD
+  - Market Cap: $1902521711807.7852 USD
+  - 24h Volume: $51683082519.59248 USD
+  - 24h Change: -2.0030262526001783%
 
-- **Ethereum (ETH)**: $3315.83 USD
-  - Market Cap: $399620787411.2797 USD
-  - 24h Volume: $32007579401.275566 USD
-  - 24h Change: -2.554960637472496%
+- **Ethereum (ETH)**: $3318.23 USD
+  - Market Cap: $399668594321.0659 USD
+  - 24h Volume: $30219242174.31397 USD
+  - 24h Change: -3.151120482992651%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 694
-  - Price (BTC): 2.0077725477317842e-07
+  - Market Cap Rank: 697
+  - Price (BTC): 1.9994314667245266e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 437
-  - Price (BTC): 3.3606180176752687e-06
+  - Market Cap Rank: 439
+  - Price (BTC): 3.381960605891343e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 846
-  - Price (BTC): 5.343297608496185e-07
+  - Market Cap Rank: 861
+  - Price (BTC): 5.228168925579749e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 678
-  - Price (BTC): 6.989731829198051e-07
+  - Market Cap Rank: 677
+  - Price (BTC): 7.005625453155146e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **Celestia (TIA)**
-  - Market Cap Rank: 45
-  - Price (BTC): 7.971935186713856e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 512
-  - Price (BTC): 1.0060798773225137e-06
+  - Market Cap Rank: 517
+  - Price (BTC): 1.008649240604492e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
+- **MAD (MAD)**
+  - Market Cap Rank: 935
+  - Price (BTC): 3.916045073724918e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 44
+  - Price (BTC): 8.190457333658584e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
+
 - **PONKE (PONKE)**
-  - Market Cap Rank: 261
-  - Price (BTC): 5.945201956128433e-06
+  - Market Cap Rank: 264
+  - Price (BTC): 5.9663324893870665e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Entangle (NGL)**
-  - Market Cap Rank: 727
-  - Price (BTC): 1.0372370375267054e-06
+  - Market Cap Rank: 722
+  - Price (BTC): 1.052886790869461e-06
   - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **Luckycoin (LKY)**
-  - Market Cap Rank: 393
-  - Price (BTC): 0.00012358190902981837
+  - Market Cap Rank: 366
+  - Price (BTC): 0.00014122516024096167
   - [More Info](https://www.coingecko.com/en/coins/luckycoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002559514572223961
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.430719638427792e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Fantom (FTM)**
+  - Market Cap Rank: 55
+  - Price (BTC): 1.0237977483253599e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 15
-  - Price (BTC): 4.923117100535679e-06
+  - Price (BTC): 4.968630449644828e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Sei (SEI)**
-  - Market Cap Rank: 60
-  - Price (BTC): 6.029378177061871e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0303816210476453e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
 - **Notcoin (NOT)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.056000738395152e-07
+  - Market Cap Rank: 118
+  - Price (BTC): 9.52640340066639e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.43476721938552e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **POL (ex-MATIC) (POL)**
+  - Market Cap Rank: 34
+  - Price (BTC): 5.613663313131484e-06
+  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
 
 ## Posts
 - **Post ID: 1**
