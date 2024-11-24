@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 18:18:30 UTC
+**Last updated:** 2024-11-24 19:11:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96127 USD
-  - Market Cap: $1902521711807.7852 USD
-  - 24h Volume: $51683082519.59248 USD
-  - 24h Change: -2.0030262526001783%
+- **Bitcoin (BTC)**: $96328 USD
+  - Market Cap: $1906471335211.622 USD
+  - 24h Volume: $51898730670.25227 USD
+  - 24h Change: -1.6117337999660353%
 
-- **Ethereum (ETH)**: $3318.23 USD
-  - Market Cap: $399668594321.0659 USD
-  - 24h Volume: $30219242174.31397 USD
-  - 24h Change: -3.151120482992651%
+- **Ethereum (ETH)**: $3324.88 USD
+  - Market Cap: $400230106377.6617 USD
+  - 24h Volume: $30833655326.96798 USD
+  - 24h Change: -2.966546478881088%
 
 ## Trending Coins
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 682
+  - Price (BTC): 7.030460304719604e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 844
+  - Price (BTC): 5.28985490809562e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 697
-  - Price (BTC): 1.9994314667245266e-07
+  - Market Cap Rank: 695
+  - Price (BTC): 2.0512037134230128e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 439
-  - Price (BTC): 3.381960605891343e-06
+  - Market Cap Rank: 437
+  - Price (BTC): 3.4078488443894356e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 861
-  - Price (BTC): 5.228168925579749e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 677
-  - Price (BTC): 7.005625453155146e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 517
-  - Price (BTC): 1.008649240604492e-06
+  - Market Cap Rank: 520
+  - Price (BTC): 1.0331871546919653e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 935
-  - Price (BTC): 3.916045073724918e-10
+  - Market Cap Rank: 872
+  - Price (BTC): 4.365013128884684e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 44
-  - Price (BTC): 8.190457333658584e-05
+  - Market Cap Rank: 43
+  - Price (BTC): 8.308645395929031e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 264
-  - Price (BTC): 5.9663324893870665e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Entangle (NGL)**
-  - Market Cap Rank: 722
-  - Price (BTC): 1.052886790869461e-06
-  - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **Luckycoin (LKY)**
   - Market Cap Rank: 366
-  - Price (BTC): 0.00014122516024096167
+  - Price (BTC): 0.00014448591848946534
   - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Entangle (NGL)**
+  - Market Cap Rank: 725
+  - Price (BTC): 1.0707880033789102e-06
+  - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **Fantom (FTM)**
   - Market Cap Rank: 55
-  - Price (BTC): 1.0237977483253599e-05
+  - Price (BTC): 1.020758367440805e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 15
-  - Price (BTC): 4.968630449644828e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 118
-  - Price (BTC): 9.52640340066639e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.43476721938552e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **POL (ex-MATIC) (POL)**
   - Market Cap Rank: 34
-  - Price (BTC): 5.613663313131484e-06
+  - Price (BTC): 5.657720093817851e-06
   - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 13
+  - Price (BTC): 5.561712558202568e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002590339810916989
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.465020816088161e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.343639685193683e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
