@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 11:11:09 UTC
+**Last updated:** 2024-11-24 12:28:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97778 USD
-  - Market Cap: $1935708942111.5515 USD
-  - 24h Volume: $45904887758.32146 USD
-  - 24h Change: -0.7685247997298061%
+- **Bitcoin (BTC)**: $97320 USD
+  - Market Cap: $1925815571830.7068 USD
+  - 24h Volume: $47515750578.22175 USD
+  - 24h Change: -1.2900438187043661%
 
-- **Ethereum (ETH)**: $3377.96 USD
-  - Market Cap: $407167530023.9203 USD
-  - 24h Volume: $35423458984.61952 USD
-  - 24h Change: 0.6828303404756103%
+- **Ethereum (ETH)**: $3345.98 USD
+  - Market Cap: $402972529706.29474 USD
+  - 24h Volume: $38709638130.62819 USD
+  - 24h Change: -0.635018471774813%
 
 ## Trending Coins
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 516
+  - Price (BTC): 1.9760340039607717e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 895
+  - Price (BTC): 4.829406234454646e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Entangle (NGL)**
+  - Market Cap Rank: 719
+  - Price (BTC): 1.0611742362732442e-06
+  - [More Info](https://www.coingecko.com/en/coins/entangle)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 258
+  - Price (BTC): 6.041818356444556e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 438
+  - Price (BTC): 3.3380095510582196e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Celestia (TIA)**
   - Market Cap Rank: 51
-  - Price (BTC): 7.445652043224003e-05
+  - Price (BTC): 7.556341048124658e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 495
-  - Price (BTC): 1.0882880524736548e-06
+  - Market Cap Rank: 509
+  - Price (BTC): 1.0349478270485682e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 515
-  - Price (BTC): 1.9706782374612486e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 662
+  - Price (BTC): 2.169564683698588e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Stellar (XLM)**
-  - Market Cap Rank: 12
-  - Price (BTC): 5.930137976857376e-06
+  - Market Cap Rank: 13
+  - Price (BTC): 5.570388417730155e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Entangle (NGL)**
-  - Market Cap Rank: 720
-  - Price (BTC): 1.073610374761045e-06
-  - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **The Sandbox (SAND)**
   - Market Cap Rank: 82
-  - Price (BTC): 6.332823507272283e-06
+  - Price (BTC): 6.2591838451542895e-06
   - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 434
-  - Price (BTC): 3.4352402128331818e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 259
-  - Price (BTC): 6.146892899414496e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025777039917066957
+  - Price (BTC): 0.0025598257615730515
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.47337445807448e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4608645971757946e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 18
-  - Price (BTC): 8.889518460676077e-05
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.335125157171528e-06
+  - Price (BTC): 4.2993199350871195e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 8.078497618254584e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.0523918850313682e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 38
-  - Price (BTC): 1.5256877415816422e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 8.788374420711406e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.4267865845970211e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
