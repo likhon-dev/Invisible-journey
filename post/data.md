@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 21:14:15 UTC
+**Last updated:** 2024-11-25 22:14:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94809 USD
-  - Market Cap: $1877651877635.6624 USD
-  - 24h Volume: $89633738022.38676 USD
-  - 24h Change: -1.9122875969864856%
+- **Bitcoin (BTC)**: $94177 USD
+  - Market Cap: $1860187610016.6992 USD
+  - 24h Volume: $96421497132.2969 USD
+  - 24h Change: -3.375503872930732%
 
-- **Ethereum (ETH)**: $3483.81 USD
-  - Market Cap: $420747265686.26935 USD
-  - 24h Volume: $51497850098.3541 USD
-  - 24h Change: 4.466263530182517%
+- **Ethereum (ETH)**: $3445.25 USD
+  - Market Cap: $414178346897.41595 USD
+  - 24h Volume: $53091010198.835625 USD
+  - 24h Change: 2.5852533353510596%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 700
-  - Price (BTC): 2.1017481187841546e-07
+  - Market Cap Rank: 705
+  - Price (BTC): 2.02582904069498e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 273
-  - Price (BTC): 4.912896860170416e-10
+  - Market Cap Rank: 272
+  - Price (BTC): 4.869193929598301e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 701
-  - Price (BTC): 6.815656262451203e-06
+  - Market Cap Rank: 721
+  - Price (BTC): 6.496926562541597e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 295
-  - Price (BTC): 2.284306006732889e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 367
-  - Price (BTC): 2.856567170696617e-11
+  - Market Cap Rank: 372
+  - Price (BTC): 2.7416501844397482e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 897
-  - Price (BTC): 4.303306253166503e-10
+  - Market Cap Rank: 933
+  - Price (BTC): 3.987088178412017e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 14
-  - Price (BTC): 5.334548766361576e-06
+  - Price (BTC): 5.329300149356793e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025221370611963924
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 58
-  - Price (BTC): 1.0122853032359856e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 293
+  - Price (BTC): 2.323340887988743e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.3642441500471694e-05
+  - Price (BTC): 3.337317147794441e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Just a chill guy (CHILLGUY)**
   - Market Cap Rank: 249
-  - Price (BTC): 3.8989306402098815e-06
+  - Price (BTC): 3.841482148801875e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002532069074015726
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 24
+  - Price (BTC): 2.0092104746531965e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
   - Market Cap Rank: 151
-  - Price (BTC): 7.291982651463316e-08
+  - Price (BTC): 7.173637953372885e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 36
-  - Price (BTC): 0.005835459103347795
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Fantom (FTM)**
+  - Market Cap Rank: 58
+  - Price (BTC): 1.0130337900955891e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 50
+  - Price (BTC): 3.3790189736703765e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **The Sandbox (SAND)**
-  - Market Cap Rank: 71
-  - Price (BTC): 7.553386826721533e-06
+  - Market Cap Rank: 72
+  - Price (BTC): 7.470736025345315e-06
   - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03674749597555946
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
