@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 12:31:29 UTC
+**Last updated:** 2024-11-25 13:24:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98110 USD
-  - Market Cap: $1941055118348.2593 USD
-  - 24h Volume: $56654206268.60209 USD
-  - 24h Change: 0.889944630364389%
+- **Bitcoin (BTC)**: $97347 USD
+  - Market Cap: $1925915897693.5288 USD
+  - 24h Volume: $44927157162.933044 USD
+  - 24h Change: -0.19489157084356895%
 
-- **Ethereum (ETH)**: $3489.27 USD
-  - Market Cap: $420157947477.542 USD
-  - 24h Volume: $35077203360.833694 USD
-  - 24h Change: 4.378381051284935%
+- **Ethereum (ETH)**: $3459.21 USD
+  - Market Cap: $417084840823.09326 USD
+  - 24h Volume: $34006573191.941628 USD
+  - 24h Change: 3.5813013437886774%
 
 ## Trending Coins
-- **KANGO (KANGO)**
-  - Market Cap Rank: 996
-  - Price (BTC): 1.2142541824727647e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
+- **Grass (GRASS)**
+  - Market Cap Rank: 153
+  - Price (BTC): 2.7780979068373665e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 45
+  - Price (BTC): 3.5210371802766855e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 234
+  - Price (BTC): 4.069627620504328e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 671
+  - Price (BTC): 2.2681696693717975e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 878
-  - Price (BTC): 4.305828122490469e-10
+  - Market Cap Rank: 893
+  - Price (BTC): 4.276011100205356e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 676
-  - Price (BTC): 7.207165431300479e-06
+  - Market Cap Rank: 682
+  - Price (BTC): 7.199923158656698e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 228
-  - Price (BTC): 4.261861525486151e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 149
-  - Price (BTC): 2.9224517861043327e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035470370119244185
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 0.0004655580593634854
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.466914882256757e-05
+  - Price (BTC): 3.433569951832785e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025648541003776707
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 72
-  - Price (BTC): 7.76020708871512e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.582661641627751e-06
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.5079443101106285e-05
+  - Price (BTC): 1.477498373396542e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0580485361439404e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002551773529875089
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.5203094398748736e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.235843674067754e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **The Sandbox (SAND)**
+  - Market Cap Rank: 70
+  - Price (BTC): 7.694905206278374e-06
+  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.1967249811561203e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 59
+  - Price (BTC): 9.51443428397818e-06
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 8.946764489250098e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.275709158133531e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
