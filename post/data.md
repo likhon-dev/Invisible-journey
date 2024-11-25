@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 14:14:59 UTC
+**Last updated:** 2024-11-25 15:16:20 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97654 USD
-  - Market Cap: $1931385049004.0093 USD
-  - 24h Volume: $62037904698.54759 USD
-  - 24h Change: 0.7171999307638968%
+- **Bitcoin (BTC)**: $94785 USD
+  - Market Cap: $1877865159125.1477 USD
+  - 24h Volume: $66712073744.11205 USD
+  - 24h Change: -2.2297215111349655%
 
-- **Ethereum (ETH)**: $3492.93 USD
-  - Market Cap: $420058705799.85724 USD
-  - 24h Volume: $31666769444.20963 USD
-  - 24h Change: 5.668584298262766%
+- **Ethereum (ETH)**: $3373.25 USD
+  - Market Cap: $407265959024.76056 USD
+  - 24h Volume: $37035058567.873276 USD
+  - 24h Change: 1.6042254401653206%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 664
-  - Price (BTC): 2.3040735598604847e-07
+  - Market Cap Rank: 674
+  - Price (BTC): 2.236136746303484e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 274
-  - Price (BTC): 4.856061062279949e-10
+  - Price (BTC): 4.794924746470573e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 776
-  - Price (BTC): 5.638255685564068e-07
+  - Market Cap Rank: 761
+  - Price (BTC): 5.889694400854267e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 157
-  - Price (BTC): 2.7330801066663467e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 47
-  - Price (BTC): 3.446664963788521e-05
+  - Market Cap Rank: 48
+  - Price (BTC): 3.443858154749204e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 155
+  - Price (BTC): 2.7932053129134104e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 239
-  - Price (BTC): 4.029065380060503e-06
+  - Market Cap Rank: 249
+  - Price (BTC): 3.8019434899076658e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **MAD (MAD)**
-  - Market Cap Rank: 850
-  - Price (BTC): 4.5068623927784343e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.419591420150785e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 682
-  - Price (BTC): 7.146102645026257e-06
+  - Market Cap Rank: 681
+  - Price (BTC): 7.261692101931818e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025477767911450157
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **MAD (MAD)**
+  - Market Cap Rank: 884
+  - Price (BTC): 4.3839585647356115e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 43
+  - Price (BTC): 4.84568565654013e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03569586088818425
+  - Price (BTC): 0.035651123778694116
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002524844777843035
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.390191313559093e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4705053644403133e-05
+  - Price (BTC): 1.4639334101757878e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.1749627168236135e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.152506895600051e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **The Sandbox (SAND)**
-  - Market Cap Rank: 73
-  - Price (BTC): 7.3831014443230484e-06
+  - Market Cap Rank: 71
+  - Price (BTC): 7.464871670086073e-06
   - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 368
-  - Price (BTC): 0.00014822724719067073
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
 
 ## Posts
 - **Post ID: 1**
