@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 08:21:05 UTC
+**Last updated:** 2024-11-25 09:17:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98341 USD
-  - Market Cap: $1945772345164.813 USD
-  - 24h Volume: $48822912953.93219 USD
-  - 24h Change: -0.1402417461594204%
+- **Bitcoin (BTC)**: $98752 USD
+  - Market Cap: $1952192221510.569 USD
+  - 24h Volume: $61525443025.02411 USD
+  - 24h Change: 0.4700220238485343%
 
-- **Ethereum (ETH)**: $3413.62 USD
-  - Market Cap: $411267679791.07666 USD
-  - 24h Volume: $31235512044.90081 USD
-  - 24h Change: -0.3801087962536602%
+- **Ethereum (ETH)**: $3430.51 USD
+  - Market Cap: $412720567016.851 USD
+  - 24h Volume: $31678868637.148823 USD
+  - 24h Change: 0.6616066235307023%
 
 ## Trending Coins
 - **Gigachad (GIGA)**
-  - Market Cap Rank: 245
-  - Price (BTC): 3.9722063770006303e-07
+  - Market Cap Rank: 254
+  - Price (BTC): 3.836801150391887e-07
   - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **KANGO (KANGO)**
-  - Market Cap Rank: 940
-  - Price (BTC): 1.35547981980233e-09
+  - Market Cap Rank: 939
+  - Price (BTC): 1.3612321799363878e-09
   - [More Info](https://www.coingecko.com/en/coins/kango)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 872
-  - Price (BTC): 5.144738827865605e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 466
-  - Price (BTC): 1.2139500987451982e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **GOGGLES (GOGLZ)**
   - Market Cap Rank: 676
-  - Price (BTC): 7.2293884853820155e-06
+  - Price (BTC): 7.306160934311304e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 883
-  - Price (BTC): 4.4705363268571344e-10
+  - Market Cap Rank: 863
+  - Price (BTC): 4.542431418517855e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 871
+  - Price (BTC): 5.28951209103933e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 458
+  - Price (BTC): 1.2319473681840237e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
+- **Entangle (NGL)**
+  - Market Cap Rank: 666
+  - Price (BTC): 1.2808459470536513e-06
+  - [More Info](https://www.coingecko.com/en/coins/entangle)
+
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 659
-  - Price (BTC): 7.74388110158884e-07
+  - Market Cap Rank: 661
+  - Price (BTC): 7.68876411132469e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 344
+  - Price (BTC): 0.00016383022750740504
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 202
+  - Price (BTC): 4.768617652860448e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 0.00047035654695124087
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
 
 - **The Sandbox (SAND)**
   - Market Cap Rank: 71
-  - Price (BTC): 7.594827671366972e-06
+  - Price (BTC): 7.664010018984123e-06
   - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 206
-  - Price (BTC): 4.825793186077689e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **Stellar (XLM)**
+  - Market Cap Rank: 13
+  - Price (BTC): 5.453868963691359e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.501075310930782e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Celestia (TIA)**
-  - Market Cap Rank: 51
-  - Price (BTC): 7.855307059536418e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.3728798130350685e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 342
-  - Price (BTC): 0.00017194764377336403
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025928691853360974
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 18
-  - Price (BTC): 9.377225729700396e-05
+  - Price (BTC): 9.261697659186203e-05
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5123294961711029e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
