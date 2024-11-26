@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 02:55:49 UTC
+**Last updated:** 2024-11-26 03:29:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94662 USD
-  - Market Cap: $1873124649690.5415 USD
-  - 24h Volume: $112997076957.26727 USD
-  - 24h Change: -2.974994003998395%
+- **Bitcoin (BTC)**: $94364 USD
+  - Market Cap: $1866331337291.9824 USD
+  - 24h Volume: $112410392605.44147 USD
+  - 24h Change: -3.4326017928128145%
 
-- **Ethereum (ETH)**: $3450.59 USD
-  - Market Cap: $415477230598.8758 USD
-  - 24h Volume: $57177810062.90551 USD
-  - 24h Change: 3.18960215258993%
+- **Ethereum (ETH)**: $3427.68 USD
+  - Market Cap: $412599248440.1445 USD
+  - 24h Volume: $57244908448.88352 USD
+  - 24h Change: 2.2398431879776473%
 
 ## Trending Coins
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 669
-  - Price (BTC): 7.667861533254505e-06
+  - Market Cap Rank: 665
+  - Price (BTC): 7.460664297408929e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 378
-  - Price (BTC): 2.661504976806068e-11
+  - Market Cap Rank: 380
+  - Price (BTC): 2.6181442537570242e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
-- **KANGO (KANGO)**
-  - Market Cap Rank: 973
-  - Price (BTC): 1.3011285710837922e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 924
-  - Price (BTC): 4.14465357689659e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 745
-  - Price (BTC): 1.8538464651392165e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.360750405614059e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 198
-  - Price (BTC): 5.056917051259461e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025206301079290843
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03643203230011763
+  - Price (BTC): 0.03632620709924584
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.29283763814218e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002511371228721784
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 8.092706700576346e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Fantom (FTM)**
+  - Market Cap Rank: 58
+  - Price (BTC): 1.0129501784119546e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 146
-  - Price (BTC): 3.097497967678499e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **MAD (MAD)**
+  - Market Cap Rank: 916
+  - Price (BTC): 4.1306207830516243e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Fantom (FTM)**
-  - Market Cap Rank: 57
-  - Price (BTC): 1.0364990344952171e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **KANGO (KANGO)**
+  - Market Cap Rank: 977
+  - Price (BTC): 1.323335625499988e-09
+  - [More Info](https://www.coingecko.com/en/coins/kango)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.333056062396334e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 748
+  - Price (BTC): 1.8375265284758463e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 207
+  - Price (BTC): 4.805095689069584e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 141
+  - Price (BTC): 8.102597090750562e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **POL (ex-MATIC) (POL)**
   - Market Cap Rank: 35
-  - Price (BTC): 5.8898693466952985e-06
+  - Price (BTC): 5.8432941476070555e-06
   - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 45
+  - Price (BTC): 3.520281771491641e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.0303471215997588e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
