@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 03:29:26 UTC
+**Last updated:** 2024-11-26 04:18:39 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94364 USD
-  - Market Cap: $1866331337291.9824 USD
-  - 24h Volume: $112410392605.44147 USD
-  - 24h Change: -3.4326017928128145%
+- **Bitcoin (BTC)**: $94161 USD
+  - Market Cap: $1864021442268.0605 USD
+  - 24h Volume: $96545268752.52835 USD
+  - 24h Change: -3.773706066962681%
 
-- **Ethereum (ETH)**: $3427.68 USD
-  - Market Cap: $412599248440.1445 USD
-  - 24h Volume: $57244908448.88352 USD
-  - 24h Change: 2.2398431879776473%
+- **Ethereum (ETH)**: $3421.46 USD
+  - Market Cap: $412595152099.9139 USD
+  - 24h Volume: $58471860975.31158 USD
+  - 24h Change: 1.3099073721777317%
 
 ## Trending Coins
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03636636666249064
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 665
-  - Price (BTC): 7.460664297408929e-06
+  - Market Cap Rank: 683
+  - Price (BTC): 7.318004813589879e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 380
-  - Price (BTC): 2.6181442537570242e-11
+  - Price (BTC): 2.6372601289190056e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03632620709924584
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **MAD (MAD)**
+  - Market Cap Rank: 940
+  - Price (BTC): 3.9686991508592223e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.330322212967987e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002511371228721784
+  - Price (BTC): 0.0025124886326387806
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Fantom (FTM)**
-  - Market Cap Rank: 58
-  - Price (BTC): 1.0129501784119546e-05
+  - Market Cap Rank: 59
+  - Price (BTC): 1.0115817380396725e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 916
-  - Price (BTC): 4.1306207830516243e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **KANGO (KANGO)**
-  - Market Cap Rank: 977
-  - Price (BTC): 1.323335625499988e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.333056062396334e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 748
-  - Price (BTC): 1.8375265284758463e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 207
-  - Price (BTC): 4.805095689069584e-06
+  - Market Cap Rank: 203
+  - Price (BTC): 4.858840937237817e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 8.102597090750562e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **POL (ex-MATIC) (POL)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.8432941476070555e-06
-  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.417151801457119e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 45
-  - Price (BTC): 3.520281771491641e-05
+  - Price (BTC): 3.5453076716319916e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0303471215997588e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **POL (ex-MATIC) (POL)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.869576059619122e-06
+  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 145
+  - Price (BTC): 3.147248267364674e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 47
+  - Price (BTC): 4.657291327358865e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 168
+  - Price (BTC): 6.348693961098427e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
