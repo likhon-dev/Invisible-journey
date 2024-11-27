@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-27 06:22:27 UTC
+**Last updated:** 2024-11-27 07:15:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93245 USD
-  - Market Cap: $1845070897282.9482 USD
-  - 24h Volume: $101703746245.23183 USD
-  - 24h Change: -1.7301005048714932%
+- **Bitcoin (BTC)**: $93223 USD
+  - Market Cap: $1843812852094.087 USD
+  - 24h Volume: $95713259966.78375 USD
+  - 24h Change: -1.0817440762852646%
 
-- **Ethereum (ETH)**: $3418.17 USD
-  - Market Cap: $411677966523.1733 USD
-  - 24h Volume: $44165797849.63345 USD
-  - 24h Change: -0.3459236515040797%
+- **Ethereum (ETH)**: $3435.58 USD
+  - Market Cap: $413620417667.47235 USD
+  - 24h Volume: $45241876413.836464 USD
+  - 24h Change: 0.7379383101242942%
 
 ## Trending Coins
 - **Tornado Cash (TORN)**
-  - Market Cap Rank: 665
-  - Price (BTC): 0.00020894705587845656
+  - Market Cap Rank: 677
+  - Price (BTC): 0.00018943309113931276
   - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
 
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 646
-  - Price (BTC): 8.267479253243741e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 167
-  - Price (BTC): 6.664438955915932e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Thena (THE)**
-  - Market Cap Rank: 660
-  - Price (BTC): 1.5083019943700365e-05
-  - [More Info](https://www.coingecko.com/en/coins/thena)
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 989
+  - Price (BTC): 4.0313225709519584e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 379
-  - Price (BTC): 2.7272686569098183e-11
+  - Market Cap Rank: 378
+  - Price (BTC): 2.70541288917212e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **MemeFi (MEMEFI)**
-  - Market Cap Rank: 509
-  - Price (BTC): 1.1982865030556135e-07
+  - Market Cap Rank: 506
+  - Price (BTC): 1.2053763191622096e-07
   - [More Info](https://www.coingecko.com/en/coins/memefi)
 
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 164
+  - Price (BTC): 6.5829338294111e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 140
-  - Price (BTC): 8.488881913088685e-06
+  - Market Cap Rank: 142
+  - Price (BTC): 8.229741971032654e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Thena (THE)**
+  - Market Cap Rank: 664
+  - Price (BTC): 1.4606968833176545e-05
+  - [More Info](https://www.coingecko.com/en/coins/thena)
+
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 648
+  - Price (BTC): 8.16291868371261e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 153
+  - Price (BTC): 3.894645786626078e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.5648445326413984e-05
+  - Price (BTC): 3.597497766983079e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024744718850876106
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.217480951368299e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Fantom (FTM)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.1711629485496874e-05
+  - Market Cap Rank: 53
+  - Price (BTC): 1.1541298598051656e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Puffer (PUFFER)**
-  - Market Cap Rank: 758
-  - Price (BTC): 6.204441844967962e-06
+  - Market Cap Rank: 738
+  - Price (BTC): 6.163342951992561e-06
   - [More Info](https://www.coingecko.com/en/coins/puffer)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 141
-  - Price (BTC): 3.4239492893051456e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 24
+  - Price (BTC): 1.982295127054078e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 1.1104192351063e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03667948654514748
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Swell (SWELL)**
-  - Market Cap Rank: 764
-  - Price (BTC): 3.863092199192248e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002480835388590399
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
