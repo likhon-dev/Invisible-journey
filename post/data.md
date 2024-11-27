@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-27 13:25:24 UTC
+**Last updated:** 2024-11-27 14:14:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93553 USD
-  - Market Cap: $1850680750151.6501 USD
-  - 24h Volume: $73536571218.83192 USD
-  - 24h Change: 1.0460801981134558%
+- **Bitcoin (BTC)**: $94363 USD
+  - Market Cap: $1868761401056.5034 USD
+  - 24h Volume: $74058806566.26561 USD
+  - 24h Change: 2.7307736855059908%
 
-- **Ethereum (ETH)**: $3485.63 USD
-  - Market Cap: $419574473372.55237 USD
-  - 24h Volume: $40767869170.16193 USD
-  - 24h Change: 4.624518574083661%
+- **Ethereum (ETH)**: $3495.5 USD
+  - Market Cap: $421772819898.32056 USD
+  - 24h Volume: $41373356380.14747 USD
+  - 24h Change: 5.9962550041138245%
 
 ## Trending Coins
 - **Thena (THE)**
-  - Market Cap Rank: 452
-  - Price (BTC): 2.6073123537251307e-05
+  - Market Cap Rank: 436
+  - Price (BTC): 2.7943630956814736e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 378
-  - Price (BTC): 2.7049697188912916e-11
+  - Market Cap Rank: 379
+  - Price (BTC): 2.6997726117257718e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 170
-  - Price (BTC): 6.167841982298757e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 25
-  - Price (BTC): 1.9443482352277258e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
 - **Tornado Cash (TORN)**
-  - Market Cap Rank: 673
-  - Price (BTC): 0.00019697493584495428
+  - Market Cap Rank: 653
+  - Price (BTC): 0.00021499557079795656
   - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
+
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 700
+  - Price (BTC): 7.1317865246604535e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 894
+  - Price (BTC): 4.9140561361875165e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **MAD (MAD)**
   - Market Cap Rank: 865
-  - Price (BTC): 4.897501413477055e-10
+  - Price (BTC): 4.83065854228865e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 260
-  - Price (BTC): 3.042520591697021e-11
+  - Market Cap Rank: 252
+  - Price (BTC): 3.182460017809121e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 168
+  - Price (BTC): 6.262941288269622e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 24
+  - Price (BTC): 1.96411346910059e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Morpho (MORPHO)**
   - Market Cap Rank: 403
-  - Price (BTC): 1.4236097116163414e-05
+  - Price (BTC): 1.4305494396424212e-05
   - [More Info](https://www.coingecko.com/en/coins/morpho)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 916
-  - Price (BTC): 4.7449210272848474e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 706
-  - Price (BTC): 6.9904999638535e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 126
-  - Price (BTC): 9.56896217473076e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.6157519945793004e-05
+  - Price (BTC): 3.574479700296913e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5257039834439973e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 128
+  - Price (BTC): 9.251113338930031e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **peaq (PEAQ)**
-  - Market Cap Rank: 482
-  - Price (BTC): 3.4927807749599917e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
+- **NetMind Token (NMT)**
+  - Market Cap Rank: 461
+  - Price (BTC): 3.428013715726057e-05
+  - [More Info](https://www.coingecko.com/en/coins/netmind-token)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.179092198878532e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.00251736718716205
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 54
+  - Price (BTC): 1.1105448628027146e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 ## Posts
 - **Post ID: 1**
