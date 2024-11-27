@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-27 16:19:07 UTC
+**Last updated:** 2024-11-27 17:13:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95647 USD
-  - Market Cap: $1890181730842.645 USD
-  - 24h Volume: $85298592954.4999 USD
-  - 24h Change: 2.5745201817792456%
+- **Bitcoin (BTC)**: $95665 USD
+  - Market Cap: $1892055042397.9954 USD
+  - 24h Volume: $86394179377.6106 USD
+  - 24h Change: 1.970462351356524%
 
-- **Ethereum (ETH)**: $3556.18 USD
-  - Market Cap: $427843582072.637 USD
-  - 24h Volume: $44404469244.38951 USD
-  - 24h Change: 7.462563475282208%
+- **Ethereum (ETH)**: $3553.65 USD
+  - Market Cap: $427569571622.68567 USD
+  - 24h Volume: $43776610174.28133 USD
+  - 24h Change: 6.835967398313484%
 
 ## Trending Coins
 - **Thena (THE)**
-  - Market Cap Rank: 374
-  - Price (BTC): 3.5668125443807067e-05
+  - Market Cap Rank: 345
+  - Price (BTC): 4.2108264727778995e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
 
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 263
+  - Price (BTC): 2.938262740841239e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 846
+  - Price (BTC): 5.524717357223485e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 692
-  - Price (BTC): 7.330334131851022e-06
+  - Market Cap Rank: 698
+  - Price (BTC): 7.173102816726854e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 178
+  - Price (BTC): 5.625689063725062e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 386
-  - Price (BTC): 2.6509025009195318e-11
+  - Price (BTC): 2.6136663612109513e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 872
-  - Price (BTC): 5.223672409751506e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 868
-  - Price (BTC): 4.853338118880402e-10
+  - Market Cap Rank: 901
+  - Price (BTC): 4.4248481478458413e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 255
-  - Price (BTC): 3.1055485894697464e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 174
-  - Price (BTC): 6.0627476390976215e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 350
+  - Price (BTC): 1.7446721139141798e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
 
 - **Tornado Cash (TORN)**
-  - Market Cap Rank: 714
-  - Price (BTC): 0.0001795740950536277
+  - Market Cap Rank: 695
+  - Price (BTC): 0.00019064187568948422
   - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 137
-  - Price (BTC): 8.810179911943374e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Morpho (MORPHO)**
-  - Market Cap Rank: 375
-  - Price (BTC): 1.7022627291854454e-05
-  - [More Info](https://www.coingecko.com/en/coins/morpho)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 24
-  - Price (BTC): 2.0433999508398527e-10
+  - Price (BTC): 2.0132758257149638e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Puffer (PUFFER)**
-  - Market Cap Rank: 674
-  - Price (BTC): 7.22995921678867e-06
-  - [More Info](https://www.coingecko.com/en/coins/puffer)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.5723071390094265e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 138
+  - Price (BTC): 8.722333969706989e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002514052871392841
+  - Price (BTC): 0.002494065008593388
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 36
-  - Price (BTC): 0.00613972531954921
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.557708071490971e-05
+  - Price (BTC): 1.5360237720992314e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 1.0594725506971058e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
 - **Post ID: 1**
