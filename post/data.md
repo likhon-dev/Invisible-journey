@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-28 10:17:12 UTC
+**Last updated:** 2024-11-28 11:12:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94780 USD
-  - Market Cap: $1875579819953.8035 USD
-  - 24h Volume: $80852755953.88641 USD
-  - 24h Change: 1.4280825239762993%
+- **Bitcoin (BTC)**: $94986 USD
+  - Market Cap: $1879558920364.4604 USD
+  - 24h Volume: $85020046844.8342 USD
+  - 24h Change: 1.3510632134646479%
 
-- **Ethereum (ETH)**: $3595.23 USD
-  - Market Cap: $432896304136.977 USD
-  - 24h Volume: $48679510367.89428 USD
-  - 24h Change: 5.206748362616168%
+- **Ethereum (ETH)**: $3605.79 USD
+  - Market Cap: $434336547260.4248 USD
+  - 24h Volume: $46236588469.03767 USD
+  - 24h Change: 4.465226739745427%
 
 ## Trending Coins
 - **Thena (THE)**
-  - Market Cap Rank: 354
-  - Price (BTC): 4.046483523581353e-05
+  - Market Cap Rank: 358
+  - Price (BTC): 3.874325112453017e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 182
-  - Price (BTC): 5.523906525289523e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.742897735378816e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 755
-  - Price (BTC): 6.867293114358365e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 297
+  - Price (BTC): 4.3471677569381504e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 134
-  - Price (BTC): 3.646308384113848e-05
+  - Price (BTC): 3.6231167650471406e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 125
-  - Price (BTC): 9.731668697472302e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 930
-  - Price (BTC): 4.273170161405919e-10
+  - Market Cap Rank: 933
+  - Price (BTC): 4.2186518953798214e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.7271061651357084e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 118
+  - Price (BTC): 1.0205097929201091e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
 - **Zircuit (ZRC)**
-  - Market Cap Rank: 373
-  - Price (BTC): 9.095257154289658e-07
+  - Market Cap Rank: 369
+  - Price (BTC): 9.072490133758293e-07
   - [More Info](https://www.coingecko.com/en/coins/zircuit)
 
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 759
+  - Price (BTC): 6.841821468164179e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 191
+  - Price (BTC): 5.190125526780966e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 747
-  - Price (BTC): 6.548949776957405e-06
+  - Market Cap Rank: 758
+  - Price (BTC): 6.3694491218570366e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.037892662351490615
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Tornado Cash (TORN)**
-  - Market Cap Rank: 713
-  - Price (BTC): 0.0001795221857815577
-  - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024836355161941322
+  - Price (BTC): 0.0024799131940412967
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 538
-  - Price (BTC): 0.00011344482962912
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.037945555076118784
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Ethereum Name Service (ENS)**
-  - Market Cap Rank: 102
-  - Price (BTC): 0.000363518876883322
-  - [More Info](https://www.coingecko.com/en/coins/ethereum-name-service)
+- **Rizzmas (RIZZMAS)**
+  - Market Cap Rank: 632
+  - Price (BTC): 1.9121503466200966e-09
+  - [More Info](https://www.coingecko.com/en/coins/rizzmas)
 
-- **Fantom (FTM)**
-  - Market Cap Rank: 57
-  - Price (BTC): 1.0796713709444876e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Tornado Cash (TORN)**
+  - Market Cap Rank: 713
+  - Price (BTC): 0.00018017781129194192
+  - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.0552107801631523e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
