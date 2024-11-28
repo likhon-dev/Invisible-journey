@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-28 08:20:36 UTC
+**Last updated:** 2024-11-28 09:16:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95335 USD
-  - Market Cap: $1885157874222.304 USD
-  - 24h Volume: $84234536899.49593 USD
-  - 24h Change: 2.080068427972947%
+- **Bitcoin (BTC)**: $95279 USD
+  - Market Cap: $1886028819240.0723 USD
+  - 24h Volume: $85189126358.74635 USD
+  - 24h Change: 2.2787850659202693%
 
-- **Ethereum (ETH)**: $3592.56 USD
-  - Market Cap: $432173879093.4576 USD
-  - 24h Volume: $47770460955.23334 USD
-  - 24h Change: 4.9236679662891785%
+- **Ethereum (ETH)**: $3624.87 USD
+  - Market Cap: $436497874099.70575 USD
+  - 24h Volume: $46503473483.433235 USD
+  - 24h Change: 6.322164405481832%
 
 ## Trending Coins
 - **Thena (THE)**
-  - Market Cap Rank: 359
-  - Price (BTC): 3.8442007929404755e-05
+  - Market Cap Rank: 356
+  - Price (BTC): 3.995858405008157e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 772
-  - Price (BTC): 6.654703101979757e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 128
-  - Price (BTC): 9.28606000394572e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 39
-  - Price (BTC): 1.5460072200359926e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 182
-  - Price (BTC): 5.523698678871495e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 399
-  - Price (BTC): 2.530521482090084e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 717
-  - Price (BTC): 6.844909218837651e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.785529323836602e-05
+  - Price (BTC): 3.7696498371781993e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024947232180981297
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 182
+  - Price (BTC): 5.616442698189453e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 128
+  - Price (BTC): 9.406865369042078e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 725
+  - Price (BTC): 7.383837660798996e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Zircuit (ZRC)**
+  - Market Cap Rank: 370
+  - Price (BTC): 9.191636816653101e-07
+  - [More Info](https://www.coingecko.com/en/coins/zircuit)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 136
+  - Price (BTC): 3.6391243551692734e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 731
+  - Price (BTC): 6.683754587330456e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.5473620568569526e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03797699502523562
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 395
+  - Price (BTC): 2.5667143256774393e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Ethereum Name Service (ENS)**
+  - Market Cap Rank: 101
+  - Price (BTC): 0.0003724590324530349
+  - [More Info](https://www.coingecko.com/en/coins/ethereum-name-service)
+
+- **Tornado Cash (TORN)**
+  - Market Cap Rank: 709
+  - Price (BTC): 0.00018106579881467
+  - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03767026585101282
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 36
-  - Price (BTC): 0.006000571032713838
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 974
-  - Price (BTC): 3.913100950942739e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0402243035259608e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 57
-  - Price (BTC): 1.0903037669310637e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 374
+  - Price (BTC): 1.485596922723265e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
 
 ## Posts
 - **Post ID: 1**
