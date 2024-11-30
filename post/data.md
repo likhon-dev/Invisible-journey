@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 19:11:13 UTC
+**Last updated:** 2024-11-30 20:15:25 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97022 USD
-  - Market Cap: $1919030588309.4758 USD
-  - 24h Volume: $48833262156.24231 USD
-  - 24h Change: -0.12147221320688838%
+- **Bitcoin (BTC)**: $97008 USD
+  - Market Cap: $1919668243461.5127 USD
+  - 24h Volume: $46562147100.88993 USD
+  - 24h Change: -0.3349291287500176%
 
-- **Ethereum (ETH)**: $3675.41 USD
-  - Market Cap: $442314360389.4066 USD
-  - 24h Volume: $30676494251.36311 USD
-  - 24h Change: 2.9121448881459027%
+- **Ethereum (ETH)**: $3691.88 USD
+  - Market Cap: $444626783612.0991 USD
+  - 24h Volume: $29962973419.91057 USD
+  - 24h Change: 3.0261120520297693%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 294
-  - Price (BTC): 4.5872919629448824e-10
+  - Market Cap Rank: 295
+  - Price (BTC): 4.568806532332262e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 63
-  - Price (BTC): 8.517314304662284e-05
+  - Price (BTC): 8.720281356977093e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 77
+  - Price (BTC): 1.8755682034916197e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 447
-  - Price (BTC): 2.3142870293940146e-11
+  - Price (BTC): 2.3105517368513676e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 192
-  - Price (BTC): 4.4710681828745896e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 76
-  - Price (BTC): 1.8915709042276343e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **PinLink (PIN)**
-  - Market Cap Rank: 649
-  - Price (BTC): 1.0833409866356e-05
+  - Market Cap Rank: 645
+  - Price (BTC): 1.0981460000952e-05
   - [More Info](https://www.coingecko.com/en/coins/pinlink)
 
-- **Opulous (OPUL)**
-  - Market Cap Rank: 779
-  - Price (BTC): 1.2584208315291501e-06
-  - [More Info](https://www.coingecko.com/en/coins/opulous)
-
-- **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 119
-  - Price (BTC): 9.678809200079581e-06
-  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 202
+  - Price (BTC): 4.4784827599530324e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 471
-  - Price (BTC): 0.00014529244652105
+  - Market Cap Rank: 501
+  - Price (BTC): 0.00013385587662396
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 812
-  - Price (BTC): 6.201934074695909e-08
+  - Market Cap Rank: 815
+  - Price (BTC): 6.133710845897469e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 300
-  - Price (BTC): 3.3155600054221017e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+- **AIOZ Network (AIOZ)**
+  - Market Cap Rank: 114
+  - Price (BTC): 1.0000196278835002e-05
+  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
 
-- **KONDUX (KNDX)**
-  - Market Cap Rank: 827
-  - Price (BTC): 1.0070463721145e-06
-  - [More Info](https://www.coingecko.com/en/coins/kondux-v2)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.9518418051318313e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Opulous (OPUL)**
+  - Market Cap Rank: 785
+  - Price (BTC): 1.2427717892461614e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
 
 - **Altura (ALU)**
-  - Market Cap Rank: 517
-  - Price (BTC): 1.288788949440602e-06
+  - Market Cap Rank: 477
+  - Price (BTC): 1.4450766415367373e-06
   - [More Info](https://www.coingecko.com/en/coins/altura)
+
+- **zKML (ZKML)**
+  - Market Cap Rank: 869
+  - Price (BTC): 5.2021387303316255e-06
+  - [More Info](https://www.coingecko.com/en/coins/zkml)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.9507992624435814e-05
+  - Price (BTC): 1.9417204957100337e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 302
+  - Price (BTC): 3.3492513192641053e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **KONDUX (KNDX)**
+  - Market Cap Rank: 864
+  - Price (BTC): 9.395537369916e-07
+  - [More Info](https://www.coingecko.com/en/coins/kondux-v2)
 
 ## Posts
 - **Post ID: 1**
