@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 08:18:47 UTC
+**Last updated:** 2024-12-01 09:14:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96733 USD
-  - Market Cap: $1912971850019.9714 USD
-  - 24h Volume: $42808170192.34344 USD
-  - 24h Change: -0.12067321763333382%
+- **Bitcoin (BTC)**: $96960 USD
+  - Market Cap: $1918943783037.9678 USD
+  - 24h Volume: $41620671080.946526 USD
+  - 24h Change: 0.16920035327325922%
 
-- **Ethereum (ETH)**: $3714.82 USD
-  - Market Cap: $447056017069.78754 USD
-  - 24h Volume: $29022292431.76817 USD
-  - 24h Change: 0.048121033229221545%
+- **Ethereum (ETH)**: $3702.83 USD
+  - Market Cap: $446003080424.4784 USD
+  - 24h Volume: $27974542458.161377 USD
+  - 24h Change: 0.32132700200370407%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 53
-  - Price (BTC): 9.927224705957142e-05
+  - Market Cap Rank: 57
+  - Price (BTC): 9.566530727463323e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 831
-  - Price (BTC): 5.987961006699781e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
 - **LayerZero (ZRO)**
-  - Market Cap Rank: 162
-  - Price (BTC): 6.576789599428794e-05
+  - Market Cap Rank: 164
+  - Price (BTC): 6.369167223882362e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 817
-  - Price (BTC): 5.921084788589944e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
-
-- **ZKsync (ZK)**
-  - Market Cap Rank: 155
-  - Price (BTC): 2.119391668509314e-06
-  - [More Info](https://www.coingecko.com/en/coins/zksync)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 89
-  - Price (BTC): 1.597376897957337e-05
+  - Market Cap Rank: 87
+  - Price (BTC): 1.6324490676483194e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
+- **ZKsync (ZK)**
+  - Market Cap Rank: 152
+  - Price (BTC): 2.139015770408379e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
+
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 460
-  - Price (BTC): 0.0001540873726464
+  - Market Cap Rank: 487
+  - Price (BTC): 0.00013798382157924
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 5
-  - Price (BTC): 1.943314564046202e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
 - **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 109
-  - Price (BTC): 1.1337192798340554e-05
+  - Market Cap Rank: 108
+  - Price (BTC): 1.132971534090926e-05
   - [More Info](https://www.coingecko.com/en/coins/aioz-network)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 2.216198035177397e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Artificial Superintelligence Alliance (FET)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.9424631950228325e-05
+  - Price (BTC): 1.9455426326003755e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 363
-  - Price (BTC): 0.00015553462893739406
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.521212765250668e-05
+  - Price (BTC): 3.5275769906590463e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 38
-  - Price (BTC): 9.091568265144902e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Brett (BRETT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 2.2126496918542168e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 5
+  - Price (BTC): 1.9874527843190374e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 28
+  - Price (BTC): 1.9964847621023862e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Shrub (SHRUB)**
+  - Market Cap Rank: 799
+  - Price (BTC): 6.276620883285787e-07
+  - [More Info](https://www.coingecko.com/en/coins/shrub)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 362
+  - Price (BTC): 0.0001579737630452273
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 305
+  - Price (BTC): 3.4079934793937932e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **PinLink (PIN)**
+  - Market Cap Rank: 577
+  - Price (BTC): 1.3393070317536e-05
+  - [More Info](https://www.coingecko.com/en/coins/pinlink)
 
 ## Posts
 - **Post ID: 1**
