@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 19:11:30 UTC
+**Last updated:** 2024-12-01 20:15:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97221 USD
-  - Market Cap: $1923237549668.7966 USD
-  - 24h Volume: $43112552183.4651 USD
-  - 24h Change: 0.2468095075513386%
+- **Bitcoin (BTC)**: $96927 USD
+  - Market Cap: $1918197467323.4238 USD
+  - 24h Volume: $48034590626.55757 USD
+  - 24h Change: -0.15841079394810006%
 
-- **Ethereum (ETH)**: $3714.74 USD
-  - Market Cap: $446992533790.4656 USD
-  - 24h Volume: $27105401471.68226 USD
-  - 24h Change: 1.136600068658926%
+- **Ethereum (ETH)**: $3692.89 USD
+  - Market Cap: $444774883434.28827 USD
+  - 24h Volume: $29485991964.704758 USD
+  - 24h Change: -0.09101645777920887%
 
 ## Trending Coins
 - **Shrub (SHRUB)**
   - Market Cap Rank: 792
-  - Price (BTC): 6.493188520115701e-07
+  - Price (BTC): 6.427819005646489e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 856
-  - Price (BTC): 5.95687008853373e-13
+  - Market Cap Rank: 846
+  - Price (BTC): 5.957360755086978e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 292
-  - Price (BTC): 4.682058330122849e-10
+  - Market Cap Rank: 291
+  - Price (BTC): 4.64927802655152e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 595
-  - Price (BTC): 1.0434772457747541e-06
+  - Market Cap Rank: 587
+  - Price (BTC): 1.0734448857138525e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 58
-  - Price (BTC): 9.45752006560171e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 162
-  - Price (BTC): 6.648635530872961e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
-
-- **ZKsync (ZK)**
-  - Market Cap Rank: 147
-  - Price (BTC): 2.3234995764297163e-06
-  - [More Info](https://www.coingecko.com/en/coins/zksync)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 212
-  - Price (BTC): 4.204469990162727e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 833
-  - Price (BTC): 6.00068953441283e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 93
-  - Price (BTC): 1.5390566714542762e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.0323560132066135e-05
+  - Price (BTC): 2.214995968270974e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 214
+  - Price (BTC): 4.1638044828039626e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 58
+  - Price (BTC): 9.33334866268821e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 161
+  - Price (BTC): 6.643258539484275e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 836
+  - Price (BTC): 5.94364675998485e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.5014436884659248e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **ZKsync (ZK)**
+  - Market Cap Rank: 148
+  - Price (BTC): 2.267893448813307e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.3147023762522382e-10
+  - Price (BTC): 2.2840316487273332e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 2.2936724602079083e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.038126292310062315
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 15
+  - Price (BTC): 5.62079133916044e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002430494017559226
+  - Price (BTC): 0.0024274814407414217
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.1851881564181686e-05
-  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
 
 ## Posts
 - **Post ID: 1**
