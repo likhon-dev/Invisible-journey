@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 14:15:28 UTC
+**Last updated:** 2024-12-02 15:16:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95619 USD
-  - Market Cap: $1892609010678.7788 USD
-  - 24h Volume: $77212402392.05467 USD
-  - 24h Change: -1.6337566514948114%
+- **Bitcoin (BTC)**: $96471 USD
+  - Market Cap: $1904950456530.177 USD
+  - 24h Volume: $80222386876.14987 USD
+  - 24h Change: -0.8422030273307535%
 
-- **Ethereum (ETH)**: $3626.56 USD
-  - Market Cap: $437146873449.1453 USD
-  - 24h Volume: $43626028067.249374 USD
-  - 24h Change: -2.2424665987117836%
+- **Ethereum (ETH)**: $3649.48 USD
+  - Market Cap: $438456741695.85614 USD
+  - 24h Volume: $41916792535.825195 USD
+  - 24h Change: -1.732532080343595%
 
 ## Trending Coins
 - **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 898
-  - Price (BTC): 1.4306017750518862e-06
+  - Market Cap Rank: 950
+  - Price (BTC): 1.3278942181485611e-06
   - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 809
-  - Price (BTC): 6.09978501981669e-07
+  - Market Cap Rank: 841
+  - Price (BTC): 5.589311578439234e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 888
-  - Price (BTC): 5.357165479470231e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 677
-  - Price (BTC): 8.325317390685376e-07
+  - Market Cap Rank: 662
+  - Price (BTC): 8.384473891401573e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 887
+  - Price (BTC): 5.362868580483222e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.5372434411331814e-05
+  - Price (BTC): 2.7269696624652965e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 873
-  - Price (BTC): 5.460693234335091e-08
+  - Market Cap Rank: 861
+  - Price (BTC): 5.516500754502407e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 214
-  - Price (BTC): 4.18437712133415e-11
+  - Market Cap Rank: 208
+  - Price (BTC): 4.304475913658468e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **XDC Network (XDC)**
-  - Market Cap Rank: 123
-  - Price (BTC): 7.062028523147198e-07
+  - Market Cap Rank: 122
+  - Price (BTC): 7.15587376105726e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
+- **Chainlink (LINK)**
+  - Market Cap Rank: 18
+  - Price (BTC): 0.00022227875193986304
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.747199447096368e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.182682904464359e-05
+  - Market Cap Rank: 61
+  - Price (BTC): 8.806642519555827e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 98
-  - Price (BTC): 1.4882457511130383e-05
+  - Price (BTC): 1.4608474556027073e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 18
-  - Price (BTC): 0.00022259747374415282
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002345111811332293
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 429
-  - Price (BTC): 3.86054665316973e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 3.3898438552990675e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 644
-  - Price (BTC): 3.5663305132710537e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 64
-  - Price (BTC): 9.240322679976283e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.1114934277052906e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1778106763227014e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
 - **Post ID: 1**
