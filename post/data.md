@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 23:14:16 UTC
+**Last updated:** 2024-12-02 01:16:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97770 USD
-  - Market Cap: $1934944262461.692 USD
-  - 24h Volume: $48740973335.71763 USD
-  - 24h Change: 1.3450808947509132%
+- **Bitcoin (BTC)**: $97654 USD
+  - Market Cap: $1932510565130.3987 USD
+  - 24h Volume: $54667782093.41134 USD
+  - 24h Change: 1.4991646571580086%
 
-- **Ethereum (ETH)**: $3727.18 USD
-  - Market Cap: $449030299347.5436 USD
-  - 24h Volume: $28939657784.575943 USD
-  - 24h Change: 0.09529459424431427%
+- **Ethereum (ETH)**: $3714.32 USD
+  - Market Cap: $447395620094.0959 USD
+  - 24h Volume: $29265219174.69294 USD
+  - 24h Change: 0.8749009894520469%
 
 ## Trending Coins
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 859
-  - Price (BTC): 5.818051640166626e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 610
-  - Price (BTC): 1.0015330190240988e-06
+  - Market Cap Rank: 702
+  - Price (BTC): 8.568320492171642e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 749
-  - Price (BTC): 7.263336192714673e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
-
-- **KANGO (KANGO)**
-  - Market Cap Rank: 936
-  - Price (BTC): 1.5497090038349254e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 293
-  - Price (BTC): 4.6165567906376294e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.223064403941115e-05
+  - Market Cap Rank: 3
+  - Price (BTC): 2.462338862194096e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 874
-  - Price (BTC): 5.522842358180195e-08
+  - Market Cap Rank: 807
+  - Price (BTC): 6.291153228412141e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.320139398823721e-05
+  - Market Cap Rank: 55
+  - Price (BTC): 9.754440082527987e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.177560975118046e-06
+  - Market Cap Rank: 25
+  - Price (BTC): 2.3214558202564765e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.333688359806883e-05
-  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
+- **Stellar (XLM)**
+  - Market Cap Rank: 15
+  - Price (BTC): 5.66828306397194e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 98
-  - Price (BTC): 1.5219724302419141e-05
+  - Market Cap Rank: 100
+  - Price (BTC): 1.4615497284396636e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 163
-  - Price (BTC): 6.461254440603104e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.179719669522771e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.2925468409838042e-10
+  - Market Cap Rank: 24
+  - Price (BTC): 2.304334735622269e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 453
-  - Price (BTC): 0.000158651360064
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002414119120189263
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **NEAR Protocol (NEAR)**
-  - Market Cap Rank: 25
-  - Price (BTC): 7.117973336361082e-05
-  - [More Info](https://www.coingecko.com/en/coins/near)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.563709867453452e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.2108835659431565e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 561
+  - Price (BTC): 1.124521975618798e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03805386812903123
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.507209882776284e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 ## Posts
 - **Post ID: 1**
