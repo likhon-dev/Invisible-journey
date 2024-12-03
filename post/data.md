@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 17:15:07 UTC
+**Last updated:** 2024-12-03 18:19:36 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95271 USD
-  - Market Cap: $1883351937742.4685 USD
-  - 24h Volume: $93681450358.97359 USD
-  - 24h Change: -1.0035827294090722%
+- **Bitcoin (BTC)**: $95681 USD
+  - Market Cap: $1896424600698.21 USD
+  - 24h Volume: $86535081517.42236 USD
+  - 24h Change: 0.10843537430479128%
 
-- **Ethereum (ETH)**: $3554.92 USD
-  - Market Cap: $427909409407.9108 USD
-  - 24h Volume: $38647724052.79455 USD
-  - 24h Change: -2.238481023781164%
+- **Ethereum (ETH)**: $3572.63 USD
+  - Market Cap: $430702649938.48584 USD
+  - 24h Volume: $39381321764.24557 USD
+  - 24h Change: -0.975933157270727%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 572
-  - Price (BTC): 1.121493371640736e-06
+  - Market Cap Rank: 591
+  - Price (BTC): 1.0664193723911279e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 922
-  - Price (BTC): 5.159646235625308e-13
+  - Market Cap Rank: 928
+  - Price (BTC): 5.122229446762286e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **CatSlap (SLAP)**
-  - Market Cap Rank: 869
-  - Price (BTC): 6.430168999404e-08
-  - [More Info](https://www.coingecko.com/en/coins/catslap)
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 118
+  - Price (BTC): 2.2534479758497508e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 201
+  - Price (BTC): 4.6584757075186693e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Sun Token (SUN)**
+  - Market Cap Rank: 327
+  - Price (BTC): 2.8617408850815633e-07
+  - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.7304556847454268e-05
+  - Price (BTC): 1.7664570905569048e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Sun Token (SUN)**
-  - Market Cap Rank: 333
-  - Price (BTC): 2.8341633096429974e-07
-  - [More Info](https://www.coingecko.com/en/coins/sun-token)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 199
-  - Price (BTC): 4.759765568738519e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 138
-  - Price (BTC): 2.526447677239479e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.6494618020235896e-05
+  - Price (BTC): 2.6731314300322963e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.8932773854859403e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Opulous (OPUL)**
+  - Market Cap Rank: 798
+  - Price (BTC): 1.2695896687266798e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
 
-- **TRON (TRX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 2.9336984779805248e-06
-  - [More Info](https://www.coingecko.com/en/coins/tron)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 58
-  - Price (BTC): 9.555282302483203e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 137
+  - Price (BTC): 2.6217443511118744e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.534821067793776e-06
+  - Price (BTC): 3.513998226494218e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 136
-  - Price (BTC): 1.8634373530332534e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 57
+  - Price (BTC): 9.716807328941462e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.908889536765401e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 203
+  - Price (BTC): 5.660802205292633e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.586272342506843e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Fantom (FTM)**
-  - Market Cap Rank: 49
-  - Price (BTC): 1.3358635955028484e-05
+  - Market Cap Rank: 48
+  - Price (BTC): 1.336744971196286e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002337899543660738
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
