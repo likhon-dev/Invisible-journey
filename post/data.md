@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 11:13:29 UTC
+**Last updated:** 2024-12-03 12:31:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94898 USD
-  - Market Cap: $1876219948222.083 USD
-  - 24h Volume: $81416667810.2264 USD
-  - 24h Change: -0.008110405862260427%
+- **Bitcoin (BTC)**: $94769 USD
+  - Market Cap: $1879680393095.916 USD
+  - 24h Volume: $86919848646.30486 USD
+  - 24h Change: -0.6319666701317254%
 
-- **Ethereum (ETH)**: $3599.06 USD
-  - Market Cap: $433081043964.1238 USD
-  - 24h Volume: $41396656193.96393 USD
-  - 24h Change: 0.6526425916186481%
+- **Ethereum (ETH)**: $3602.82 USD
+  - Market Cap: $434750117448.48047 USD
+  - 24h Volume: $40836268898.28081 USD
+  - 24h Change: -0.11698192196411572%
 
 ## Trending Coins
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 641
-  - Price (BTC): 9.426190390032428e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.7326747606318075e-05
+  - Price (BTC): 2.9009533022906418e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 137
-  - Price (BTC): 1.8579894724398022e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 646
+  - Price (BTC): 9.560189233916197e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Sun Token (SUN)**
-  - Market Cap Rank: 342
-  - Price (BTC): 2.711544045557443e-07
+  - Market Cap Rank: 341
+  - Price (BTC): 2.7575042387187183e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 140
+  - Price (BTC): 1.824389872898787e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
 - **Ondo (ONDO)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.771557890036581e-05
+  - Market Cap Rank: 67
+  - Price (BTC): 1.7438630723809885e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.703867177974597e-06
+  - Price (BTC): 3.757582147431119e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 3.842372921886378e-05
+  - Price (BTC): 3.871719684578468e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 16
-  - Price (BTC): 0.0002639452276292482
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 830
-  - Price (BTC): 6.046171581161793e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
+- **IOTA (IOTA)**
+  - Market Cap Rank: 84
+  - Price (BTC): 5.471853622885713e-06
+  - [More Info](https://www.coingecko.com/en/coins/iota)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 61
-  - Price (BTC): 9.371041872977521e-05
+  - Price (BTC): 9.508920695535831e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023615899519110616
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **IOTA (IOTA)**
-  - Market Cap Rank: 85
-  - Price (BTC): 5.2183419202471465e-06
-  - [More Info](https://www.coingecko.com/en/coins/iota)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 99
-  - Price (BTC): 1.5447247831365008e-05
+  - Price (BTC): 1.5726815477791564e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 194
-  - Price (BTC): 6.1873819609153555e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Chainlink (LINK)**
+  - Market Cap Rank: 16
+  - Price (BTC): 0.00025908366112311633
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **VeChain (VET)**
+  - Market Cap Rank: 34
+  - Price (BTC): 6.890139969567628e-07
+  - [More Info](https://www.coingecko.com/en/coins/vechain)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03792393665837353
+  - Price (BTC): 0.03797921879801775
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 37
+  - Price (BTC): 2.0014270419987643e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 50
+  - Price (BTC): 1.2985854381185373e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 ## Posts
 - **Post ID: 1**
