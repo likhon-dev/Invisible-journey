@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 01:15:34 UTC
+**Last updated:** 2024-12-03 03:02:07 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95824 USD
-  - Market Cap: $1894386142201.136 USD
-  - 24h Volume: $101725340606.06781 USD
-  - 24h Change: -1.7772828824491764%
+- **Bitcoin (BTC)**: $96013 USD
+  - Market Cap: $1900657432961.3008 USD
+  - 24h Volume: $93264916845.74606 USD
+  - 24h Change: -1.7008391912360272%
 
-- **Ethereum (ETH)**: $3639.67 USD
-  - Market Cap: $437684270418.36993 USD
-  - 24h Volume: $47248826491.772156 USD
-  - 24h Change: -2.0072934609026%
+- **Ethereum (ETH)**: $3642.76 USD
+  - Market Cap: $439055475288.60986 USD
+  - 24h Volume: $49482646627.43043 USD
+  - 24h Change: -2.5061584669054646%
 
 ## Trending Coins
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 886
-  - Price (BTC): 5.37840635773142e-08
+  - Market Cap Rank: 950
+  - Price (BTC): 4.8099984445411384e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Sun Token (SUN)**
-  - Market Cap Rank: 346
-  - Price (BTC): 2.57603239641074e-07
+  - Market Cap Rank: 348
+  - Price (BTC): 2.5447592709852384e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **XDC Network (XDC)**
-  - Market Cap Rank: 113
-  - Price (BTC): 8.512561910358145e-07
+  - Market Cap Rank: 116
+  - Price (BTC): 8.185241414146255e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 638
-  - Price (BTC): 9.395229685539738e-07
+  - Market Cap Rank: 654
+  - Price (BTC): 9.066686202414521e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 931
-  - Price (BTC): 5.028631939853042e-13
+  - Market Cap Rank: 948
+  - Price (BTC): 4.928078072398454e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 969
-  - Price (BTC): 1.3136289319703267e-06
-  - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.849918916326921e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.669883752324093e-06
+  - Price (BTC): 3.921550742281016e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
+- **bitsCrunch Token (BCUT)**
+  - Market Cap Rank: 989
+  - Price (BTC): 1.2548952478627857e-06
+  - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
+
 - **Ondo (ONDO)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.642842941398568e-05
+  - Market Cap Rank: 66
+  - Price (BTC): 1.773975791334035e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 833
-  - Price (BTC): 5.816302064952532e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.8121697433392224e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 176
-  - Price (BTC): 6.534349272743532e-06
+  - Market Cap Rank: 179
+  - Price (BTC): 6.6558271892640965e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Chainlink (LINK)**
+  - Market Cap Rank: 18
+  - Price (BTC): 0.00025054137444908834
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Orderly Network (ORDER)**
+  - Market Cap Rank: 797
+  - Price (BTC): 2.8428589266910927e-06
+  - [More Info](https://www.coingecko.com/en/coins/orderly-network)
 
 - **Fantom (FTM)**
   - Market Cap Rank: 50
-  - Price (BTC): 1.2966060011130914e-05
+  - Price (BTC): 1.2627720582163521e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.4069062986578364e-05
+  - Market Cap Rank: 103
+  - Price (BTC): 1.4517923400478033e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 16
-  - Price (BTC): 0.0002593153558747924
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 73
-  - Price (BTC): 8.766658285270626e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 63
+  - Price (BTC): 8.516082461146939e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 ## Posts
 - **Post ID: 1**
