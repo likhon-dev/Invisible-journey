@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 06:22:57 UTC
+**Last updated:** 2024-12-03 07:15:12 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96111 USD
-  - Market Cap: $1901911077967.3406 USD
-  - 24h Volume: $93105436931.47543 USD
-  - 24h Change: -0.10125058883177326%
+- **Bitcoin (BTC)**: $95574 USD
+  - Market Cap: $1891482665867.4568 USD
+  - 24h Volume: $82734282310.1043 USD
+  - 24h Change: -0.9438340466335938%
 
-- **Ethereum (ETH)**: $3658.8 USD
-  - Market Cap: $440612431497.97156 USD
-  - 24h Volume: $44499653245.44638 USD
-  - 24h Change: -0.32823227915890174%
+- **Ethereum (ETH)**: $3630.97 USD
+  - Market Cap: $437094164899.50684 USD
+  - 24h Volume: $41878816240.40111 USD
+  - 24h Change: -1.4954256476448864%
 
 ## Trending Coins
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.838076484318228e-05
+  - Price (BTC): 2.7115575443720608e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 67
-  - Price (BTC): 1.7072259551331103e-05
+  - Price (BTC): 1.696566565330678e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.646971711425672e-06
+  - Market Cap Rank: 20
+  - Price (BTC): 3.6639523801185194e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **IOTA (IOTA)**
+  - Market Cap Rank: 86
+  - Price (BTC): 5.008487887483555e-06
+  - [More Info](https://www.coingecko.com/en/coins/iota)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 182
+  - Price (BTC): 6.485490932089894e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 60
+  - Price (BTC): 9.640022104887472e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 40
+  - Price (BTC): 5.8188251768442665e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Chainlink (LINK)**
   - Market Cap Rank: 16
-  - Price (BTC): 0.00025898765605120123
+  - Price (BTC): 0.00026131933254416255
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 184
-  - Price (BTC): 6.393959508024e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Algorand (ALGO)**
-  - Market Cap Rank: 39
-  - Price (BTC): 6.129360404074784e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
-
-- **Sun Token (SUN)**
-  - Market Cap Rank: 346
-  - Price (BTC): 2.660933659299898e-07
-  - [More Info](https://www.coingecko.com/en/coins/sun-token)
-
-- **IOTA (IOTA)**
-  - Market Cap Rank: 87
-  - Price (BTC): 5.151684231061837e-06
-  - [More Info](https://www.coingecko.com/en/coins/iota)
+- **Fantom (FTM)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.2740751938855714e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.401118830095825e-06
+  - Price (BTC): 4.363647251676616e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 61
-  - Price (BTC): 9.767820891265276e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 15
-  - Price (BTC): 5.7555866254705764e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 3.6033062010396166e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **VeChain (VET)**
   - Market Cap Rank: 35
-  - Price (BTC): 6.955287414903081e-07
+  - Price (BTC): 6.710689798396205e-07
   - [More Info](https://www.coingecko.com/en/coins/vechain)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 40
-  - Price (BTC): 9.482018452149942e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023707287084224417
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.5917158076035297e-05
+  - Market Cap Rank: 98
+  - Price (BTC): 1.5363560296289496e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 430
-  - Price (BTC): 3.967304577182518e-06
+  - Market Cap Rank: 442
+  - Price (BTC): 3.883964188430208e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 ## Posts
