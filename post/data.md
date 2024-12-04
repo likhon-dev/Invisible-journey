@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 11:13:04 UTC
+**Last updated:** 2024-12-04 12:31:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96446 USD
-  - Market Cap: $1910065213161.5837 USD
-  - 24h Volume: $91375164358.07057 USD
-  - 24h Change: 1.5914045495051932%
+- **Bitcoin (BTC)**: $95998 USD
+  - Market Cap: $1900203080257.2822 USD
+  - 24h Volume: $85843514950.1277 USD
+  - 24h Change: 1.2919665837347654%
 
-- **Ethereum (ETH)**: $3724.46 USD
-  - Market Cap: $448536436256.1177 USD
-  - 24h Volume: $44622118394.70903 USD
-  - 24h Change: 3.440558941821037%
+- **Ethereum (ETH)**: $3712.26 USD
+  - Market Cap: $447244796641.2075 USD
+  - 24h Volume: $43371800542.17414 USD
+  - 24h Change: 3.0365825436510376%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 562
-  - Price (BTC): 1.2354249847995714e-06
+  - Market Cap Rank: 546
+  - Price (BTC): 1.271400168205536e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 826
-  - Price (BTC): 6.711080799654492e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **BakerySwap (BAKE)**
+  - Market Cap Rank: 541
+  - Price (BTC): 4.466609587203361e-06
+  - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.00012619714387274552
+  - Market Cap Rank: 44
+  - Price (BTC): 0.00013122473462759575
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 579
+  - Price (BTC): 4.631173921164148e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 4.063603770492055e-06
+  - Price (BTC): 3.934232546496135e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
 
-- **BakerySwap (BAKE)**
-  - Market Cap Rank: 540
-  - Price (BTC): 4.4448133913442835e-06
-  - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 577
-  - Price (BTC): 4.640763051398359e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 834
+  - Price (BTC): 6.630127783148382e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Kaia (KAIA)**
-  - Market Cap Rank: 76
-  - Price (BTC): 3.692157019928281e-06
+  - Market Cap Rank: 75
+  - Price (BTC): 3.7129515262556947e-06
   - [More Info](https://www.coingecko.com/en/coins/kaia)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 735
-  - Price (BTC): 7.621336413379279e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.878852725039188e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **PancakeSwap (CAKE)**
-  - Market Cap Rank: 122
-  - Price (BTC): 4.218557743249807e-05
-  - [More Info](https://www.coingecko.com/en/coins/pancakeswap)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03855866935056027
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.7370133644496485e-05
+  - Price (BTC): 2.674629347104005e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 18
-  - Price (BTC): 0.0002550036324369416
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.841814931862233e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Solana (SOL)**
   - Market Cap Rank: 6
-  - Price (BTC): 0.0024560647020533785
+  - Price (BTC): 0.0024289667579131106
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 742
+  - Price (BTC): 7.509752768932447e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Chainlink (LINK)**
+  - Market Cap Rank: 18
+  - Price (BTC): 0.00025296792513874924
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 15
-  - Price (BTC): 0.00011296201555576927
+  - Price (BTC): 0.00011538728695022934
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 120
+  - Price (BTC): 1.8287974200905116e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
