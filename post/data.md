@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 12:31:46 UTC
+**Last updated:** 2024-12-04 13:25:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95998 USD
-  - Market Cap: $1900203080257.2822 USD
-  - 24h Volume: $85843514950.1277 USD
-  - 24h Change: 1.2919665837347654%
+- **Bitcoin (BTC)**: $95770 USD
+  - Market Cap: $1895289326151.9011 USD
+  - 24h Volume: $90258260841.33298 USD
+  - 24h Change: 1.22728447000243%
 
-- **Ethereum (ETH)**: $3712.26 USD
-  - Market Cap: $447244796641.2075 USD
-  - 24h Volume: $43371800542.17414 USD
-  - 24h Change: 3.0365825436510376%
+- **Ethereum (ETH)**: $3711.36 USD
+  - Market Cap: $447049059754.2163 USD
+  - 24h Volume: $47588968625.13254 USD
+  - 24h Change: 3.154851882736124%
 
 ## Trending Coins
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 838
+  - Price (BTC): 6.583575670042675e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 755
+  - Price (BTC): 7.351530264832051e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 546
-  - Price (BTC): 1.271400168205536e-06
+  - Market Cap Rank: 566
+  - Price (BTC): 1.2473244787917538e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
+- **Opulous (OPUL)**
+  - Market Cap Rank: 767
+  - Price (BTC): 1.4243491432574113e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 208
+  - Price (BTC): 4.682526640104442e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
 - **BakerySwap (BAKE)**
-  - Market Cap Rank: 541
-  - Price (BTC): 4.466609587203361e-06
+  - Market Cap Rank: 536
+  - Price (BTC): 4.556901967417171e-06
   - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 44
-  - Price (BTC): 0.00013122473462759575
+  - Market Cap Rank: 51
+  - Price (BTC): 0.00011782141416998433
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 119
+  - Price (BTC): 1.924712172658716e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Mode (MODE)**
   - Market Cap Rank: 579
-  - Price (BTC): 4.631173921164148e-07
+  - Price (BTC): 4.625239120434217e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 3.934232546496135e-06
+  - Price (BTC): 3.966928900470555e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 834
-  - Price (BTC): 6.630127783148382e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.8380980875826824e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Kaia (KAIA)**
-  - Market Cap Rank: 75
-  - Price (BTC): 3.7129515262556947e-06
+  - Market Cap Rank: 76
+  - Price (BTC): 3.736908017497561e-06
   - [More Info](https://www.coingecko.com/en/coins/kaia)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 28
+  - Price (BTC): 2.18068259290052e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.674629347104005e-05
+  - Price (BTC): 2.6693626261411863e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.841814931862233e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 6
-  - Price (BTC): 0.0024289667579131106
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 742
-  - Price (BTC): 7.509752768932447e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Chainlink (LINK)**
-  - Market Cap Rank: 18
-  - Price (BTC): 0.00025296792513874924
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 15
-  - Price (BTC): 0.00011538728695022934
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 120
-  - Price (BTC): 1.8287974200905116e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03879302839035575
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
