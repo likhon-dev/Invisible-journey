@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 15:16:53 UTC
+**Last updated:** 2024-12-04 16:20:32 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96141 USD
-  - Market Cap: $1908374474692.0193 USD
-  - 24h Volume: $85158274287.73474 USD
-  - 24h Change: 0.17440068954533888%
+- **Bitcoin (BTC)**: $95294 USD
+  - Market Cap: $1887444934238.1238 USD
+  - 24h Volume: $76307111157.29044 USD
+  - 24h Change: -0.5073069666174485%
 
-- **Ethereum (ETH)**: $3803.17 USD
-  - Market Cap: $459255745243.3559 USD
-  - 24h Volume: $41664049010.462875 USD
-  - 24h Change: 5.690722006978776%
+- **Ethereum (ETH)**: $3805.34 USD
+  - Market Cap: $459045066842.57684 USD
+  - 24h Volume: $48210962723.34859 USD
+  - 24h Change: 6.358423444494657%
 
 ## Trending Coins
+- **Chainlink (LINK)**
+  - Market Cap Rank: 17
+  - Price (BTC): 0.0002630481419010689
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 54
+  - Price (BTC): 4.0620800427299684e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Stonks (STNK)**
+  - Market Cap Rank: 462
+  - Price (BTC): 0.0028909009620517834
+  - [More Info](https://www.coingecko.com/en/coins/stonks-4)
+
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 836
+  - Price (BTC): 6.707739821772228e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 587
+  - Price (BTC): 1.1766923750622792e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 815
+  - Price (BTC): 6.349621598883146e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
 - **BakerySwap (BAKE)**
-  - Market Cap Rank: 540
-  - Price (BTC): 4.5037672993512655e-06
+  - Market Cap Rank: 547
+  - Price (BTC): 4.457006564773036e-06
   - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 566
-  - Price (BTC): 4.876936293394285e-07
+  - Market Cap Rank: 555
+  - Price (BTC): 5.028019562417767e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 849
-  - Price (BTC): 6.552921203155093e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 801
-  - Price (BTC): 6.466403918000877e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Gigachad (GIGA)**
-  - Market Cap Rank: 210
-  - Price (BTC): 5.923172393637525e-07
+  - Market Cap Rank: 232
+  - Price (BTC): 5.467026703426727e-07
   - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
-- **Turbo (TURBO)**
-  - Market Cap Rank: 196
-  - Price (BTC): 9.099560605939141e-08
-  - [More Info](https://www.coingecko.com/en/coins/turbo)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 585
-  - Price (BTC): 1.153162522832931e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 48
-  - Price (BTC): 0.00012242961937481228
+  - Market Cap Rank: 50
+  - Price (BTC): 0.00011874059658240941
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Opulous (OPUL)**
-  - Market Cap Rank: 760
-  - Price (BTC): 1.4502368230010187e-06
+  - Market Cap Rank: 763
+  - Price (BTC): 1.4573271028517855e-06
   - [More Info](https://www.coingecko.com/en/coins/opulous)
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 208
-  - Price (BTC): 4.740860697570914e-11
+  - Price (BTC): 4.7924457352019404e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Curve DAO (CRV)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.2306326374354018e-05
-  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 119
-  - Price (BTC): 1.8654027841914607e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Turbo (TURBO)**
+  - Market Cap Rank: 200
+  - Price (BTC): 8.913901949237449e-08
+  - [More Info](https://www.coingecko.com/en/coins/turbo)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.673994077243801e-05
+  - Price (BTC): 2.6116810446513335e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.202765143294657e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 6
-  - Price (BTC): 0.002433383180064432
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.871650153160193e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
