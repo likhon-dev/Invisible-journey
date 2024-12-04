@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 08:21:14 UTC
+**Last updated:** 2024-12-04 09:17:17 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96746 USD
-  - Market Cap: $1913537389577.4563 USD
-  - 24h Volume: $68640051956.98427 USD
-  - 24h Change: 1.3163408477973642%
+- **Bitcoin (BTC)**: $96799 USD
+  - Market Cap: $1915066105644.8696 USD
+  - 24h Volume: $86419400097.52975 USD
+  - 24h Change: 1.5029750195701654%
 
-- **Ethereum (ETH)**: $3711.22 USD
-  - Market Cap: $446641176625.60706 USD
-  - 24h Volume: $44347043611.462616 USD
-  - 24h Change: 2.412890129380324%
+- **Ethereum (ETH)**: $3708.49 USD
+  - Market Cap: $446454449252.97705 USD
+  - 24h Volume: $43884133545.07043 USD
+  - 24h Change: 2.7579886745817275%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 840
-  - Price (BTC): 6.62087222136977e-13
+  - Market Cap Rank: 817
+  - Price (BTC): 6.888016067385094e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 44
-  - Price (BTC): 0.00012661748225574715
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+- **Sun Token (SUN)**
+  - Market Cap Rank: 296
+  - Price (BTC): 3.490354026591861e-07
+  - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 575
-  - Price (BTC): 4.607451212774522e-07
+  - Market Cap Rank: 579
+  - Price (BTC): 4.601158632901933e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 4.027676445050897e-06
+  - Price (BTC): 3.966529224860817e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 712
+  - Price (BTC): 8.144574250567141e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00012491656744867947
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.878366114458755e-05
+  - Price (BTC): 1.8998915289662872e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 729
-  - Price (BTC): 7.632284744712654e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.7213177388894218e-05
+  - Price (BTC): 2.7382486652350647e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Sun Token (SUN)**
-  - Market Cap Rank: 292
-  - Price (BTC): 3.593866572438566e-07
-  - [More Info](https://www.coingecko.com/en/coins/sun-token)
+- **PancakeSwap (CAKE)**
+  - Market Cap Rank: 120
+  - Price (BTC): 4.3867903437819156e-05
+  - [More Info](https://www.coingecko.com/en/coins/pancakeswap)
 
-- **Curve DAO (CRV)**
-  - Market Cap Rank: 113
-  - Price (BTC): 1.1416676266245882e-05
-  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.1632239572249258e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.038416345206399874
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 395
-  - Price (BTC): 2.073918485810135e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 8
-  - Price (BTC): 1.2715060652817818e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 135
-  - Price (BTC): 1.972898819711642e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+- **BakerySwap (BAKE)**
+  - Market Cap Rank: 536
+  - Price (BTC): 4.477066058120046e-06
+  - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 37
-  - Price (BTC): 0.007358275648249394
+  - Price (BTC): 0.00718267583659396
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Curve DAO (CRV)**
+  - Market Cap Rank: 112
+  - Price (BTC): 1.1235471790797886e-05
+  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
+
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 138
+  - Price (BTC): 1.943938155205401e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.3843306031700254e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 6
+  - Price (BTC): 0.0024364723103053646
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
