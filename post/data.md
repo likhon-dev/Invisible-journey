@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 05:15:28 UTC
+**Last updated:** 2024-12-04 06:22:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96101 USD
-  - Market Cap: $1902335878067.7163 USD
-  - 24h Volume: $88179806270.92065 USD
-  - 24h Change: 0.11976074227959752%
+- **Bitcoin (BTC)**: $96549 USD
+  - Market Cap: $1910966051811.1714 USD
+  - 24h Volume: $93392434061.09305 USD
+  - 24h Change: 0.3006922317734686%
 
-- **Ethereum (ETH)**: $3674.53 USD
-  - Market Cap: $442816160297.0287 USD
-  - 24h Volume: $43978745017.1814 USD
-  - 24h Change: 0.640078286174935%
+- **Ethereum (ETH)**: $3677.4 USD
+  - Market Cap: $442942551246.7829 USD
+  - 24h Volume: $43697984397.56664 USD
+  - 24h Change: 0.415348276959387%
 
 ## Trending Coins
 - **Sun Token (SUN)**
-  - Market Cap Rank: 284
-  - Price (BTC): 3.690118025267094e-07
+  - Market Cap Rank: 282
+  - Price (BTC): 3.717177059564537e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 44
-  - Price (BTC): 0.00013082283648293853
+  - Price (BTC): 0.00012880665732163687
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 4.163475146139756e-06
+  - Price (BTC): 4.219102526253088e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 948
-  - Price (BTC): 5.236846151030423e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Mode (MODE)**
+  - Market Cap Rank: 573
+  - Price (BTC): 4.643796159062322e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.935745732315052e-05
+  - Price (BTC): 1.896512279951943e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 93
-  - Price (BTC): 1.7849358438502364e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 736
-  - Price (BTC): 7.453912985879064e-07
+  - Market Cap Rank: 732
+  - Price (BTC): 7.727380021178697e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.6885171813022618e-05
+  - Price (BTC): 2.7160774591776768e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 123
-  - Price (BTC): 2.2062837292465752e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.7096529044746356e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 206
-  - Price (BTC): 5.764558895044058e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **Chainlink (LINK)**
+  - Market Cap Rank: 18
+  - Price (BTC): 0.0002506875149721463
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.4229053854100455e-06
+  - Price (BTC): 3.408868318592554e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **VeChain (VET)**
-  - Market Cap Rank: 32
-  - Price (BTC): 7.551628529846807e-07
-  - [More Info](https://www.coingecko.com/en/coins/vechain)
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 131
+  - Price (BTC): 2.116954935322544e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03810655483504054
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 435
+  - Price (BTC): 1.8718738927545441e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024596883894750267
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.845661635434481e-05
+  - Price (BTC): 3.836334950705458e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 341
-  - Price (BTC): 3.987082365305396e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 54
-  - Price (BTC): 1.328250757152992e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 ## Posts
 - **Post ID: 1**
