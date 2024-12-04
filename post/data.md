@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 04:18:59 UTC
+**Last updated:** 2024-12-04 05:15:28 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95804 USD
-  - Market Cap: $1897051763550.805 USD
-  - 24h Volume: $91227993908.52733 USD
-  - 24h Change: -0.358371811391512%
+- **Bitcoin (BTC)**: $96101 USD
+  - Market Cap: $1902335878067.7163 USD
+  - 24h Volume: $88179806270.92065 USD
+  - 24h Change: 0.11976074227959752%
 
-- **Ethereum (ETH)**: $3667.7 USD
-  - Market Cap: $441871414544.4814 USD
-  - 24h Volume: $43687566555.82399 USD
-  - 24h Change: 0.47520959640850285%
+- **Ethereum (ETH)**: $3674.53 USD
+  - Market Cap: $442816160297.0287 USD
+  - 24h Volume: $43978745017.1814 USD
+  - 24h Change: 0.640078286174935%
 
 ## Trending Coins
 - **Sun Token (SUN)**
-  - Market Cap Rank: 286
-  - Price (BTC): 3.687276120493012e-07
+  - Market Cap Rank: 284
+  - Price (BTC): 3.690118025267094e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.0001235632486894511
+  - Market Cap Rank: 44
+  - Price (BTC): 0.00013082283648293853
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 569
-  - Price (BTC): 1.195266090133228e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 4.047983801673086e-06
+  - Price (BTC): 4.163475146139756e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
+
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 948
+  - Price (BTC): 5.236846151030423e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 2.0049913180021154e-05
+  - Price (BTC): 1.935745732315052e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 89
-  - Price (BTC): 1.850606731020608e-05
+  - Market Cap Rank: 93
+  - Price (BTC): 1.7849358438502364e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 732
-  - Price (BTC): 7.772172057613262e-07
+  - Market Cap Rank: 736
+  - Price (BTC): 7.453912985879064e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.658102517586344e-05
+  - Price (BTC): 2.6885171813022618e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.831467115169827e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Reserve Rights (RSR)**
   - Market Cap Rank: 123
-  - Price (BTC): 2.2035603823689957e-07
+  - Price (BTC): 2.2062837292465752e-07
   - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 206
+  - Price (BTC): 5.764558895044058e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.472222359155311e-06
+  - Price (BTC): 3.4229053854100455e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024810292566452238
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **VeChain (VET)**
+  - Market Cap Rank: 32
+  - Price (BTC): 7.551628529846807e-07
+  - [More Info](https://www.coingecko.com/en/coins/vechain)
 
-- **BNB (BNB)**
-  - Market Cap Rank: 6
-  - Price (BTC): 0.007838673058867193
-  - [More Info](https://www.coingecko.com/en/coins/bnb)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.845661635434481e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 28
-  - Price (BTC): 2.1373529445122213e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 341
+  - Price (BTC): 3.987082365305396e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 18
-  - Price (BTC): 0.0002503059669843583
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Fantom (FTM)**
+  - Market Cap Rank: 54
+  - Price (BTC): 1.328250757152992e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 ## Posts
 - **Post ID: 1**
