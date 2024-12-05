@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 22:14:53 UTC
+**Last updated:** 2024-12-05 23:15:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98700 USD
-  - Market Cap: $1953864160883.08 USD
-  - 24h Volume: $182556741752.608 USD
-  - 24h Change: 0.599288908825786%
+- **Bitcoin (BTC)**: $96450 USD
+  - Market Cap: $1906093989600.1355 USD
+  - 24h Volume: $195635406722.4972 USD
+  - 24h Change: -2.4370965439110948%
 
-- **Ethereum (ETH)**: $3844.15 USD
-  - Market Cap: $463361694996.70447 USD
-  - 24h Volume: $60578238254.26424 USD
-  - 24h Change: -0.15609348701436512%
+- **Ethereum (ETH)**: $3795.46 USD
+  - Market Cap: $456623784014.1751 USD
+  - 24h Volume: $65108992588.255 USD
+  - 24h Change: -1.8108514296617788%
 
 ## Trending Coins
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 628
+  - Price (BTC): 1.0523172159312724e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 853
-  - Price (BTC): 6.252781235936186e-13
+  - Market Cap Rank: 862
+  - Price (BTC): 6.268651892107296e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Mode (MODE)**
   - Market Cap Rank: 565
-  - Price (BTC): 4.769881760438583e-07
+  - Price (BTC): 4.872126101558658e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.240506962841538e-05
+  - Price (BTC): 4.366150534161323e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.00012781725444408813
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 5.642096406255164e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023643561496377754
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.729616702371633e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 136
-  - Price (BTC): 2.8200867283477355e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 40
-  - Price (BTC): 0.006976539275960249
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 37
-  - Price (BTC): 0.00010118920078233338
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00012512455828267113
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 133
+  - Price (BTC): 2.8146383771696943e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 68
+  - Price (BTC): 5.830441371700277e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 89
+  - Price (BTC): 1.7981599664249246e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002432695944079765
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 4
+  - Price (BTC): 2.3636657973311227e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 50
+  - Price (BTC): 1.3520824421146857e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.386219609918457e-06
+  - Price (BTC): 4.445854601047449e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Zero1 Labs (DEAI)**
-  - Market Cap Rank: 636
-  - Price (BTC): 1.030757172667341e-05
-  - [More Info](https://www.coingecko.com/en/coins/zero1-labs)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.039444315126436584
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Artificial Superintelligence Alliance (FET)**
+- **Render (RENDER)**
   - Market Cap Rank: 38
-  - Price (BTC): 2.0023892958520936e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 116
-  - Price (BTC): 1.8889744519698654e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+  - Price (BTC): 0.0001033584195851805
+  - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
 - **Post ID: 1**
