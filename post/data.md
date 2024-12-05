@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 06:22:40 UTC
+**Last updated:** 2024-12-05 07:15:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $101553 USD
-  - Market Cap: $2009648405701.6272 USD
-  - 24h Volume: $154437745111.5041 USD
-  - 24h Change: 5.217322082753782%
+- **Bitcoin (BTC)**: $101694 USD
+  - Market Cap: $2016754472480.6921 USD
+  - 24h Volume: $151728172322.60413 USD
+  - 24h Change: 5.355796567442118%
 
-- **Ethereum (ETH)**: $3820.73 USD
-  - Market Cap: $461935503934.2617 USD
-  - 24h Volume: $68252201486.33458 USD
-  - 24h Change: 3.965660112446965%
+- **Ethereum (ETH)**: $3844.32 USD
+  - Market Cap: $463695985625.72577 USD
+  - 24h Volume: $66461499615.828835 USD
+  - 24h Change: 4.046178683378703%
 
 ## Trending Coins
-- **Render (RENDER)**
-  - Market Cap Rank: 37
-  - Price (BTC): 9.505693365039644e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Mode (MODE)**
+  - Market Cap Rank: 570
+  - Price (BTC): 4.509761868647426e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Render (RENDER)**
+  - Market Cap Rank: 37
+  - Price (BTC): 9.592237765786565e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 45
-  - Price (BTC): 0.00011893362118543434
+  - Price (BTC): 0.00011919178161869069
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.689055330459031e-05
+  - Price (BTC): 3.713773658820428e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.334090519234374e-06
+  - Price (BTC): 4.290382458874831e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.121745626367577e-10
+  - Market Cap Rank: 26
+  - Price (BTC): 2.112789566706095e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0022897232525177216
+  - Price (BTC): 0.0022944368307496786
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 308
-  - Price (BTC): 3.089376794786437e-06
+  - Market Cap Rank: 313
+  - Price (BTC): 3.0636321035642157e-06
   - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.2523547636223422e-05
+  - Price (BTC): 2.2848537324895273e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.6967998172201217e-05
+  - Market Cap Rank: 68
+  - Price (BTC): 1.685059240775045e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03759538633794742
+  - Price (BTC): 0.03778596522931955
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.9255230045346627e-06
+  - Price (BTC): 2.9063040351611073e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.000232328184427118
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 13
+  - Price (BTC): 3.0853970007664e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.5149137956743951e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 117
-  - Price (BTC): 1.7859864874158123e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 364
+  - Price (BTC): 1.7109385110542704e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
 
 ## Posts
 - **Post ID: 1**
