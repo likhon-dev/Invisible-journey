@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 12:31:47 UTC
+**Last updated:** 2024-12-05 13:26:01 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $102857 USD
-  - Market Cap: $2034836752177.045 USD
-  - 24h Volume: $157658008262.44547 USD
-  - 24h Change: 7.2014089897311395%
+- **Bitcoin (BTC)**: $103211 USD
+  - Market Cap: $2042602425651.746 USD
+  - 24h Volume: $168499984690.16122 USD
+  - 24h Change: 7.859800186643595%
 
-- **Ethereum (ETH)**: $3927.19 USD
-  - Market Cap: $473047471076.5435 USD
-  - 24h Volume: $67657532688.43181 USD
-  - 24h Change: 5.836259959575867%
+- **Ethereum (ETH)**: $3923.03 USD
+  - Market Cap: $472906537658.4278 USD
+  - 24h Volume: $67908778324.53856 USD
+  - 24h Change: 5.892890321500044%
 
 ## Trending Coins
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 43
-  - Price (BTC): 0.00013037818110808163
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 830
-  - Price (BTC): 6.470364500959297e-13
+  - Market Cap Rank: 838
+  - Price (BTC): 6.339135036380421e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **IMO (IMO)**
-  - Market Cap Rank: 997
-  - Price (BTC): 3.7068762166982757e-05
-  - [More Info](https://www.coingecko.com/en/coins/imo)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 43
+  - Price (BTC): 0.0001300832951343575
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.964321353380036e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Render (RENDER)**
   - Market Cap Rank: 37
-  - Price (BTC): 9.875914361846356e-05
+  - Price (BTC): 9.838617681561738e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.74262225645632e-05
+  - Market Cap Rank: 68
+  - Price (BTC): 1.7261184866540366e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002339167119670918
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.038226080892725375
+  - Price (BTC): 0.038063747292726935
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.78406447641856e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023731638751563595
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.3019966389663372e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.1500687738371827e-10
+  - Price (BTC): 2.1488526006251022e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 84
+  - Price (BTC): 1.3526571287532713e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 324
+  - Price (BTC): 2.0508521420828912e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 39
+  - Price (BTC): 0.006623428745294902
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.347067667010676e-06
+  - Price (BTC): 4.349792594125407e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.335453026552462e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 72
-  - Price (BTC): 4.662707370495772e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 101
-  - Price (BTC): 1.5352389008707223e-05
+  - Market Cap Rank: 99
+  - Price (BTC): 1.5296696635373665e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 15
-  - Price (BTC): 0.00010781621940257182
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
 ## Posts
 - **Post ID: 1**
