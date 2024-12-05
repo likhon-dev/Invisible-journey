@@ -1,23 +1,28 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 07:15:37 UTC
+**Last updated:** 2024-12-05 08:20:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $101694 USD
-  - Market Cap: $2016754472480.6921 USD
-  - 24h Volume: $151728172322.60413 USD
-  - 24h Change: 5.355796567442118%
+- **Bitcoin (BTC)**: $102698 USD
+  - Market Cap: $2031481081788.6533 USD
+  - 24h Volume: $161939674521.07785 USD
+  - 24h Change: 6.154223871059068%
 
-- **Ethereum (ETH)**: $3844.32 USD
-  - Market Cap: $463695985625.72577 USD
-  - 24h Volume: $66461499615.828835 USD
-  - 24h Change: 4.046178683378703%
+- **Ethereum (ETH)**: $3889.69 USD
+  - Market Cap: $468014532111.56934 USD
+  - 24h Volume: $69062003670.95325 USD
+  - 24h Change: 4.845724363474049%
 
 ## Trending Coins
 - **Mode (MODE)**
   - Market Cap Rank: 570
-  - Price (BTC): 4.509761868647426e-07
+  - Price (BTC): 4.532428326963658e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 43
+  - Price (BTC): 0.00012926986031386482
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -26,68 +31,63 @@
 
 - **Render (RENDER)**
   - Market Cap Rank: 37
-  - Price (BTC): 9.592237765786565e-05
+  - Price (BTC): 9.597951499195335e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.00011919178161869069
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.713773658820428e-05
+  - Price (BTC): 3.694769505663755e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.290382458874831e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.112789566706095e-10
+  - Market Cap Rank: 27
+  - Price (BTC): 2.0993102437194087e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.7034091460132328e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0022944368307496786
+  - Price (BTC): 0.0022849596266867256
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 313
-  - Price (BTC): 3.0636321035642157e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.2848537324895273e-05
+  - Price (BTC): 2.31505058513106e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.685059240775045e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03778596522931955
+  - Price (BTC): 0.03769587866392258
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.9063040351611073e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.293565058885388e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 13
-  - Price (BTC): 3.0853970007664e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 838
+  - Price (BTC): 6.174546143202516e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **Morpho (MORPHO)**
-  - Market Cap Rank: 364
-  - Price (BTC): 1.7109385110542704e-05
-  - [More Info](https://www.coingecko.com/en/coins/morpho)
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 302
+  - Price (BTC): 3.254961610387395e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 71
+  - Price (BTC): 4.790151957853977e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.5429829967205928e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
