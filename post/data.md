@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 23:15:13 UTC
+**Last updated:** 2024-12-05 01:15:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98782 USD
-  - Market Cap: $1954841287856.7285 USD
-  - 24h Volume: $105261040533.94666 USD
-  - 24h Change: 2.846791779256902%
+- **Bitcoin (BTC)**: $98243 USD
+  - Market Cap: $1943035651102.1345 USD
+  - 24h Volume: $106901937258.44633 USD
+  - 24h Change: 2.7591519332821464%
 
-- **Ethereum (ETH)**: $3859.44 USD
-  - Market Cap: $464805183759.5941 USD
-  - 24h Volume: $60356486072.07824 USD
-  - 24h Change: 6.356501662258372%
+- **Ethereum (ETH)**: $3791.07 USD
+  - Market Cap: $456435465081.98364 USD
+  - 24h Volume: $57675509289.85436 USD
+  - 24h Change: 2.628558569842052%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 837
-  - Price (BTC): 6.430609675631075e-13
+  - Market Cap Rank: 851
+  - Price (BTC): 6.286317800653307e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Koma Inu (KOMA)**
   - Market Cap Rank: 800
-  - Price (BTC): 6.438048668297436e-07
+  - Price (BTC): 6.310496480117736e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 560
-  - Price (BTC): 4.801556542018491e-07
+  - Market Cap Rank: 558
+  - Price (BTC): 4.7408034930594297e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 48
-  - Price (BTC): 0.00011805534467185472
+  - Market Cap Rank: 47
+  - Price (BTC): 0.00011809071309059097
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.7834235543449497e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
 - **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.3998754573589227e-05
+  - Market Cap Rank: 4
+  - Price (BTC): 2.3636283217129618e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.2904362330043886e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 95
-  - Price (BTC): 1.7046643182119952e-05
+  - Price (BTC): 1.684691859494171e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
+- **Ondo (ONDO)**
+  - Market Cap Rank: 69
+  - Price (BTC): 1.721431144193297e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
 - **Hedera (HBAR)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.9289373403154164e-06
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0591697396507253e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Turbo (TURBO)**
-  - Market Cap Rank: 197
-  - Price (BTC): 8.840744608360646e-08
-  - [More Info](https://www.coingecko.com/en/coins/turbo)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023175017207209847
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 122
-  - Price (BTC): 2.2579230302169434e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 240
-  - Price (BTC): 4.998182068894021e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.739074014245521e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.335353477113788e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.1569839311104834e-10
+  - Price (BTC): 2.1266473830670223e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 120
+  - Price (BTC): 1.778883391622222e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 244
+  - Price (BTC): 4.629071618896193e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023011645146736623
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **aixbt by Virtuals (AIXBT)**
+  - Market Cap Rank: 397
+  - Price (BTC): 2.0243905301791727e-06
+  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 58
+  - Price (BTC): 1.2110448142512151e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 ## Posts
 - **Post ID: 1**
