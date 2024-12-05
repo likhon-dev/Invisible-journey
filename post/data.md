@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 05:15:52 UTC
+**Last updated:** 2024-12-05 06:22:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $103178 USD
-  - Market Cap: $2042335315504.8635 USD
-  - 24h Volume: $143799537399.92346 USD
-  - 24h Change: 7.29569039049459%
+- **Bitcoin (BTC)**: $101553 USD
+  - Market Cap: $2009648405701.6272 USD
+  - 24h Volume: $154437745111.5041 USD
+  - 24h Change: 5.217322082753782%
 
-- **Ethereum (ETH)**: $3856.1 USD
-  - Market Cap: $464526054763.1674 USD
-  - 24h Volume: $65825865124.84821 USD
-  - 24h Change: 4.850367085533224%
+- **Ethereum (ETH)**: $3820.73 USD
+  - Market Cap: $461935503934.2617 USD
+  - 24h Volume: $68252201486.33458 USD
+  - 24h Change: 3.965660112446965%
 
 ## Trending Coins
 - **Render (RENDER)**
-  - Market Cap Rank: 39
-  - Price (BTC): 9.326070761100181e-05
+  - Market Cap Rank: 37
+  - Price (BTC): 9.505693365039644e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 572
-  - Price (BTC): 4.410789459272208e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.00011746467048747736
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.6452252771295624e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0022907097702780264
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00011893362118543434
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03735805273820729
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.226669274931726e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.153953651429018e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.689055330459031e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.416798011922747e-06
+  - Price (BTC): 4.334090519234374e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 117
-  - Price (BTC): 1.7762485459782112e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.121745626367577e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0022897232525177216
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 308
+  - Price (BTC): 3.089376794786437e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 4
+  - Price (BTC): 2.2523547636223422e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 67
-  - Price (BTC): 1.6892582804568793e-05
+  - Price (BTC): 1.6967998172201217e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Fantom (FTM)**
-  - Market Cap Rank: 58
-  - Price (BTC): 1.1763031834962146e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03759538633794742
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 13
-  - Price (BTC): 3.155633156299023e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.9255230045346627e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 350
-  - Price (BTC): 2.5698066732866083e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+- **Chainlink (LINK)**
+  - Market Cap Rank: 17
+  - Price (BTC): 0.000232328184427118
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 102
+  - Price (BTC): 1.5149137956743951e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 117
+  - Price (BTC): 1.7859864874158123e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
