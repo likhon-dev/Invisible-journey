@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 16:20:14 UTC
+**Last updated:** 2024-12-05 17:13:54 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $101906 USD
-  - Market Cap: $2014436606132.8508 USD
-  - 24h Volume: $181283422790.60034 USD
-  - 24h Change: 7.0358684926769515%
+- **Bitcoin (BTC)**: $101382 USD
+  - Market Cap: $2002910337798.6677 USD
+  - 24h Volume: $179759892839.52106 USD
+  - 24h Change: 6.86393147703883%
 
-- **Ethereum (ETH)**: $3906.3 USD
-  - Market Cap: $470304889543.2422 USD
-  - 24h Volume: $65148555314.02273 USD
-  - 24h Change: 2.9178297862703677%
+- **Ethereum (ETH)**: $3916.22 USD
+  - Market Cap: $471419588044.1192 USD
+  - 24h Volume: $60377467025.82623 USD
+  - 24h Change: 3.7470536979050157%
 
 ## Trending Coins
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 586
+  - Price (BTC): 1.1318638036519486e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 839
-  - Price (BTC): 6.320689540438571e-13
+  - Market Cap Rank: 837
+  - Price (BTC): 6.349525181262653e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 579
+  - Price (BTC): 4.5646997390485525e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.2481387975708555e-05
+  - Price (BTC): 4.142863512077523e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 580
-  - Price (BTC): 4.527339887038811e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 43
-  - Price (BTC): 0.0001264495381784324
+  - Market Cap Rank: 44
+  - Price (BTC): 0.00012467748146160307
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023692448476602406
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 68
+  - Price (BTC): 5.327131997536234e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
 - **Render (RENDER)**
-  - Market Cap Rank: 38
-  - Price (BTC): 9.753572546919299e-05
+  - Market Cap Rank: 39
+  - Price (BTC): 9.89135434028453e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.7224718439875882e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 1.727371047736656e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.00236968600282567
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 91
+  - Price (BTC): 1.686746436850631e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Worldcoin (WLD)**
+  - Market Cap Rank: 64
+  - Price (BTC): 3.9998244511149445e-05
+  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 37
+  - Price (BTC): 0.007091105539522311
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
 - **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.3335664177738425e-05
+  - Market Cap Rank: 3
+  - Price (BTC): 2.3825608413856713e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.316846875106281e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03836837083817665
+  - Price (BTC): 0.03860332496891361
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.1709523290254622e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 71
-  - Price (BTC): 4.983247858535036e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
-
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 302
-  - Price (BTC): 3.235850681722155e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.6330807424907914e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.323421490274002e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
