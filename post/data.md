@@ -1,37 +1,37 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 10:17:16 UTC
+**Last updated:** 2024-12-05 11:13:12 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $102920 USD
-  - Market Cap: $2038603183049.8135 USD
-  - 24h Volume: $164337841585.2662 USD
-  - 24h Change: 6.357243971965416%
+- **Bitcoin (BTC)**: $102326 USD
+  - Market Cap: $2025628079096.0615 USD
+  - 24h Volume: $156517897530.43744 USD
+  - 24h Change: 6.124049688508101%
 
-- **Ethereum (ETH)**: $3930.3 USD
-  - Market Cap: $472950736924.9187 USD
-  - 24h Volume: $69868951515.51398 USD
-  - 24h Change: 5.306616066828936%
+- **Ethereum (ETH)**: $3925.55 USD
+  - Market Cap: $472613538925.6716 USD
+  - 24h Volume: $69537623520.67293 USD
+  - 24h Change: 5.434127099603005%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.00012673746284843748
+  - Price (BTC): 0.00013254943288928907
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Render (RENDER)**
   - Market Cap Rank: 37
-  - Price (BTC): 9.801759644705717e-05
+  - Price (BTC): 9.783915188594221e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.7304673037751095e-05
+  - Price (BTC): 3.750855704584817e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 66
-  - Price (BTC): 1.7281187763202026e-05
+  - Price (BTC): 1.7535615096822774e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Bitcoin (BTC)**
@@ -41,53 +41,53 @@
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.109927093284244e-10
+  - Price (BTC): 2.1201653942616436e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03819434982422867
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023122525388611587
+  - Price (BTC): 0.002318520252934843
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03827550241652164
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.3408827206642794e-05
+  - Price (BTC): 2.332799552983554e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Morpho (MORPHO)**
-  - Market Cap Rank: 353
-  - Price (BTC): 1.8631037907663216e-05
-  - [More Info](https://www.coingecko.com/en/coins/morpho)
-
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 298
-  - Price (BTC): 3.375166883071949e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 71
-  - Price (BTC): 4.867230862500781e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.9414409482833755e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 573
-  - Price (BTC): 4.5023461972619147e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Ethena (ENA)**
   - Market Cap Rank: 64
-  - Price (BTC): 9.349818956568203e-06
+  - Price (BTC): 9.530413113214171e-06
   - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.327007170102806e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 87
+  - Price (BTC): 1.3129434182941583e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 71
+  - Price (BTC): 4.882025601761798e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.8720170081316334e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.9491546422830963e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 ## Posts
 - **Post ID: 1**
