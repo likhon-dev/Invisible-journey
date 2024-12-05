@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 19:12:15 UTC
+**Last updated:** 2024-12-05 20:17:43 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $100351 USD
-  - Market Cap: $1984845400415.301 USD
-  - 24h Volume: $168176106564.3309 USD
-  - 24h Change: 4.185555417383031%
+- **Bitcoin (BTC)**: $98738 USD
+  - Market Cap: $1963322003414.079 USD
+  - 24h Volume: $183846464181.56027 USD
+  - 24h Change: 0.3365739997928673%
 
-- **Ethereum (ETH)**: $3871.99 USD
-  - Market Cap: $466468169472.43134 USD
-  - 24h Volume: $60775497582.332695 USD
-  - 24h Change: 1.1592832782373663%
+- **Ethereum (ETH)**: $3827.57 USD
+  - Market Cap: $460800513034.144 USD
+  - 24h Volume: $61624042578.32463 USD
+  - 24h Change: -1.3474250599176272%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 614
-  - Price (BTC): 1.0628452877072938e-06
+  - Market Cap Rank: 621
+  - Price (BTC): 1.0509917773426404e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
-- **MAD (MAD)**
-  - Market Cap Rank: 997
-  - Price (BTC): 4.178977808733619e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 852
-  - Price (BTC): 6.326483744887476e-13
+  - Market Cap Rank: 845
+  - Price (BTC): 6.299843359886261e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 579
-  - Price (BTC): 4.6451194245630636e-07
+  - Market Cap Rank: 575
+  - Price (BTC): 4.680925755936612e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 4.2184193973077856e-05
+  - Market Cap Rank: 21
+  - Price (BTC): 4.1731315899676444e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **JasmyCoin (JASMY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 5.578796529565478e-07
+  - Market Cap Rank: 68
+  - Price (BTC): 5.484462705558287e-07
   - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 43
-  - Price (BTC): 0.00012612382261000576
+  - Market Cap Rank: 44
+  - Price (BTC): 0.0001227188317681713
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 39
-  - Price (BTC): 9.911079387183472e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03858059998888983
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 70
-  - Price (BTC): 1.7278317519190763e-05
+  - Price (BTC): 1.719574770100322e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023509840753440795
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.3745010803380055e-05
+  - Market Cap Rank: 4
+  - Price (BTC): 2.3562039585092053e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.6923708389357404e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Fantom (FTM)**
+  - Market Cap Rank: 53
+  - Price (BTC): 1.2898166927112157e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
-- **Bittensor (TAO)**
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.138520475946038e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Render (RENDER)**
   - Market Cap Rank: 38
-  - Price (BTC): 0.007001813711736265
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+  - Price (BTC): 9.847390821949789e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002354830992963158
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 326
+  - Price (BTC): 3.3319779118018527e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.366689332227861e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
