@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 09:16:50 UTC
+**Last updated:** 2024-12-06 10:17:02 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98144 USD
-  - Market Cap: $1942626623599.7954 USD
-  - 24h Volume: $155490369886.28293 USD
-  - 24h Change: -4.8654981834573965%
+- **Bitcoin (BTC)**: $97893 USD
+  - Market Cap: $1937349651314.7092 USD
+  - 24h Volume: $134541845063.45694 USD
+  - 24h Change: -4.936317364436295%
 
-- **Ethereum (ETH)**: $3870.29 USD
-  - Market Cap: $466231150561.91315 USD
-  - 24h Volume: $55262156542.6331 USD
-  - 24h Change: -1.281809188526467%
+- **Ethereum (ETH)**: $3856.04 USD
+  - Market Cap: $464501088995.8892 USD
+  - 24h Volume: $54443415469.046814 USD
+  - 24h Change: -1.867617552020985%
 
 ## Trending Coins
 - **Across Protocol (ACX)**
-  - Market Cap Rank: 205
-  - Price (BTC): 1.262945732483973e-05
+  - Market Cap Rank: 192
+  - Price (BTC): 1.4241377666236151e-05
   - [More Info](https://www.coingecko.com/en/coins/across-protocol)
 
 - **Orca (ORCA)**
-  - Market Cap Rank: 298
-  - Price (BTC): 6.944508989882438e-05
+  - Market Cap Rank: 278
+  - Price (BTC): 7.341116197821508e-05
   - [More Info](https://www.coingecko.com/en/coins/orca)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 829
-  - Price (BTC): 6.760203858386432e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 665
+  - Price (BTC): 9.542699512418038e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 722
-  - Price (BTC): 8.028253822287569e-07
+  - Market Cap Rank: 732
+  - Price (BTC): 7.777082562801508e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 532
-  - Price (BTC): 5.297685413292805e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 821
+  - Price (BTC): 6.793643785825823e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.34661096250837e-05
+  - Price (BTC): 4.255613529854008e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 545
+  - Price (BTC): 5.103064564739929e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **ZKsync (ZK)**
   - Market Cap Rank: 145
-  - Price (BTC): 2.598522325895978e-06
+  - Price (BTC): 2.5541050475755585e-06
   - [More Info](https://www.coingecko.com/en/coins/zksync)
 
 - **Evan (EVAN)**
-  - Market Cap Rank: 963
-  - Price (BTC): 4.751572614436828e-07
+  - Market Cap Rank: 958
+  - Price (BTC): 4.65937561630683e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.8340715286550456e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 164
-  - Price (BTC): 7.275839034775675e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 121
-  - Price (BTC): 3.2689091687956685e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024154815795380618
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0394422849832959
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.00013404729219870573
+  - Price (BTC): 0.00013110664203039825
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.2124547158585596e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 163
+  - Price (BTC): 7.210773146955124e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+
+- **SynFutures (F)**
+  - Market Cap Rank: 468
+  - Price (BTC): 1.2878622979252392e-06
+  - [More Info](https://www.coingecko.com/en/coins/synfutures)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 87
+  - Price (BTC): 1.7816857077213648e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023961873117139144
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 35
+  - Price (BTC): 0.007331851210970364
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 ## Posts
 - **Post ID: 1**
