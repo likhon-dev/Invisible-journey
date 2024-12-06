@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 01:14:33 UTC
+**Last updated:** 2024-12-06 02:59:30 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97302 USD
-  - Market Cap: $1924231552564.5183 USD
-  - 24h Volume: $198430094940.51505 USD
-  - 24h Change: -0.8923638080320102%
+- **Bitcoin (BTC)**: $97621 USD
+  - Market Cap: $1933473759362.108 USD
+  - 24h Volume: $182320313239.9167 USD
+  - 24h Change: -3.7476934152907475%
 
-- **Ethereum (ETH)**: $3849.26 USD
-  - Market Cap: $463610437816.9589 USD
-  - 24h Volume: $65485328637.29169 USD
-  - 24h Change: 1.7687213818515366%
+- **Ethereum (ETH)**: $3869.12 USD
+  - Market Cap: $466147512762.87463 USD
+  - 24h Volume: $59689202758.19428 USD
+  - 24h Change: 0.11759884168846693%
 
 ## Trending Coins
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 617
-  - Price (BTC): 1.0658810366009223e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Mode (MODE)**
-  - Market Cap Rank: 571
-  - Price (BTC): 4.857807781451545e-07
+  - Market Cap Rank: 570
+  - Price (BTC): 4.884385541414983e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 633
+  - Price (BTC): 1.0407610005707188e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.372410328693866e-05
+  - Price (BTC): 4.380810217775082e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.00013347263347226825
+  - Price (BTC): 0.00013485043480939
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 81
+  - Price (BTC): 1.9727358781361092e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
 - **Mog Coin (MOG)**
-  - Market Cap Rank: 122
-  - Price (BTC): 3.244653353519133e-11
+  - Market Cap Rank: 121
+  - Price (BTC): 3.361305021549169e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Morpho (MORPHO)**
-  - Market Cap Rank: 289
-  - Price (BTC): 2.6320670608526655e-05
+  - Market Cap Rank: 298
+  - Price (BTC): 2.5185665348911336e-05
   - [More Info](https://www.coingecko.com/en/coins/morpho)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 5.897887999604261e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 86
-  - Price (BTC): 1.894498423440763e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.7496309729172865e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.3514302470178057e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.0340939897661665e-05
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002473070768623406
+  - Price (BTC): 0.002483042601690687
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 327
+  - Price (BTC): 3.045560327368461e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Ondo (ONDO)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.7506495097845918e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03960455705882309
+  - Price (BTC): 0.03955664102071475
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.2254396213555106e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Render (RENDER)**
+  - Market Cap Rank: 36
+  - Price (BTC): 0.00010535781950808611
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **NEAR Protocol (NEAR)**
+  - Market Cap Rank: 25
+  - Price (BTC): 8.185639072606137e-05
+  - [More Info](https://www.coingecko.com/en/coins/near)
+
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 68
+  - Price (BTC): 5.552263018450455e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
 ## Posts
 - **Post ID: 1**
