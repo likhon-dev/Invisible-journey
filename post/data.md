@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 03:36:53 UTC
+**Last updated:** 2024-12-06 04:19:18 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97445 USD
-  - Market Cap: $1927499522665.452 USD
-  - 24h Volume: $176105762935.49402 USD
-  - 24h Change: -5.270884190597223%
+- **Bitcoin (BTC)**: $97655 USD
+  - Market Cap: $1932115466617.7246 USD
+  - 24h Volume: $163846070644.1214 USD
+  - 24h Change: -4.797638068168885%
 
-- **Ethereum (ETH)**: $3876.68 USD
-  - Market Cap: $466673049760.2461 USD
-  - 24h Volume: $58029874347.971176 USD
-  - 24h Change: 0.6676776132292352%
+- **Ethereum (ETH)**: $3900.13 USD
+  - Market Cap: $469620208707.47455 USD
+  - 24h Volume: $54904465661.42808 USD
+  - 24h Change: 1.2649653136509538%
 
 ## Trending Coins
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 634
-  - Price (BTC): 1.0473941132589757e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Mode (MODE)**
-  - Market Cap Rank: 568
-  - Price (BTC): 4.985523226620453e-07
+  - Market Cap Rank: 564
+  - Price (BTC): 5.025711167113903e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 641
+  - Price (BTC): 1.029727395457643e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.3831880642977664e-05
+  - Price (BTC): 4.467085482123819e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 82
-  - Price (BTC): 1.9455079209043803e-05
+  - Price (BTC): 1.9560115305823194e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.00013773817897825454
+  - Price (BTC): 0.00013660171474626272
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Mog Coin (MOG)**
   - Market Cap Rank: 121
-  - Price (BTC): 3.2309467547946764e-11
+  - Price (BTC): 3.2931736488948635e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Morpho (MORPHO)**
-  - Market Cap Rank: 298
-  - Price (BTC): 2.495766779950006e-05
+  - Market Cap Rank: 300
+  - Price (BTC): 2.461000274836632e-05
   - [More Info](https://www.coingecko.com/en/coins/morpho)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024735632922576844
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Ethena (ENA)**
   - Market Cap Rank: 64
-  - Price (BTC): 1.0503086326737253e-05
+  - Price (BTC): 1.0647762830749126e-05
   - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Render (RENDER)**
-  - Market Cap Rank: 35
-  - Price (BTC): 0.00010624270942062317
+  - Market Cap Rank: 34
+  - Price (BTC): 0.00010813825678095715
   - [More Info](https://www.coingecko.com/en/coins/render)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03975684270880189
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.730286160966272e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 312
+  - Price (BTC): 3.2390783075495683e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.360983001297061e-05
+  - Price (BTC): 2.3648708891467003e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 5.175881027881324e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+- **dYdX (DYDX)**
+  - Market Cap Rank: 101
+  - Price (BTC): 2.2326677345370926e-05
+  - [More Info](https://www.coingecko.com/en/coins/dydx-chain)
 
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 309
-  - Price (BTC): 3.332398024993308e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024778161449169676
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.74998262859143e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
