@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 08:18:31 UTC
+**Last updated:** 2024-12-07 09:14:48 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99551 USD
-  - Market Cap: $1971266030940.112 USD
-  - 24h Volume: $106925916922.60524 USD
-  - 24h Change: 1.0557807014672902%
+- **Bitcoin (BTC)**: $99693 USD
+  - Market Cap: $1972847543267.229 USD
+  - 24h Volume: $109066288188.84772 USD
+  - 24h Change: 1.5474616737307787%
 
-- **Ethereum (ETH)**: $3993.57 USD
-  - Market Cap: $481312744805.58826 USD
-  - 24h Volume: $50207924684.68717 USD
-  - 24h Change: 2.179318977939829%
+- **Ethereum (ETH)**: $3990.03 USD
+  - Market Cap: $480536932180.66693 USD
+  - 24h Volume: $50107237723.46753 USD
+  - 24h Change: 3.0868028792097784%
 
 ## Trending Coins
-- **Mode (MODE)**
-  - Market Cap Rank: 526
-  - Price (BTC): 5.558750830057299e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
 - **Evan (EVAN)**
-  - Market Cap Rank: 822
-  - Price (BTC): 6.399574024475463e-07
+  - Market Cap Rank: 820
+  - Price (BTC): 6.16818703840358e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 42
-  - Price (BTC): 0.00014520385487306687
+  - Price (BTC): 0.00014483093702950743
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 4.356445391769679e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 105
+  - Price (BTC): 3.887643962613599e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
 - **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 102
-  - Price (BTC): 2.2309877805678212e-05
+  - Market Cap Rank: 103
+  - Price (BTC): 2.2112295020027516e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.506068651857374e-06
+  - Price (BTC): 4.4701250173418636e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 4.350318893866353e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 104
-  - Price (BTC): 3.9803397750106596e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 823
-  - Price (BTC): 6.962215803892149e-13
+  - Market Cap Rank: 827
+  - Price (BTC): 6.869479159312129e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.326814058590171e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Across Protocol (ACX)**
-  - Market Cap Rank: 258
-  - Price (BTC): 9.79175316914978e-06
-  - [More Info](https://www.coingecko.com/en/coins/across-protocol)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023726833560050245
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.3575904904777906e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Orca (ORCA)**
-  - Market Cap Rank: 299
-  - Price (BTC): 6.551015497541397e-05
-  - [More Info](https://www.coingecko.com/en/coins/orca)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.4200818207708762e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Mode (MODE)**
+  - Market Cap Rank: 510
+  - Price (BTC): 5.728638159639592e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.040112548924356256
+  - Price (BTC): 0.04002134888389868
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Baby Doge Coin (BABYDOGE)**
+  - Market Cap Rank: 228
+  - Price (BTC): 3.2752023319055394e-14
+  - [More Info](https://www.coingecko.com/en/coins/baby-doge-coin)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.347859539801659e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002371044976734009
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **peaq (PEAQ)**
+  - Market Cap Rank: 404
+  - Price (BTC): 5.5048553193366116e-06
+  - [More Info](https://www.coingecko.com/en/coins/peaq)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.4418592792138536e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
