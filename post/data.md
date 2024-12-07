@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 06:20:33 UTC
+**Last updated:** 2024-12-07 07:13:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99369 USD
-  - Market Cap: $1966511454487.4272 USD
-  - 24h Volume: $113480080010.15103 USD
-  - 24h Change: 1.300836702133054%
+- **Bitcoin (BTC)**: $99425 USD
+  - Market Cap: $1966965072773.3953 USD
+  - 24h Volume: $112965302242.63039 USD
+  - 24h Change: 1.5931866812375899%
 
-- **Ethereum (ETH)**: $3995.3 USD
-  - Market Cap: $481204998133.6683 USD
-  - 24h Volume: $50931735946.09065 USD
-  - 24h Change: 2.17654624519116%
+- **Ethereum (ETH)**: $3982.39 USD
+  - Market Cap: $479359441724.0523 USD
+  - 24h Volume: $48654577645.33856 USD
+  - 24h Change: 2.141967030049162%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 538
-  - Price (BTC): 5.281955060453328e-07
+  - Market Cap Rank: 535
+  - Price (BTC): 5.314923440153796e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 814
+  - Price (BTC): 7.119893279123323e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 42
+  - Price (BTC): 0.0001475661822623891
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 106
-  - Price (BTC): 2.2027481504904268e-05
+  - Market Cap Rank: 104
+  - Price (BTC): 2.2011384360885343e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Mog Coin (MOG)**
-  - Market Cap Rank: 104
-  - Price (BTC): 4.022796767069311e-11
+  - Market Cap Rank: 106
+  - Price (BTC): 3.894206211068676e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 41
-  - Price (BTC): 0.00015042692882004925
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
 - **Evan (EVAN)**
-  - Market Cap Rank: 828
-  - Price (BTC): 6.269016886451679e-07
+  - Market Cap Rank: 817
+  - Price (BTC): 6.40628574491677e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.8213579835765692e-05
+  - Market Cap Rank: 91
+  - Price (BTC): 1.797227543927391e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002372760656290448
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.4398624170327127e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 4.395863900738279e-05
+  - Price (BTC): 4.3594071893877526e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.04022850800196213
+  - Price (BTC): 0.04004662507808226
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Across Protocol (ACX)**
-  - Market Cap Rank: 249
-  - Price (BTC): 1.0287518374577243e-05
-  - [More Info](https://www.coingecko.com/en/coins/across-protocol)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.4527372039788212e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Orca (ORCA)**
-  - Market Cap Rank: 302
-  - Price (BTC): 6.532918230640368e-05
-  - [More Info](https://www.coingecko.com/en/coins/orca)
+- **Sushi (SUSHI)**
+  - Market Cap Rank: 279
+  - Price (BTC): 2.0220777407470314e-05
+  - [More Info](https://www.coingecko.com/en/coins/sushi)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.418886578932264e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Fantom (FTM)**
-  - Market Cap Rank: 50
-  - Price (BTC): 1.3775791226834476e-05
+  - Market Cap Rank: 52
+  - Price (BTC): 1.3593054326267465e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 174
-  - Price (BTC): 7.431533109328333e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.4645772813252097e-06
+  - Price (BTC): 3.4998376801651924e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 39
+  - Price (BTC): 0.007174312243643275
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 ## Posts
 - **Post ID: 1**
