@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 01:14:08 UTC
+**Last updated:** 2024-12-07 02:57:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $100353 USD
-  - Market Cap: $1987643861234.6316 USD
-  - 24h Volume: $123558848380.526 USD
-  - 24h Change: 2.942000000049948%
+- **Bitcoin (BTC)**: $100088 USD
+  - Market Cap: $1981645879977.8254 USD
+  - 24h Volume: $117149548493.52702 USD
+  - 24h Change: 2.4769316385906843%
 
-- **Ethereum (ETH)**: $4006.77 USD
-  - Market Cap: $483305422311.90894 USD
-  - 24h Volume: $54734752378.6005 USD
-  - 24h Change: 4.016813355325937%
+- **Ethereum (ETH)**: $3998.9 USD
+  - Market Cap: $482000266437.4441 USD
+  - 24h Volume: $53882621721.59043 USD
+  - 24h Change: 3.423326197967315%
 
 ## Trending Coins
-- **Evan (EVAN)**
-  - Market Cap Rank: 874
-  - Price (BTC): 5.642794058301039e-07
-  - [More Info](https://www.coingecko.com/en/coins/evan)
-
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 818
-  - Price (BTC): 7.02911479954019e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 757
-  - Price (BTC): 7.382924177453715e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 540
-  - Price (BTC): 5.148949017907967e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 664
-  - Price (BTC): 9.508821162631357e-07
+  - Market Cap Rank: 649
+  - Price (BTC): 9.962264522998729e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
+- **Self Chain (SLF)**
+  - Market Cap Rank: 917
+  - Price (BTC): 5.2352023140346165e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 527
+  - Price (BTC): 5.439536997459612e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
+
 - **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 4.1653433578026695e-05
+  - Market Cap Rank: 21
+  - Price (BTC): 4.259402783701937e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Mog Coin (MOG)**
-  - Market Cap Rank: 111
-  - Price (BTC): 3.709294924357781e-11
+  - Market Cap Rank: 106
+  - Price (BTC): 3.9649641151543016e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 104
+  - Price (BTC): 2.189784408546855e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Evan (EVAN)**
+  - Market Cap Rank: 848
+  - Price (BTC): 5.963356464525624e-07
+  - [More Info](https://www.coingecko.com/en/coins/evan)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 86
+  - Price (BTC): 1.8557576788580434e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.4653376410695856e-06
+  - Price (BTC): 3.4915153478832646e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.4519332702555505e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.835106186532329e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 107
-  - Price (BTC): 2.1211430838698435e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023550240403776633
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.3132219255819301e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.00013660161293836193
+  - Price (BTC): 0.00014213459981190195
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **PinLink (PIN)**
-  - Market Cap Rank: 485
-  - Price (BTC): 1.8956050924426e-05
-  - [More Info](https://www.coingecko.com/en/coins/pinlink)
+- **Chainlink (LINK)**
+  - Market Cap Rank: 17
+  - Price (BTC): 0.00025564227691872205
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.039953137597986355
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023569565447755098
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 39
+  - Price (BTC): 0.007092319150436646
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.719555683980658e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
